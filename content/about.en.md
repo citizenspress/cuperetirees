@@ -8,29 +8,32 @@ menu: main
 
 ---
 
-ENGLISH
 
-Hugo is a static site engine written in Go.
+Welcome to the CUPE Retirees’ Association (CRA).
 
+Please share your comments and questions with us anytime, and also please share with us photos and other content that you feel will be welcomed by your fellow CUPE retirees.
 
-It makes use of a variety of open source projects including:
+As set out in our By-Laws, the mandate of the CUPE Retiree’s Association is to safeguard and advance the economic welfare of its members. Our By-Laws identify several objectives to help us achieve this mandate:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+1. Act as the “voice” of retirees with CUPE and the staff unions.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+1. Respect the roles and responsibilities of the CUPE staff unions and work with them to promote the needs of CUPE retirees and surviving partners.
 
-## Setup
+1. Maintain active retiree representatives on the Joint Board of Trustees of the CUPE Employee Pension Plan and the Employee Assistance Plan Committee.
 
-Some fun facts about [Hugo](http://gohugo.io/):
+1. Implement active communication tools and networks, ensuring all member communications are issued in both official languages.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+1. Develop a dependable financial base and comprehensive administrative protocols to enable the Association to function as a cost efficient agent, using virtual and electronic tools wherever possible.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+1. Facilitate cooperative engagement and information sharing among the members.
 
-Thanks for reading!
+1. Provide a supportive role for members in need.
+
+1. Encourage all eligible retirees and surviving spouses to join and support the Association.
+
+The CUPE Retirees’ Association has no official status within the CUPE organization, but works collaboratively with all parties to achieve our mandated goals.
+
+ 
+1375, boul. St. Laurent Blvd.  
+Ottawa ON K1G 0Z7  
+[cuperetirees@gmail.com](mailto:cuperetirees@gmail.com)
