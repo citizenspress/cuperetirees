@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: master
+  branch: main
   site_url: https://cuperetirees.ca
   repo: citizenspress/cuperetirees # Path to your GitHub repository
   
