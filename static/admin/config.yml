@@ -1,6 +1,11 @@
 backend:
-  name: github
+  name: git-gateway
+  branch: master
+  site_url: https://www.bolajiayodeji.com
   repo: citizenspress/cuperetirees # Path to your GitHub repository
+  
+publish_mode: editorial_workflow
+
 media_folder: 'static/img/'
 public_folder: 'img'
 collections:
