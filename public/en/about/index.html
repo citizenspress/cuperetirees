@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
-<head>
+  <head>
+    
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -50,31 +63,10 @@ Setup Some fun facts about Hugo:
 		<span class="menu__btn-title" tabindex="-1">Menu</span>
 	</button>
 	<ul class="menu__list">
-		<li class="menu__item">
-			<a class="menu__link" href="/post/migrate-from-jekyll/">
-				
-				<span class="menu__text">Jekyll migration</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/post/goisforlovers/">
-				
-				<span class="menu__text">(Hu)go Template Primer</span>
-				
-			</a>
-		</li>
 		<li class="menu__item menu__item--active">
 			<a class="menu__link" href="/about/">
 				
 				<span class="menu__text">About Hugo</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/post/hugoisforlovers/">
-				
-				<span class="menu__text">Getting Started with Hugo</span>
 				
 			</a>
 		</li>

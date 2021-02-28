@@ -3,98 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/tags/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.fr/tags/basic-elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tags/basic-elements/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.fr/post/basic-elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/post/basic-elements/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/css/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.fr/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/development/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.fr/categories/development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/categories/development/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/html/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://example.fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://example.com/tags/html/"
-                />
-  </url>
-  
-  <url>
     <loc>https://example.com/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-28T16:57:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -109,7 +19,7 @@
   
   <url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-28T16:57:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -123,23 +33,18 @@
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <loc>https://example.com/post/test/</loc>
+    <lastmod>2021-02-28T16:57:13+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.fr/tags/"
+                href="https://example.fr/post/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://example.com/post/test/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -158,53 +63,31 @@
   </url>
   
   <url>
-    <loc>https://example.com/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://example.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/"
+                />
   </url>
   
   <url>
-    <loc>https://example.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/"
+                />
   </url>
   
 </urlset>

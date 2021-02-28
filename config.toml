@@ -17,6 +17,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
     title = "En Français"
     weight = 1
 
+
+
+
 [Author]
   name = "CUPE Retirees Association"
   bio = "The CUPE Retirees Association atcs as the voice of retirees with CUPE and the unions representing CUPE staff."
