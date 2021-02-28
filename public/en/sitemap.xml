@@ -5,11 +5,31 @@
   <url>
     <loc>https://example.com/tags/basic-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/tags/basic-elements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/basic-elements/"
+                />
   </url>
   
   <url>
     <loc>https://example.com/post/basic-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/post/basic-elements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/basic-elements/"
+                />
   </url>
   
   <url>
@@ -30,16 +50,46 @@
   <url>
     <loc>https://example.com/tags/css/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/css/"
+                />
   </url>
   
   <url>
     <loc>https://example.com/categories/development/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/categories/development/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/categories/development/"
+                />
   </url>
   
   <url>
     <loc>https://example.com/tags/html/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/tags/html/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/tags/html/"
+                />
   </url>
   
   <url>
@@ -60,6 +110,16 @@
   <url>
     <loc>https://example.com/post/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/post/"
+                />
   </url>
   
   <url>
@@ -85,6 +145,16 @@
   <url>
     <loc>https://example.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://example.fr/apropo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://example.com/about/"
+                />
   </url>
   
   <url>
