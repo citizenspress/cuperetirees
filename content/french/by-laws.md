@@ -3,7 +3,6 @@ title: Règlements
 date: 2019-04-09
 authorbox: false
 sidebar: false
-categories: Meeeting Info
 tags: []
 slug: reglements
 translationKey: bylaws

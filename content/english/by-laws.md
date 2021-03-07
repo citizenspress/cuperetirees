@@ -3,13 +3,9 @@ title: By-Laws
 date: 2019-04-09
 authorbox: false
 sidebar: false
-categories: Meeeting Info
-tags: []
 slug: by-laws
 translationKey: bylaws
 lead: These are the bylaws
-thumbnail: ''
-description: ''
 menu:
   main: {}
 

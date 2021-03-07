@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2021-02-28T16:57:13+00:00</lastmod>
+    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,8 +33,13 @@
   </url>
   
   <url>
+    <loc>/categories/news/</loc>
+    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2021-02-28T16:57:13+00:00</lastmod>
+    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -30,6 +50,11 @@
                 hreflang="en"
                 href="/post/"
                 />
+  </url>
+  
+  <url>
+    <loc>/post/testing/</loc>
+    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,6 +69,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="/post/test/"
+                />
+  </url>
+  
+  <url>
+    <loc>/by-laws/</loc>
+    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/reglements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/by-laws/"
                 />
   </url>
   
@@ -63,17 +103,8 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
+    <loc>/reports/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>

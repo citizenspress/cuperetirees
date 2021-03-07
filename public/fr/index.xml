@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>En Français</title>
+    <title>Association des retraités du SCFP</title>
     <link>/fr/</link>
-    <description>Recent content on En Français</description>
+    <description>Recent content on Association des retraités du SCFP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Feb 2021 16:57:13 +0000</lastBuildDate><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,16 @@
       
       <guid>/fr/post/test/</guid>
       <description>testset</description>
+    </item>
+    
+    <item>
+      <title>Règlements</title>
+      <link>/fr/reglements/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/fr/reglements/</guid>
+      <description>1. MANDATE The mandate of the CUPE Retiree’s Association is to safeguard and advance the economic welfare of its members.
+2. OBJECTIVES To achieve its mandate, the Association shall:</description>
     </item>
     
     <item>

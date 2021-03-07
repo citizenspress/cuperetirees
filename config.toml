@@ -7,12 +7,19 @@ disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [languages]
+
   [languages.en]
     contentDir = "content/english"
+    title = "CUPE Retirees Association"
+    subtitle = "subtitle"
     languageName = "English"
     weight = 10
+
+
   [languages.fr]
     contentDir = "content/french"
+    title = "Association des retraités du SCFP"
+    subtitle = "sub title french"
     languageName = "Français"
     weight = 20
 
@@ -32,7 +39,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   post_meta = ["date", "categories","translations"] # Order of post meta information
 
 [Params.logo]
-  subtitle = "CUPE Retirees Association" # Logo subtitle
+#  subtitle = "CUPE Retirees Association" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
