@@ -73,5 +73,3 @@ fields:
     required: false
   label: Post file name
   description: Post file name with language file.en or file.fr
-pages:
-- content/post/test-post.md
