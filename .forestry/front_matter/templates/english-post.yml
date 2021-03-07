@@ -9,6 +9,18 @@ fields:
     required: true
   label: Title
   description: This is the title of the post
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Post public link name
+  description: Post file name with language. If you set this, set translation key.
+- name: translationKey
+  type: text
+  config:
+    required: false
+  label: Translation Key
+  description: A unique identifier for translations.
 - name: lead
   type: textarea
   default: ''
@@ -67,9 +79,3 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: slug
-  type: text
-  config:
-    required: false
-  label: Post file name
-  description: Post file name with language file.en or file.fr
