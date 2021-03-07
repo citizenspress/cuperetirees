@@ -1,4 +1,74 @@
 ---
 label: English Post
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: This is the title of the post
+- name: lead
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description of post
+  description: 'The description of the post '
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  description: The image for the post.
+  label: Image
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+  description: Description for Google and other search engines.
+- name: categories
+  type: select
+  default: News
+  config:
+    required: true
+    options:
+    - News
+    - Meeeting Info
+    - Report
+    - Benefits
+    - Pensions
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Categories
+  description: Categories for the posts
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: Post tags that group like posts by content tags.
+- name: date
+  type: datetime
+  label: date
+  description: Date of the post
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Post file name
+  description: Post file name with language file.en or file.fr
