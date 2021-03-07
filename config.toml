@@ -5,18 +5,16 @@ paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
 [languages]
   [languages.en]
+    contentDir = "content/english"
     languageName = "English"
-    title = "In English"
-    weight = 2
+    weight = 10
   [languages.fr]
-#    baseURL = "https://example.fr"
+    contentDir = "content/french"
     languageName = "Français"
-    title = "En Français"
-    weight = 1
-
-
+    weight = 20
 
 
 [Author]
