@@ -2,7 +2,6 @@
 categories = "News"
 date = 2021-03-05T05:00:00Z
 description = "Look here, Google. We don't like you, but you can find information about the post here."
-draft = true
 lead = "this is a description of the post. The test post is not very long."
 slug = "testing.en"
 tags = []
