@@ -9,6 +9,9 @@ menu: main
 ---
 
 
+
+<iframe src="//unionresearch.ca/strikes/index.php?module=ext/public/form&id=1" width="100%" height="300"  frameborder="0" scrolling="auto" onLoad="window.scrollTo(0, 0)"></iframe>
+
 Welcome to the CUPE Retirees’ Association (CRA).
 
 Please share your comments and questions with us anytime, and also please share with us photos and other content that you feel will be welcomed by your fellow CUPE retirees.
