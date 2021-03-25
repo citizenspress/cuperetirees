@@ -9,6 +9,12 @@ menu: main
 ---
 
 
+<iframe src="https://rukovoditel.cupe.ca/strikes/index.php?module=ext/public/form&id=5" width="100%" height="300"  frameborder="0" scrolling="auto" onLoad="window.scrollTo(0, 0)"></iframe>
+
+
+old iframe
+
+
 
 <iframe src="https://unionresearch.ca/strikes/index.php?module=ext/public/form&id=1" width="100%" height="300"  frameborder="0" scrolling="auto" onLoad="window.scrollTo(0, 0)"></iframe>
 
@@ -20,19 +26,19 @@ As set out in our By-Laws, the mandate of the CUPE Retiree’s Association is to
 
 1. Act as the “voice” of retirees with CUPE and the staff unions.
 
-1. Respect the roles and responsibilities of the CUPE staff unions and work with them to promote the needs of CUPE retirees and surviving partners.
+2. Respect the roles and responsibilities of the CUPE staff unions and work with them to promote the needs of CUPE retirees and surviving partners.
 
-1. Maintain active retiree representatives on the Joint Board of Trustees of the CUPE Employee Pension Plan and the Employee Assistance Plan Committee.
+3. Maintain active retiree representatives on the Joint Board of Trustees of the CUPE Employee Pension Plan and the Employee Assistance Plan Committee.
 
-1. Implement active communication tools and networks, ensuring all member communications are issued in both official languages.
+4. Implement active communication tools and networks, ensuring all member communications are issued in both official languages.
 
-1. Develop a dependable financial base and comprehensive administrative protocols to enable the Association to function as a cost efficient agent, using virtual and electronic tools wherever possible.
+5. Develop a dependable financial base and comprehensive administrative protocols to enable the Association to function as a cost efficient agent, using virtual and electronic tools wherever possible.
 
-1. Facilitate cooperative engagement and information sharing among the members.
+6. Facilitate cooperative engagement and information sharing among the members.
 
-1. Provide a supportive role for members in need.
+7. Provide a supportive role for members in need.
 
-1. Encourage all eligible retirees and surviving spouses to join and support the Association.
+8. Encourage all eligible retirees and surviving spouses to join and support the Association.
 
 The CUPE Retirees’ Association has no official status within the CUPE organization, but works collaboratively with all parties to achieve our mandated goals.
 
