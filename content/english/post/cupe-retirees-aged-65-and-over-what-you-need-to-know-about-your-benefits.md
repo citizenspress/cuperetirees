@@ -2,7 +2,6 @@
 categories = "Report"
 date = 2021-06-07T04:00:00Z
 description = "CUPE staff retirees benefits post-65"
-draft = true
 lead = "Fact Sheet highlights how provincial health insurance plans impact prescription drug and eye exam Green Shields Canada benefits at age 65."
 slug = "CUPE Retirees 65 and Over Benefits"
 tags = []
