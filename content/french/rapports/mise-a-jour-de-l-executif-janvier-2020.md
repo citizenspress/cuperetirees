@@ -6,8 +6,8 @@ lead = "Votre Association des retraités vous souhaite une bonne année. Les nou
 slug = ""
 tags = []
 thumbnail = "/img/avatar.png"
-title = " Mise à jour de l’exécutif – janvier 2020"
-translationKey = "execreport2020"
+title = "Mise à jour de l’exécutif – janvier 2020"
+translationKey = "execupdate2020"
 
 +++
 Chères consœurs, chers confrères,
