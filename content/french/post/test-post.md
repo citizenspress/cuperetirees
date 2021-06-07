@@ -1,12 +1,13 @@
 +++
-categories = ["News"]
+categories = []
 date = 2021-03-05T05:00:00Z
-description = "Look here, Google. We don't like you, but you can find information about the post here."
+description = "French description"
 lead = "this is a description of the post. The test post is not very long."
-slug = "testing"
+slug = ""
 tags = []
 thumbnail = "/img/public-own.jpg"
 title = "Test Post"
+translationKey = "test2"
 
 +++
 This is some post language, just in french.
