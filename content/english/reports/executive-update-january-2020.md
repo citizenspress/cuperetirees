@@ -1,15 +1,15 @@
 +++
-categories = "Meeeting Info"
+categories = ["Meeeting Info"]
 date = 2021-06-07T04:00:00Z
 description = "On January 20th we reviewed our priorities for the year and approved a 2020 budget. Here is our executive report."
 lead = "Happy new year from your retirees’ association. Your new executive held its first face-to-face meeting at the Ottawa Area Office on January 20th where we reviewed our priorities for the year and approved a 2020 budget."
-slug = ""
 tags = ["Executive Report", " Budget"]
 thumbnail = "/img/avatar.png"
 title = "Executive Update January 2020"
 translationKey = "execupdate2020"
 
 +++
+
 Dear Sisters and Brothers,
 
 Happy new year from your retirees’ association. Your new executive held its first face-to-face meeting at the Ottawa Area Office on January 20th where we reviewed our priorities for the year and approved a 2020 budget.

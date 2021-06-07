@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "CUPE Retirees Association"
+title = "CUPE Staff Retirees Association"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -10,7 +10,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
   [languages.en]
     contentDir = "content/english"
-    title = "CUPE Retirees Association"
+    title = "CUPE Staff Retirees Association"
     subtitle = "subtitle"
     languageName = "English"
     weight = 10
