@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>/categories/</loc>
     <lastmod>2021-03-05T05:00:00+00:00</lastmod>
@@ -15,9 +14,7 @@
                 hreflang="en"
                 href="/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/</loc>
     <lastmod>2021-03-05T05:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,14 +27,20 @@
                 hreflang="en"
                 href="/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/news/</loc>
     <lastmod>2021-03-05T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/news/"
+                />
+  </url><url>
     <loc>/post/</loc>
     <lastmod>2021-03-05T05:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,14 +53,20 @@
                 hreflang="en"
                 href="/post/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/testing/</loc>
     <lastmod>2021-03-05T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/post/testing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/testing/"
+                />
+  </url><url>
     <loc>/post/test/</loc>
     <lastmod>2021-02-28T16:57:13+00:00</lastmod>
     <xhtml:link
@@ -70,9 +79,7 @@
                 hreflang="en"
                 href="/post/test/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/by-laws/</loc>
     <lastmod>2019-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -85,9 +92,7 @@
                 hreflang="en"
                 href="/by-laws/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -100,14 +105,10 @@
                 hreflang="en"
                 href="/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/reports/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,5 +121,4 @@
                 href="/tags/"
                 />
   </url>
-  
 </urlset>

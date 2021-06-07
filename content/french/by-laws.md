@@ -6,10 +6,9 @@ sidebar: false
 tags: []
 slug: reglements
 translationKey: bylaws
-lead: The bylaws in French.
-thumbnail: ''
-description: ''
-categories: News
+lead: "The bylaws in French."
+description: "this is a description"
+categories: ["News"]
 menu:
   main: {}
 
