@@ -39,6 +39,16 @@
   </url><url>
     <loc>/categories/meeeting-info/</loc>
     <lastmod>2021-06-07T04:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/meeeting-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/meeeting-info/"
+                />
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-06-07T04:00:00+00:00</lastmod>
