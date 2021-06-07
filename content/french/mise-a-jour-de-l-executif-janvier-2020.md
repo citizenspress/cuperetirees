@@ -1,5 +1,5 @@
 +++
-categories = "Meeeting Info"
+categories = ["Meeeting Info"}
 date = 2021-06-07T04:00:00Z
 description = "Votre Association des retraités vous souhaite une bonne année. Les nouveaux membres de votre conseil exécutif se sont réunis pour la première fois en personne le 20 janvier, au bureau d’Ottawa.  Au cours de cette rencontre, nous avons examiné nos priorités pour l’année et approuvé un budget pour 2020."
 lead = "Votre Association des retraités vous souhaite une bonne année. Les nouveaux membres de votre conseil exécutif se sont réunis pour la première fois en personne le 20 janvier, au bureau d’Ottawa.  Au cours de cette rencontre, nous avons examiné nos priorités pour l’année et approuvé un budget pour 2020."
