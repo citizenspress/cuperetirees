@@ -57,23 +57,11 @@ fields:
   label: Description
   description: Description for Google and other search engines.
 - name: categories
-  type: select
-  default: News
-  config:
-    required: true
-    options:
-    - News
-    - Meeeting Info
-    - Report
-    - Benefits
-    - Pensions
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: tag_list
+  default: []
   label: Categories
-  description: Categories for the posts
+  description: 'A list of categories. Include: News, Meeting Info, Report, Benefits,
+    Pensions'
 - name: tags
   type: tag_list
   default: []
