@@ -9,6 +9,7 @@ translationKey: bylaws
 lead: The bylaws in French.
 thumbnail: ''
 description: ''
+categories: News
 menu:
   main: {}
 
