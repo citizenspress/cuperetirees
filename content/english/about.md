@@ -3,6 +3,13 @@ title: About Hugo
 date: 2014-04-09
 authorbox: false
 sidebar: false
+categories: News
+tags: []
+translationKey: about
+slug: ''
+lead: ''
+thumbnail: ''
+description: ''
 
 ---
 Welcome to the CUPE Retirees’ Association (CRA).

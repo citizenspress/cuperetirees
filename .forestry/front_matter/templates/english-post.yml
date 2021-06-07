@@ -80,5 +80,6 @@ fields:
     time_format: 
     display_utc: false
 pages:
+- content/english/about.md
 - content/english/by-laws.md
 - content/french/by-laws.md
