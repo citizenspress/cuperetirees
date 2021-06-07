@@ -31,6 +31,15 @@ fields:
       format: markdown
   label: Description of post
   description: 'The description of the post '
+- name: date
+  type: datetime
+  label: date
+  description: Date of the post
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: thumbnail
   type: file
   config:
@@ -70,15 +79,6 @@ fields:
   default: []
   label: Tags
   description: Post tags that group like posts by content tags.
-- name: date
-  type: datetime
-  label: date
-  description: Date of the post
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
 pages:
 - content/english/by-laws.md
 - content/english/post/cupe-retirees-aged-65-and-over-what-you-need-to-know-about-your-benefits.md
