@@ -13,6 +13,10 @@ translationKey = "Executive"
 +++
 ## **CONSEIL EXÉCUTIF 2020-2023**
 
+#### **1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7** 
+
+#### **cuperetirees@gmail.com**
+
 **ADMINISTRATEURS**
 
 **Présidente**  
@@ -25,7 +29,7 @@ Shelly Gordon
 
 **Secrétaire**  
 Carole Lefebvre  
-[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca) 
+[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
 819-210-1786 (mobile)
 
