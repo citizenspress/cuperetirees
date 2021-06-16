@@ -11,81 +11,73 @@ title = "CRSA Executive"
 translationKey = "Executive"
 
 +++
-### **EXECUTIVE BOARD**  
- **2020-2023**
+### **EXECUTIVE BOARD**
+
+**2020-2023**
 
 #### 
 
 #### **OFFICERS**
 
 **President**  
- Patricia Daley  
- [patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)  
- 
+Patricia Daley  
+[patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)
 
-**Vice-President**   
- Shelly Gordon  
- [shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)  
- 
+**Vice-President**  
+Shelly Gordon  
+[shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)
 
 **Secretary**  
- Carole Lefebvre  
- [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)  
- 819-210-1786 (cell)
+Carole Lefebvre  
+[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)  
+819-210-1786 (cell)
 
-**Treasurer**   
- Barry Thorsteinson  
- [barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)  
- 613-835-3495 (home)  
- 613-293-4775 (cell)
+**Treasurer**  
+Barry Thorsteinson  
+[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)  
+613-293-4775 (cell)
 
 #### 
 
 #### **CHAPTER REPRESENTATIVES**
 
 **Newfoundland**  
- Brian Farewell  
- [bfarewell@live.ca](mailto:bfarewell@live.ca)  
- 709-689-4761 (cell)  
- 709-364-2513 (home)
+Brian Farewell  
+[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)  
+709-689-4761 (cell)
 
 **New Brunswick & P.E.I.**  
- Clifford Hay  
- [chayn609@rogers.com](mailto:chayn609@rogers.com)  
- 506-458-1457 (home)  
- 506-461-6226 (cell)
+Clifford Hay  
+[chayn609@rogers.com](mailto:chayn609@rogers.com)  
+506-461-6226 (cell)
 
-**Nova Scotia**   
- John McCracken  
- [bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)  
- 
+**Nova Scotia**  
+John McCracken  
+[bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
 
 **Quebec**  
- Francine Barrette  
- [fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)  
- 514-726-1694 (cell)
+Francine Barrette  
+[fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)  
+514-726-1694 (cell)
 
 **Ontario**  
- Kathy Johnson  
- [cuperetireesont@gmail.com](mailto:cuperetireesont@gmail.com)
+Kathy Johnson  
+[cuperetireesont@gmail.com](mailto:cuperetireesont@gmail.com)
 
 **Manitoba**  
- Maureen Morrison  
- [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)  
- 204-775-1343 (home)  
- 204-930-3979 (cell)
+Maureen Morrison  
+[maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)  
+204-930-3979 (cell)
 
 **Saskatchewan**  
- Andrew Huculak  
- [andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)  
- 
+Andrew Huculak  
+[andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)
 
 **Alberta**  
- Daunine Rachert  
- [dauninerachert@gmail.com](mailto:dauninerachert@gmail.com)
+Daunine Rachert  
+[dauninerachert@gmail.com](mailto:dauninerachert@gmail.com)
 
-**British Columbia**   
- Timon Azmier  
- [tazmier@shaw.ca](mailto:tazmier@shaw.ca)  
- 604-942-4058 (home)  
- 604-787-4851 (cell)
+**British Columbia**  
+Timon Azmier  
+[tazmier@shaw.ca](mailto:tazmier@shaw.ca)  
+604-787-4851 (cell)
