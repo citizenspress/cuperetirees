@@ -1,7 +1,7 @@
 +++
 categories = []
 date = 2021-06-16T18:49:43Z
-description = ""
+description = "CSRA; Mandate; Purpose"
 draft = true
 lead = "The mandate and purpose of CSRA"
 slug = "About CSRA"
