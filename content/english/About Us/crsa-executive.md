@@ -7,7 +7,7 @@ lead = "Contact information for officers and regional representatives"
 slug = "Officers and regional representatives"
 tags = []
 thumbnail = ""
-title = "CRSA Executive"
+title = "CRSA Executive 2020-2023"
 translationKey = "Executive"
 
 +++
