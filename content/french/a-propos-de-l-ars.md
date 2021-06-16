@@ -8,7 +8,7 @@ slug = "À propos de l’ARS"
 tags = []
 thumbnail = ""
 title = "À propos de l’ARS"
-translationKey = ""
+translationKey = "About"
 
 +++
 Bienvenue sur le site Web de l’**Association des retraités du SCFP**.
