@@ -68,6 +68,7 @@ fields:
   label: Tags
   description: Post tags that group like posts by content tags.
 pages:
+- content/english/about-csra-copy.md
 - content/english/about-the-cupe-staff-retirees-association.md
 - content/english/by-laws.md
 - content/english/post/cupe-retirees-aged-65-and-over-what-you-need-to-know-about-your-benefits.md
