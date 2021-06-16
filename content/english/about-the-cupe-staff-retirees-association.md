@@ -8,7 +8,7 @@ slug = "About CSRA"
 tags = []
 thumbnail = ""
 title = "About the CUPE Staff Retirees Association"
-translationKey = ""
+translationKey = "About"
 
 +++
 About
