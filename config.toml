@@ -11,7 +11,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   [languages.en]
     contentDir = "content/english"
     title = "CUPE Staff Retirees Association"
-    subtitle = "subtitle"
+    subtitle = "The voice of CUPE Staff Retirees"
     languageName = "English"
     weight = 10
     [languages.en.Author]
@@ -44,7 +44,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   readmore = true # Show "Read more" button in list if true
   authorbox = true
   pager = true
-  post_meta = ["date", "categories","translations"] # Order of post meta information
+  post_meta = ["date", "categories","translations"] # Order of post meta infor
+  mainSections = ['post']
 
 [Params.logo]
 #  subtitle = "CUPE Retirees Association" # Logo subtitle

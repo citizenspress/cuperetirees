@@ -1,14 +1,15 @@
 +++
 categories = []
 date = 2021-06-16T04:00:00Z
-description = "Officers and executive members"
-draft = true
-lead = "Contact information for officers and regional representatives"
-slug = "Officers and regional representatives"
+description = "About"
+draft = false
+lead = ""
+slug = "about"
 tags = []
 thumbnail = ""
 title = "CRSA Executive 2020-2023"
-translationKey = "Executive"
+translationKey = "about"
+menu = "main"
 
 +++
 ### **EXECUTIVE BOARD**
