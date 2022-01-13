@@ -2,7 +2,6 @@
 categories = []
 date = 2021-06-16T04:00:00Z
 description = "Membership information"
-draft = true
 lead = ""
 slug = "membership"
 tags = []
@@ -13,6 +12,8 @@ translationKey = "membership"
 [menu.main]
 
 +++
+## Membership in the CUPE Staff Retirees' Association
+
 The CUPE Staff Retirees’ Association (CSRA) represents all CUPE retirees.
 
 In order for retirees to receive communications directly from the CSRA, nominate candidates, and vote in elections, you must be a dues paying member and have a signed CSRA Membership form on file.
