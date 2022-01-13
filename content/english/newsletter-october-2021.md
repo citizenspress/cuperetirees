@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-12T05:00:00Z
 description = ""
-draft = true
 lead = "Report from fall executive meeting"
 slug = ""
 tags = []
