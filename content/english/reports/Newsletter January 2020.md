@@ -2,7 +2,6 @@
 categories = ["Meeting Info"]
 date = 2021-06-07T04:00:00Z
 description = "On January 20th we reviewed our priorities for the year and approved a 2020 budget. Here is our executive report."
-draft = true
 lead = "Happy new year from your retirees’ association. Your new executive held its first face-to-face meeting at the Ottawa Area Office on January 20th where we reviewed our priorities for the year and approved a 2020 budget."
 slug = ""
 tags = ["Executive Report", " Budget"]
