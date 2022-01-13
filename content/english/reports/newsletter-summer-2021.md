@@ -6,13 +6,12 @@ draft = true
 lead = "Report from Exec meeting spring 2021"
 slug = "Newslettersummer2021"
 tags = []
-thumbnail = ""
+thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Newsletter Summer 2021"
 translationKey = ""
 
 +++
-
-Newsletter Summer 2021
+## Newsletter Summer 2021
 
 Dear Sisters and Brothers,
 
