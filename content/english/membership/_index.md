@@ -2,15 +2,14 @@
 categories = []
 date = 2021-06-16T04:00:00Z
 description = "Membership information"
-draft = false
 lead = ""
 slug = "membership"
 tags = []
 thumbnail = ""
 title = "Membership"
-translationKey = "membership"
-menu = "main"
 toc = true
+translationKey = "membership"
+[menu.main]
 
 +++
 The CUPE Retirees’ Association (CRA) represents all CUPE retirees.
