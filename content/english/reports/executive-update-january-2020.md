@@ -6,8 +6,8 @@ lead = "Happy new year from your retirees’ association. Your new executive hel
 slug = ""
 tags = ["Executive Report", " Budget"]
 thumbnail = "/img/avatar.png"
-title = "Executive Update January 2020"
-translationKey = "execupdate2020"
+title = "Newsletter January 2020"
+translationKey = "Newsletterjan2020"
 
 +++
 Dear Sisters and Brothers,
