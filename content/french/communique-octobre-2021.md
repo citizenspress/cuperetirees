@@ -7,11 +7,11 @@ lead = ""
 slug = "communiqueoct2021"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
-title = "Communique octobre 2021"
+title = "Communiqué octobre 2021"
 translationKey = "communiqueoct2021"
 
 +++
-**Communiqué** / Le 28 octobre 2021
+## **Communiqué** / Le 28 octobre 2021
 
 Objet : Congrès national du SCFP et d’autres nouvelles de votre association des retraités
 
