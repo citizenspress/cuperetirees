@@ -5,12 +5,12 @@ description = ""
 lead = "Executive report fall 2020"
 slug = ""
 tags = []
-thumbnail = ""
+thumbnail = "/img/avatar.png"
 title = "Newsletter Fall 2020"
 translationKey = "Newsletterfall2020"
 
 +++
-**Newsletter Fall 2020**
+## Newsletter Fall 2020
 
 Dear Sisters and Brothers,
 
@@ -102,9 +102,7 @@ If you are interested, have the necessary skills, and can maintain a bilingual w
 
 **Stay in touch**
 
-We have had communication from a couple of members asking how they can keep in touch with other retirees. While we cannot release personal contact information, we do have a Facebook page that this year has gone from 50 members to 190. Thanks to all. If you haven’t yet and are on Facebook, look up CUPE Retirees and send a request to join the group. Not only is it a good place to share news and information, you can message other members privately. A French Facebook page that is not administered by the Association has also been created. It is called Retraitées et retraités du SCFP.   
-   
- 
+We have had communication from a couple of members asking how they can keep in touch with other retirees. While we cannot release personal contact information, we do have a Facebook page that this year has gone from 50 members to 190. Thanks to all. If you haven’t yet and are on Facebook, look up CUPE Retirees and send a request to join the group. Not only is it a good place to share news and information, you can message other members privately. A French Facebook page that is not administered by the Association has also been created. It is called Retraitées et retraités du SCFP.
 
 Going forward, retirees who join CRA will receive a personal email with information about the association.
 
