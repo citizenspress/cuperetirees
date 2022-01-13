@@ -10,6 +10,9 @@ title = "Newsletter January 2020"
 translationKey = "Newsletterjan2020"
 
 +++
+
+## Newsletter January 2020
+
 Dear Sisters and Brothers,
 
 Happy new year from your retirees’ association. Your new executive held its first face-to-face meeting at the Ottawa Area Office on January 20th where we reviewed our priorities for the year and approved a 2020 budget.
