@@ -68,6 +68,7 @@ fields:
   label: Tags
   description: Post tags that group like posts by content tags.
 pages:
+- content/english/Newsletters/newsletter-fall-2021.md
 - content/english/by-laws.md
 - content/english/newsletter-october-2021.md
 - content/english/reports/Newsletter January 2020.md
