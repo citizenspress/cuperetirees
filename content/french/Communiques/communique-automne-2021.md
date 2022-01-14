@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-14T05:00:00Z
 description = ""
-draft = true
 lead = ""
 slug = "Communiqué / Le 28 octobre 2021"
 tags = []
