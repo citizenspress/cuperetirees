@@ -2,7 +2,6 @@
 categories = ["News", " Meeting", "Executive", "2021"]
 date = 2022-01-14T05:00:00Z
 description = ""
-draft = true
 lead = "Report from CSRA Executive meeting October 2021"
 slug = "newsletterfall2021"
 tags = []
