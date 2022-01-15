@@ -2,14 +2,13 @@
 categories = []
 date = 2021-06-16T04:00:00Z
 description = "Officers and executive members"
-draft = false
 lead = "Contact information for officers and regional representatives"
 slug = "Officers and regional representatives"
 tags = []
 thumbnail = ""
-title = "Executive"
+title = "CSRA Executive 2020-2023"
 translationKey = "executive"
-menu = "main"
+[menu.main]
 
 +++
 ### **EXECUTIVE BOARD**
@@ -18,7 +17,7 @@ menu = "main"
 
 #### **cuperetirees@gmail.com**
 
-#### **1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7** 
+#### **1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7**
 
 #### **OFFICERS**
 
@@ -77,8 +76,8 @@ Andrew Huculak
 [andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)
 
 **Alberta**  
-Daunine Rachert  
-[dauninerachert@gmail.com](mailto:dauninerachert@gmail.com)
+Judy Barry  
+[daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
 **British Columbia**  
 Timon Azmier  
