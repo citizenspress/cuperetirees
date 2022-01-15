@@ -10,7 +10,7 @@ title = "ARS Communiqué janvier 2020"
 translationKey = "Communiquéjanvier2020"
 
 +++
-**Association des retraités du SCFP – Bulletin d’information pour les membres, janvier 2020**
+## Association des retraités du SCFP – Bulletin d’information pour les membres, janvier 2020
 
 Chères consœurs, chers confrères,
 
