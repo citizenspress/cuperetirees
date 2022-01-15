@@ -6,14 +6,14 @@ draft = true
 lead = "lLARS s’engage à protéger et à promouvoir le bien-être économique de ses membres. "
 slug = "À propos de l’ARS"
 tags = []
-thumbnail = ""
+thumbnail = "/img/csra_aprs-logo.jpg"
 title = "À propos de l’ARS"
 translationKey = "About"
 
 +++
-Bienvenue sur le site Web de l’**Association des retraités du SCFP**.
+Bienvenue sur le site Web de l’**Association du personnel retraité du SCFP**.
 
-Comme l’indiquent nos [Règlements](https://retraitesduscfp.ca/by-laws/), **l’ARS s’engage à protéger et à promouvoir le bien-être économique de ses membres**. Pour nous aider à nous acquitter de ce mandat, les Règlements cernent un certain nombre d’objectifs :
+Comme l’indiquent nos [Règlements](https://retraitesduscfp.ca/by-laws/), **l’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres**. Pour nous aider à nous acquitter de ce mandat, les Règlements cernent un certain nombre d’objectifs :
 
 1\. Être la porte-parole des retraités auprès du SCFP et des syndicats d’employés.
 
@@ -31,4 +31,4 @@ Comme l’indiquent nos [Règlements](https://retraitesduscfp.ca/by-laws/), **l�
 
 8\. Encourager tous les retraités admissibles et leurs conjoints survivants à adhérer l’Association et à l’appuyer.
 
-L’**Association des retraités du SCFP** n’a aucun statut officiel au sein de l’organisation du SCFP, mais elle travaille en collaboration avec toutes les parties pour atteindre les objectifs qu’elle s’est fixé dans son mandat.
+L’**Association du personnel retraité SCFP** n’a aucun statut officiel au sein de l’organisation du SCFP, mais elle travaille en collaboration avec toutes les parties pour atteindre les objectifs qu’elle s’est fixé dans son mandat.
