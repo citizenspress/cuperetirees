@@ -1,13 +1,14 @@
 +++
 categories = []
 date = 2021-06-16T04:00:00Z
-description = ""
+description = "lLARS s’engage à protéger et à promouvoir le bien-être économique de ses membres."
 lead = "lLARS s’engage à protéger et à promouvoir le bien-être économique de ses membres. "
 slug = "À propos de l’ARS"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "À propos de l’ARS"
 translationKey = "about"
+[menu.main]
 
 +++
 Bienvenue sur le site Web de l’**Association du personnel retraité du SCFP**.

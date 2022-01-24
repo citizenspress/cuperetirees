@@ -7,7 +7,8 @@ slug = "APRS Règlements"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Règlements "
-translationKey = ""
+translationKey = "by-laws"
+[menu.main]
 
 +++
 ## Association du personnel retraité du SCFP (APRS)

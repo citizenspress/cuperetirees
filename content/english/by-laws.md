@@ -2,7 +2,7 @@
 title: By-Laws
 date: 2022-01-15T05:00:00+00:00
 authorbox: false
-sidebar: false
+sidebar: true
 slug: by-laws
 translationKey: bylaws
 lead: ''

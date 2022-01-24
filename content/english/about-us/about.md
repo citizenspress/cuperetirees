@@ -2,7 +2,7 @@
 categories = []
 date = 2021-06-16T04:00:00Z
 description = "About"
-lead = ""
+lead = "About"
 slug = "about"
 tags = []
 thumbnail = ""
