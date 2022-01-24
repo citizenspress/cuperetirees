@@ -1,4 +1,4 @@
-{{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#e4862e") -}}
+{{- $highlightColor := .Site.Params.style.vars.highlightColor | default (.Site.Params.highlightColor | default "#000040") -}}
 
 {{- $fontSans := `"Open Sans", Helvetica, Arial, sans-serif` -}}
 {{- $fontMono := `SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace` -}}
@@ -500,7 +500,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .menu__list {
 	list-style: none;
-	background: #69152f;
+	background: #af0061;
 }
 
 .menu__item:hover {

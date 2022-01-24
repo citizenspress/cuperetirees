@@ -10,35 +10,35 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
   [languages.en]
     contentDir = "content/english"
-    title = "CUPE Staff Retirees Association"
-    subtitle = "The voice of CUPE Staff Retirees"
+    title = "CUPE Staff Retirees' Association"
+#    subtitle = "The voice of CUPE Staff Retirees"
     languageName = "English"
     weight = 10
     [languages.en.Author]
-    bio = "The CUPE Retirees Association atcs as the voice of retirees with CUPE and the unions representing CUPE staff."
-    name = "CUPE Retirees Association"
+    bio = "The CUPE Staff Retirees' Association acts as the voice of retirees with CUPE and the unions representing CUPE staff."
+    name = "CUPE Staff Retirees' Association"
     avatar = "img/avatar.png"
 
 
   [languages.fr]
     contentDir = "content/french"
-    title = "Association des retraités du SCFP"
-    subtitle = "sub title french"
+    title = "Association du personnel retraité du SCFP"
+    subtitle = ""
     languageName = "Français"
     weight = 20
     [languages.fr.Author]
     bio = "french bio"
-    name = "Association des retraités du SCFP"
+    name = "Association du personnel retraité du SCFP"
     avatar = "img/avatar.png"
 
 
 [Author]
-  name = "CUPE Retirees Association"
-  bio = "The CUPE Retirees Association atcs as the voice of retirees with CUPE and the unions representing CUPE staff."
+  name = "CUPE Staff Retirees Association"
+  bio = "The CUPE Retirees Association acts as the voice of retirees with CUPE and the unions representing CUPE staff."
   avatar = "img/avatar.png"
 
 [Params]
-  description = "The CUPE Retirees Association atcs as the voice of retirees with CUPE and the unions representing CUPE staff." # Description of your site
+  description = "The CUPE Staff Retirees Association acts as the voice of retirees with CUPE and the unions representing CUPE staff." # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = true # Show "Read more" button in list if true
@@ -49,6 +49,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Params.logo]
 #  subtitle = "CUPE Retirees Association" # Logo subtitle
+image = "img/avatar.png"
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page

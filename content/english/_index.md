@@ -1,18 +1,18 @@
 +++
-categories = []
 date = 2021-06-16T04:00:00Z
-description = "About"
+description = ""
 lead = ""
-slug = "about"
+slug = ""
 tags = []
 thumbnail = ""
-title = "Welcome to the CUPE Staff Retirees’ Association (CRA)"
-translationKey = "about"
-linkTitle = "about"
-[menu.main]
+title = ""
+
+translationKey = ""
+
 
 +++
-## Welcome to the CUPE Staff Retirees’ Association (CRA)
+
+## Welcome to the CUPE Staff Retirees’ Association (CSRA)
 
 Please share your comments and questions with us anytime, and also please share with us photos and other content that you feel will be welcomed by your fellow CUPE retirees.
 
