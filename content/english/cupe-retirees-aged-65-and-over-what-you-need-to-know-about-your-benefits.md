@@ -11,3 +11,4 @@ title = "CUPE Retirees Aged 65 and Over: What You Need to Know About Your Benefi
 translationKey = "CUPERetireesAged65andOverBenefits"
 
 +++
+[fact_sheet_retiree_benefits_april_2020.pdf](/img/fact_sheet_retiree_benefits_april_2020.pdf "fact_sheet_retiree_benefits_april_2020.pdf")
