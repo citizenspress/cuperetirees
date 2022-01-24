@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-23T05:00:00Z
 description = ""
-draft = true
 lead = "États financiers 2020"
 slug = "États financiers 2020"
 tags = []
@@ -11,7 +10,6 @@ title = "APRS États financiers 2020"
 translationKey = "Étatsfinanciers2020"
 
 +++
-
 **Association des retraités du SCFP**
 
 **États financiers 2020**
