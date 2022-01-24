@@ -7,7 +7,7 @@ slug = "Newsletter Fall 2021"
 tags = ["2021"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Newsletter Fall 2021"
-translationKey = "newsletterfall2021"
+translationKey = "Communiquéautomne2021"
 
 +++
 ## CSRA Newsletter Fall 2021
