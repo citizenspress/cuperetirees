@@ -2,11 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fr/mise-a-jour-de-l-executif-janvier-2020/</loc>
-    <lastmod>2021-06-07T04:00:00+00:00</lastmod>
+    <loc>/fr/membres/formulaire-daffiliation/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/finances/%C3%A9tats-financiers-2020/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/financials/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/finances/%C3%A9tats-financiers-2020/"
+                />
   </url><url>
     <loc>/fr/</loc>
-    <lastmod>2021-06-07T04:00:00+00:00</lastmod>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,8 +31,150 @@
                 href="/fr/"
                 />
   </url><url>
+    <loc>/fr/tags/assurance-maladie/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/d%C3%A9penses/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/examens-de-la-vue/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/finances/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/financials/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/finances/"
+                />
+  </url><url>
+    <loc>/fr/tags/financiers/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/garanties/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/imp%C3%B4t-sant%C3%A9/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/"
+                />
+  </url><url>
+    <loc>/fr/membres/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/m%C3%A9dicaments-sur-ordonnance/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/primes/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/rapports/primes-de-r%C3%A9gimes-dassurance-maladie-et-imp%C3%B4t-sant%C3%A9-par-province-2020/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/rapports/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/rapports/retrait%C3%A9s-du-scfp-%C3%A2g%C3%A9s-de-65-ans-et-plus-ce-que-vous-devez-savoir-au-sujet-de-vos-garanties/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/revenu/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/</loc>
+    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+  </url><url>
+    <loc>/fr/conseil-executif-2020-2023/</loc>
+    <lastmod>2022-01-15T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/conseil-executif-2020-2023/conseil-ex%C3%A9cutif-2020-2023/</loc>
+    <lastmod>2022-01-15T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/r%C3%A8glements/</loc>
+    <lastmod>2022-01-15T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/r%C3%A8glements/aprs-r%C3%A8glements/</loc>
+    <lastmod>2022-01-15T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/2020/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/2020/"
+                />
+  </url><url>
+    <loc>/fr/tags/2021/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/2021/"
+                />
+  </url><url>
+    <loc>/fr/communiques/communiqu%C3%A9-janvier-2020/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/newsletters/newsletter-january-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/communiques/communiqu%C3%A9-janvier-2020/"
+                />
+  </url><url>
+    <loc>/fr/communiques/bulletin-dinformation-automne-2020/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/newsletters/newsletter-fall-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/communiques/bulletin-dinformation-automne-2020/"
+                />
+  </url><url>
     <loc>/fr/categories/</loc>
-    <lastmod>2021-06-07T04:00:00+00:00</lastmod>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,97 +186,101 @@
                 href="/fr/categories/"
                 />
   </url><url>
-    <loc>/fr/categories/meeeting-info/</loc>
-    <lastmod>2021-06-07T04:00:00+00:00</lastmod>
+    <loc>/fr/categories/communiqu%C3%A9/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/meeeting-info/"
+                href="/newsletters/newsletter-fall-2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/meeeting-info/"
+                href="/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/"
                 />
   </url><url>
-    <loc>/fr/categories/news/</loc>
-    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
+    <loc>/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/news/"
+                href="/newsletters/newsletter-summer-2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/news/"
+                href="/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/"
                 />
   </url><url>
-    <loc>/fr/post/</loc>
-    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
+    <loc>/fr/communiques/communiqu%C3%A9-mars-2020/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/"
+                href="/newsletters/newsletter-march-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/post/"
+                href="/fr/communiques/communiqu%C3%A9-mars-2020/"
                 />
   </url><url>
-    <loc>/fr/post/testing/</loc>
-    <lastmod>2021-03-05T05:00:00+00:00</lastmod>
+    <loc>/fr/tags/finaciers/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/fr/tags/green-shield/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/testing/"
+                href="/tags/green-shield/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/post/testing/"
+                href="/fr/tags/green-shield/"
                 />
   </url><url>
-    <loc>/fr/post/test/</loc>
-    <lastmod>2021-02-28T16:57:13+00:00</lastmod>
+    <loc>/fr/finances/%C3%A9tats-financiers-2019/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/post/test/"
+                href="/financials/finance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/post/test/"
+                href="/fr/finances/%C3%A9tats-financiers-2019/"
                 />
   </url><url>
-    <loc>/fr/reglements/</loc>
-    <lastmod>2019-04-09T00:00:00+00:00</lastmod>
+    <loc>/fr/communiques/</loc>
+    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/by-laws/"
+                href="/newsletters/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/reglements/"
+                href="/fr/communiques/"
                 />
   </url><url>
-    <loc>/fr/apropo/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/fr/tags/</loc>
+    <loc>/fr/%C3%A0-propos-de-lars/</loc>
+    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/about-us/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="/fr/%C3%A0-propos-de-lars/"
                 />
   </url>
 </urlset>

@@ -1,10 +1,128 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Association des retraités du SCFP</title>
+    <title>Tags on Association du personnel retraité du SCFP</title>
     <link>/fr/tags/</link>
-    <description>Recent content in Tags on Association des retraités du SCFP</description>
+    <description>Recent content in Tags on Association du personnel retraité du SCFP</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Jan 2022 05:00:00 +0000</lastBuildDate><atom:link href="/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>assurance maladie</title>
+      <link>/fr/tags/assurance-maladie/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/assurance-maladie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dépenses</title>
+      <link>/fr/tags/d%C3%A9penses/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/d%C3%A9penses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>examens de la vue</title>
+      <link>/fr/tags/examens-de-la-vue/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/examens-de-la-vue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>financiers</title>
+      <link>/fr/tags/financiers/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/financiers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>garanties</title>
+      <link>/fr/tags/garanties/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/garanties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>impôt-santé</title>
+      <link>/fr/tags/imp%C3%B4t-sant%C3%A9/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/imp%C3%B4t-sant%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>médicaments sur ordonnance </title>
+      <link>/fr/tags/m%C3%A9dicaments-sur-ordonnance/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/m%C3%A9dicaments-sur-ordonnance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primes</title>
+      <link>/fr/tags/primes/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/primes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>revenu</title>
+      <link>/fr/tags/revenu/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/revenu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>/fr/tags/2020/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021</title>
+      <link>/fr/tags/2021/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finaciers</title>
+      <link>/fr/tags/finaciers/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/finaciers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Green Shield</title>
+      <link>/fr/tags/green-shield/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/green-shield/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,64 +1,206 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Association des retraités du SCFP</title>
+    <title>Association du personnel retraité du SCFP</title>
     <link>/fr/</link>
-    <description>Recent content on Association des retraités du SCFP</description>
+    <description>Recent content on Association du personnel retraité du SCFP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jun 2021 04:00:00 +0000</lastBuildDate><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 05:00:00 +0000</lastBuildDate><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title> Mise à jour de l’exécutif – janvier 2020</title>
-      <link>/fr/mise-a-jour-de-l-executif-janvier-2020/</link>
-      <pubDate>Mon, 07 Jun 2021 04:00:00 +0000</pubDate>
+      <title>APRS Formulaire d&#39;affiliation 2022</title>
+      <link>/fr/membres/formulaire-daffiliation/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/mise-a-jour-de-l-executif-janvier-2020/</guid>
-      <description>Chères consœurs, chers confrères,
+      <guid>/fr/membres/formulaire-daffiliation/</guid>
+      <description>membership-form.pdf</description>
+    </item>
+    
+    <item>
+      <title>APRS États financiers 2020</title>
+      <link>/fr/finances/%C3%A9tats-financiers-2020/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/finances/%C3%A9tats-financiers-2020/</guid>
+      <description>Association des retraités du SCFP
+États financiers 2020
+Solde reporté au 1er janvier 2020 8 023,49 $
+Revenus
+Cotisations annuelles des membres de RBC Dexia 14 150,00 $
+Nouveaux membres (payés séparément
+Par chèque ou comptant) 4 x 25 $ 100,00 $
+Contribution du SCFP pour 2018 et 2019 (85 @ 25$) 2 125,00 $
+Contribution du SCP 2018 et 2019 850,00 $
+Total des revenus 17 225,00$
+Total (revenus et solde reporté) : 25 248,49 $</description>
+    </item>
+    
+    <item>
+      <title>Les répercussions des régimes provinciaux d’assurance maladie sur les garanties dont bénéficient les retraités du SCFP à partir de l’âge de 65 ans</title>
+      <link>/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/</guid>
+      <description>PDF</description>
+    </item>
+    
+    <item>
+      <title>Primes de régimes d’assurance-maladie et impôt-santé, par province, 2020</title>
+      <link>/fr/rapports/primes-de-r%C3%A9gimes-dassurance-maladie-et-imp%C3%B4t-sant%C3%A9-par-province-2020/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/rapports/primes-de-r%C3%A9gimes-dassurance-maladie-et-imp%C3%B4t-sant%C3%A9-par-province-2020/</guid>
+      <description>Primes de régimes d’assurance-maladie et impôt-santé, par province Auparavant, la plupart des Canadiens payaient une prime pour avoir droit à l’assurance-maladie de base. Cela a pris fin en janvier 2020, lorsque cette prime a été éliminée en Colombie-Britannique. Toutes les provinces canadiennes ont plutôt institué un impôt-santé des employeurs, un impôt individuel en fonction du revenu, ou le financement d’une assurance-maladie par le biais des impôts. Voici un bref résumé par province :</description>
+    </item>
+    
+    <item>
+      <title>Retraités du SCFP, âgés de 65 ans et plus : ce que vous devez savoir au sujet de vos garanties</title>
+      <link>/fr/rapports/retrait%C3%A9s-du-scfp-%C3%A2g%C3%A9s-de-65-ans-et-plus-ce-que-vous-devez-savoir-au-sujet-de-vos-garanties/</link>
+      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/rapports/retrait%C3%A9s-du-scfp-%C3%A2g%C3%A9s-de-65-ans-et-plus-ce-que-vous-devez-savoir-au-sujet-de-vos-garanties/</guid>
+      <description>PDF</description>
+    </item>
+    
+    <item>
+      <title>CONSEIL EXÉCUTIF 2020-2023</title>
+      <link>/fr/conseil-executif-2020-2023/conseil-ex%C3%A9cutif-2020-2023/</link>
+      <pubDate>Sat, 15 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/conseil-executif-2020-2023/conseil-ex%C3%A9cutif-2020-2023/</guid>
+      <description>APRS CONSEIL EXÉCUTIF 2020-2023 1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7 cuperetirees@gmail.com ADMINISTRATEURS
+Présidente
+Patricia Daley
+patdaleycra@gmail.com
+Vice-présidente
+Shelly Gordon
+shellygordoncupe@gmail.com
+Secrétaire
+Carole Lefebvre
+carole-lefebvre@videotron.ca
+819-210-1786 (mobile)
+Trésorier
+Barry Thorsteinson
+barry.wanda@rogers.com
+613-293-4775 (mobile)
+RÉPRESENTANTS DES SECTIONS RÉGIONALES
+Terre-Neuve-et-Labrador
+Brian Farewell
+bfarewell10@gmail.com
+709-689-4761 (mobile)
+Nouveau-Brunswick et Île-Prince-Édouard
+Clifford Hay
+chayn609@rogers.com
+506-461-6226 (mobile)
+Nouvelle-Écosse
+John McCracken
+bigjmccracken@gmail.com
+Québec
+Francine Barrette
+fra.barrette@hotmail.com
+514-726-1694 (mobile)
+Ontario
+Kathy Johnson
+cuperetireesont@gmail.com
+Manitoba
+Maureen Morrison</description>
+    </item>
+    
+    <item>
+      <title>Règlements </title>
+      <link>/fr/r%C3%A8glements/aprs-r%C3%A8glements/</link>
+      <pubDate>Sat, 15 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/r%C3%A8glements/aprs-r%C3%A8glements/</guid>
+      <description>Association du personnel retraité du SCFP (APRS) RÈGLEMENTS
+(tel qu’amendé mai 2021)
+NOM ET COMPOSITION
+a) Le nom de l’organisation est l’Association du personnel retraité du SCFP (APRS).
+b) L’adhésion est ouverte à tous les membres du personnel retraité du Syndicat canadien de la fonction publique, ainsi qu’aux membres du personnel retraité des divisions du SCFP représentés par des syndicats du personnel qui souhaitent adhérer et payer la cotisation annuelle.</description>
+    </item>
+    
+    <item>
+      <title>ARS Communiqué janvier 2020</title>
+      <link>/fr/communiques/communiqu%C3%A9-janvier-2020/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/communiques/communiqu%C3%A9-janvier-2020/</guid>
+      <description>ARS communiqué Janvier 2020 Chères consœurs, chers confrères,
 Votre Association des retraités vous souhaite une bonne année. Les nouveaux membres de votre conseil exécutif se sont réunis pour la première fois en personne le 20 janvier, au bureau d’Ottawa. Au cours de cette rencontre, nous avons examiné nos priorités pour l’année et approuvé un budget pour 2020.
 Communication avec les membres
-L’une de nos principales priorités sera de transmettre régulièrement de l’information aux membres. Ne vous inquiétez pas!</description>
+L’une de nos principales priorités sera de transmettre régulièrement de l’information aux membres.</description>
     </item>
     
     <item>
-      <title>Test Post</title>
-      <link>/fr/post/testing/</link>
-      <pubDate>Fri, 05 Mar 2021 05:00:00 +0000</pubDate>
+      <title>ARS – Bulletin d’information pour les membres, automne 2020</title>
+      <link>/fr/communiques/bulletin-dinformation-automne-2020/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/post/testing/</guid>
-      <description>This is some post language, just in french.</description>
+      <guid>/fr/communiques/bulletin-dinformation-automne-2020/</guid>
+      <description>ARS – Bulletin d’information pour les membres, automne 2020 Bonjour consœurs et confrères,
+Nous étions loin de nous douter, lorsque votre conseil exécutif s’est réuni en janvier dernier, que notre réunion d’automne se déroulerait en ligne plutôt qu’en personne. Heureusement, nous réussissons tous à bien aller dans notre nouvelle réalité, et nous espérons qu’il en va de même pour vous.
+Rapport sur le régime des personnes de plus de 65 ans</description>
     </item>
     
     <item>
-      <title>test</title>
-      <link>/fr/post/test/</link>
-      <pubDate>Sun, 28 Feb 2021 16:57:13 +0000</pubDate>
+      <title>Communiqué automne 2021</title>
+      <link>/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/post/test/</guid>
-      <description>testset</description>
+      <guid>/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/</guid>
+      <description>ARPS Communiqué automne 2021 Le 28 octobre 2021
+Objet : Congrès national du SCFP et d’autres nouvelles de votre association des retraités
+Confrères et consoeurs,
+Le congrès national du SCFP qui se tiendra du 23 novembre au 26 novembre, a été changé à la plate-forme virtuelle. Vous devriez avoir maintenant reçu l’invitation par courriel des dirigeants nationaux afin de pouvoir y participer comme observateur. Si vous désirez recevoir le lien pour observer virtuellement, vous devez faire parvenir avant le 17 novembre, votre adresse courriel personnelle à Johanne Danis (jdanis@cupe.</description>
     </item>
     
     <item>
-      <title>Règlements</title>
-      <link>/fr/reglements/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Communiqué de l’APRS Été 2021</title>
+      <link>/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/reglements/</guid>
-      <description>1. MANDATE The mandate of the CUPE Retiree’s Association is to safeguard and advance the economic welfare of its members.
-2. OBJECTIVES To achieve its mandate, the Association shall:</description>
+      <guid>/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/</guid>
+      <description>Communiqué des membres de l’APRS Été 2021 Confrères et consœurs,
+Nous nous dirigeons vers le milieu de l&amp;rsquo;été avec un peu de printemps dans nos pas car nous sommes de plus en plus nombreux à être complètement vaccinés contre la Covid-19. Nous espérons que vous vous portez bien malgré les vagues de chaleur, les tempêtes intenses et les rappels récurrents des mauvais traitements infligés aux peuples autochtones par le Canada et les mesures positives que nous pouvons prendre pour faire un changement.</description>
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>/fr/apropo/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Communiqué le 15 mars 2020</title>
+      <link>/fr/communiques/communiqu%C3%A9-mars-2020/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/apropo/</guid>
-      <description>FRENCH
-Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <guid>/fr/communiques/communiqu%C3%A9-mars-2020/</guid>
+      <description>ARS Communiqué le 15 mars 2020 Cher retraité du SCFP,
+Nous vous avons dit que nous ne remplirions pas votre boîte de courriels, mais avec les voyages d’hiver en pleine force et les semaines de relâche dans plusieurs provinces canadiennes, nous voulons nous assurer que vous avez reçu les dernières informations de Green Shield au sujet du Coronavirus – COVID-19. Plusieurs d’entres vous ont reçu cette information directement, mais nous avons été informés que plusieurs autres ne reçoivent pas les avis de Green Shield par courriel.</description>
+    </item>
+    
+    <item>
+      <title>États financiers 2019</title>
+      <link>/fr/finances/%C3%A9tats-financiers-2019/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/finances/%C3%A9tats-financiers-2019/</guid>
+      <description>ARS États financiers 2019 Solde reporté au 1er janvier 2019 Your credit Union compte chèque 7 874,45 $
+Revenus
+Cotisations annuelles des membres de RBC Dexia 13 400,00 $
+Nouveaux membres (payés séparement
+Par chèque ou comptant) 6 x 25 $ 150,00 $
+Contribution du SCP (60 nouveaux membres 2015-2017) 1 500,00 $
+Total des revenus 15 050,00$
+Total (revenus et solde reporté) : 22 924,45 $
+Dépenses
+Comité exécutif 7 104,45 $</description>
+    </item>
+    
+    <item>
+      <title>À propos de l’ARS</title>
+      <link>/fr/%C3%A0-propos-de-lars/</link>
+      <pubDate>Wed, 16 Jun 2021 04:00:00 +0000</pubDate>
+      
+      <guid>/fr/%C3%A0-propos-de-lars/</guid>
+      <description>Bienvenue sur le site Web de l’Association du personnel retraité du SCFP.
+Comme l’indiquent nos Règlements, l’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres. Pour nous aider à nous acquitter de ce mandat, les Règlements cernent un certain nombre d’objectifs :
+ être la porte-parole des retraités auprès du SCFP et des syndicats d’employés; respecter le rôle et les responsabilités des syndicats d’employés du SCFP et travailler avec eux pour promouvoir les besoins et les intérêts des retraités du SCFP et de leurs conjoints survivants; assurer la présence de représentants actifs des retraités au sein du Conseil de fiducie mixte du régime de pension des employés du SCFP et du comité du Programme d’aide aux employés; mettre en oeuvre des outils et des réseaux actifs de communication, et veiller à ce que toutes les communications destinées aux membres soient diffusées dans les deux langues officielles; élaborer une assise financière fiable et des protocoles administratifs exhaustifs pour permettre à l’Association de fonctionner efficacement sur le plan financier, et ce, en utilisant des outils virtuels et électroniques chaque fois que c’est possible; faciliter l’engagement commun et l’échange d’information parmi les membres; encourager tous les retraités admissibles et leurs conjoints survivants à adhérer l’Association et à l’appuyer.</description>
     </item>
     
   </channel>

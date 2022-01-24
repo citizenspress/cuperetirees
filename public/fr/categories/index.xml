@@ -1,27 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Association des retraités du SCFP</title>
+    <title>Categories on Association du personnel retraité du SCFP</title>
     <link>/fr/categories/</link>
-    <description>Recent content in Categories on Association des retraités du SCFP</description>
+    <description>Recent content in Categories on Association du personnel retraité du SCFP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 07 Jun 2021 04:00:00 +0000</lastBuildDate><atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 05:00:00 +0000</lastBuildDate><atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Meeeting Info</title>
-      <link>/fr/categories/meeeting-info/</link>
-      <pubDate>Mon, 07 Jun 2021 04:00:00 +0000</pubDate>
+      <title>Communiqué</title>
+      <link>/fr/categories/communiqu%C3%A9/</link>
+      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/categories/meeeting-info/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>/fr/categories/news/</link>
-      <pubDate>Fri, 05 Mar 2021 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/categories/news/</guid>
+      <guid>/fr/categories/communiqu%C3%A9/</guid>
       <description></description>
     </item>
     
