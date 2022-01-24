@@ -11,11 +11,11 @@ translationKey = "executive"
 [menu.main]
 
 +++
-## **APRS CONSEIL EXÉCUTIF 2020-2023**
+## APRS CONSEIL EXÉCUTIF 2020-2023
 
-#### **1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7**
+#### 1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7
 
-#### **cuperetirees@gmail.com**
+#### cuperetirees@gmail.com
 
 **ADMINISTRATEURS**
 
