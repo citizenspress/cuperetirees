@@ -12,6 +12,11 @@ translationKey = "membership"
 [menu.main]
 
 +++
+
+
+
+- Download the [membership form](/img/membership-form.pdf "membership-form.pdf") here and send it in.
+
 ## Membership in the CUPE Staff Retirees' Association
 
 The CUPE Staff Retirees’ Association (CSRA) represents all CUPE retirees.
