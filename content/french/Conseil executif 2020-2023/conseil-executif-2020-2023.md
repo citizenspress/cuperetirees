@@ -7,7 +7,7 @@ slug = "Conseil Exécutif  2020 2023"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "CONSEIL EXÉCUTIF 2020-2023"
-translationKey = "executive"
+translationKey = "executive2020"
 [menu.main]
 
 +++
