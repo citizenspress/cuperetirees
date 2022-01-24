@@ -7,7 +7,7 @@ slug = "À propos de l’ARS"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "À propos de l’ARS"
-translationKey = "About"
+translationKey = "about"
 
 +++
 Bienvenue sur le site Web de l’**Association du personnel retraité du SCFP**.
