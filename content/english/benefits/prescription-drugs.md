@@ -2,17 +2,15 @@
 categories = []
 date = 2021-06-16T04:00:00Z
 description = "Prescription drug information"
-draft = false
 lead = "When filling your prescription: 'No Charge' is what you should hear!"
 slug = "finance"
 tags = []
 thumbnail = ""
 title = "Prescription drug information"
-translationKey = "finance"
 toc = true
+translationKey = ""
 
 +++
-
 ## Brand Name Drugs vs. Generics
 
 Our extended health plan covers all drugs prescribed by your medical practitioner and approved by Health Canada.
