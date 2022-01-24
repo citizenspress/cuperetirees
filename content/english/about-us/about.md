@@ -9,10 +9,12 @@ thumbnail = ""
 title = "Welcome to the CUPE Staff Retirees’ Association (CRA)"
 translationKey = "about"
 linkTitle = "about"
+toc = true
 [menu.main]
 
 +++
-## Welcome to the CUPE Staff Retirees’ Association (CRA)
+
+## About
 
 Please share your comments and questions with us anytime, and also please share with us photos and other content that you feel will be welcomed by your fellow CUPE retirees.
 
@@ -27,3 +29,78 @@ As set out in our By-Laws, the mandate of the CUPE Staff Retiree’s Association
 7. Encourage all eligible retirees and surviving spouses to join and support the Association.
 
 The CUPE Staff Retirees’ Association has no official status within the CUPE organization, but works collaboratively with all parties to achieve our mandated goals.
+
+
+## **EXECUTIVE BOARD**
+
+Updated: **2020-2023**
+
+- Main email:  
+**cuperetirees@gmail.com**
+
+- Mailing Address:  
+**1375, boul. St. Laurent Blvd.  
+Ottawa ON K1G 0Z7**
+
+### **OFFICERS**
+
+**President**  
+Patricia Daley  
+[patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)
+
+**Vice-President**  
+Shelly Gordon  
+[shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)
+
+**Secretary**  
+Carole Lefebvre  
+[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)  
+819-210-1786 (cell)
+
+**Treasurer**  
+Barry Thorsteinson  
+[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)  
+613-293-4775 (cell)
+
+### **CHAPTER REPRESENTATIVES**
+
+**Newfoundland**  
+Brian Farewell  
+[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)  
+709-689-4761 (cell)
+
+**New Brunswick & P.E.I.**  
+Clifford Hay  
+[chayn609@rogers.com](mailto:chayn609@rogers.com)  
+506-461-6226 (cell)
+
+**Nova Scotia**  
+John McCracken  
+[bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
+
+**Quebec**  
+Francine Barrette  
+[fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)  
+514-726-1694 (cell)
+
+**Ontario**  
+Kathy Johnson  
+[cuperetireesont@gmail.com](mailto:cuperetireesont@gmail.com)
+
+**Manitoba**  
+Maureen Morrison  
+[maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)  
+204-930-3979 (cell)
+
+**Saskatchewan**  
+Andrew Huculak  
+[andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)
+
+**Alberta**  
+Judy Barry  
+[daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
+
+**British Columbia**  
+Timon Azmier  
+[tazmier@shaw.ca](mailto:tazmier@shaw.ca)  
+604-787-4851 (cell)

@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Pensions"]
 date = 2021-06-16T04:00:00Z
 description = "Pension information"
 draft = false
@@ -14,11 +14,13 @@ toc = true
 
 +++
 
+----
+
 ## 2018 Agreement
 
 Pension Indexation For CUPE Retirees 2018 Agreement
 
-- [Download the 2018 indexing agreement here](indexing-agreement-sep2018-eng.pdf)
+- [Download the 2018 indexing agreement here (PDF)](/img/indexing-agreement-sep2018-eng.pdf)
 
 -----
 
