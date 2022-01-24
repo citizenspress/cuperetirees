@@ -10,3 +10,4 @@ title = "APRS Formulaire d'affiliation 2022"
 translationKey = "Formulairedaffiliation2022"
 
 +++
+[membership-form.pdf](/img/membership-form.pdf "membership-form.pdf")
