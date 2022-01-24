@@ -10,3 +10,4 @@ title = "CSRA Membership Form"
 translationKey = "Formulairedaffiliation2022"
 
 +++
+[membership-form.pdf](/img/membership-form.pdf "membership-form.pdf")
