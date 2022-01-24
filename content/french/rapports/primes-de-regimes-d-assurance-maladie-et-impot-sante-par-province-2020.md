@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-23T05:00:00Z
 description = ""
-draft = true
 lead = ""
 slug = "Primes de régimes d’assurance-maladie et impôt-santé, par province, 2020"
 tags = ["impôt-santé", "primes", "assurance-maladie", "garanties"]
