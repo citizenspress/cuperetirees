@@ -7,7 +7,7 @@ slug = "Officers and regional representatives"
 tags = []
 thumbnail = ""
 title = "CSRA Executive 2020-2023"
-translationKey = "executive"
+translationKey = "executive2020"
 [menu.main]
 
 +++
