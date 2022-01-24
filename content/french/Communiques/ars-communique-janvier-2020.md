@@ -1,13 +1,13 @@
 +++
-categories = []
+categories = ["Communiqué"]
 date = 2022-01-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Communiqué janvier 2020"
-tags = []
-thumbnail = "/img/avatar.png"
+tags = ["2020"]
+thumbnail = ""
 title = "ARS Communiqué janvier 2020"
-translationKey = "Communiquéjanvier2020"
+translationKey = "newsletterjanuary2020"
 
 +++
 ## ARS communiqué

@@ -2,13 +2,13 @@
 categories = []
 date = 2022-01-23T05:00:00Z
 description = ""
-draft = true
+draft = false
 lead = ""
 slug = "Primes de régimes d’assurance-maladie et impôt-santé, par province, 2020"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Primes de régimes d’assurance-maladie et impôt-santé, par province, 2020"
-translationKey = "Primesderégimesdassurancemaladieetimpôtsantéparprovince2020"
+translationKey = "MedicarePremiumsandTaxesbyProvince2020"
 
 +++
 ## Primes de régimes d’assurance-maladie et impôt-santé, par province

@@ -1,14 +1,14 @@
 +++
-categories = []
+categories = ["Communiqué"]
 date = 2022-01-14T05:00:00Z
 description = ""
-draft = true
+draft = false
 lead = ""
 slug = "Communiqué mars 2020"
-tags = ["Green Shield"]
-thumbnail = "/img/avatar.png"
+tags = ["2020","Green Shield"]
+thumbnail = ""
 title = "Communiqué le 15 mars 2020"
-translationKey = "Communiqué15mars2020"
+translationKey = "NewsletterMarch2020"
 
 +++
 

@@ -1,13 +1,13 @@
 +++
-categories = []
+categories = ["Communiqué"]
 date = 2022-01-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Bulletin d'information automne 2020"
-tags = []
-thumbnail = "/img/avatar.png"
+tags = ["2020"]
+thumbnail = ""
 title = "ARS – Bulletin d’information pour les membres, automne 2020"
-translationKey = "Bulletindinformationautomne2020"
+translationKey = "newsletterfall2020"
 
 +++
 ## ARS – Bulletin d’information pour les membres, automne 2020

@@ -1,13 +1,13 @@
 +++
-categories = []
+categories = ["Communiqué"]
 date = 2022-01-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Communiqué Été 2021"
-tags = []
+tags = ["2021"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Communiqué de l’APRS Été 2021"
-translationKey = "CommuniquéÉté2021"
+translationKey = "Newslettersummer2021"
 
 +++
 ## Communiqué des membres de l’APRS Été 2021

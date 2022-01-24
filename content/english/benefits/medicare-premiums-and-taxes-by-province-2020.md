@@ -2,7 +2,7 @@
 categories = []
 date = 2022-01-23T05:00:00Z
 description = ""
-draft = true
+draft = false
 lead = ""
 slug = "Medicare Premiums and Taxes by Province 2020"
 tags = []

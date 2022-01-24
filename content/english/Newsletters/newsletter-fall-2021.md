@@ -1,10 +1,10 @@
 +++
-categories = ["News", " Meeting", "Executive", "2021"]
+categories = ["Newsletter"]
 date = 2022-01-14T05:00:00Z
 description = ""
 lead = "Report from CSRA Executive meeting October 2021"
 slug = "Newsletter Fall 2021"
-tags = []
+tags = ["2021"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Newsletter Fall 2021"
 translationKey = "newsletterfall2021"
