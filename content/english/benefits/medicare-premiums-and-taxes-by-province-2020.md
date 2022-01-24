@@ -2,13 +2,12 @@
 categories = []
 date = 2022-01-23T05:00:00Z
 description = ""
-draft = false
 lead = ""
 slug = "Medicare Premiums and Taxes by Province 2020"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Medicare Premiums and Taxes by Province 2020"
-translationKey = "MedicarePremiumsandTaxesbyProvince2020"
+translationKey = "répercussionsdesrégimesprovinciauxdassurancemaladie"
 
 +++
 **Medicare Premiums and Taxes by Province**

@@ -8,7 +8,7 @@ tags = []
 thumbnail = ""
 title = "CRA 2020 Financial Statement"
 toc = true
-translationKey = "finance"
+translationKey = "Étatsfinanciers2020"
 [menu.main]
 
 +++

@@ -1,21 +1,21 @@
 +++
 categories = []
 date = 2022-01-15T05:00:00Z
-description = "Liste d'exécutif APRS 2020 2023"
+description = "Liste des membres exécutifs du APRS avec leurs coordonnées."
 lead = "Liste d'exécutif  2020 2023"
 slug = "Conseil Exécutif  2020 2023"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "CONSEIL EXÉCUTIF 2020-2023"
-translationKey = "executive"
+translationKey = "executive2020"
 [menu.main]
 
 +++
-## **APRS CONSEIL EXÉCUTIF 2020-2023**
+## APRS CONSEIL EXÉCUTIF 2020-2023
 
-#### **1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7**
+#### 1375, boul. St. Laurent Blvd. – Ottawa ON K1G 0Z7
 
-#### **cuperetirees@gmail.com**
+#### cuperetirees@gmail.com
 
 **ADMINISTRATEURS**
 

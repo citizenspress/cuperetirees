@@ -5,9 +5,9 @@ description = "Officers and executive members"
 lead = "Contact information for officers and regional representatives"
 slug = "Officers and regional representatives"
 tags = []
-thumbnail = ""
+thumbnail = "List of executive members of the CSRA with contact information."
 title = "CSRA Executive 2020-2023"
-translationKey = "executive"
+translationKey = "executive2020"
 [menu.main]
 
 +++
