@@ -2,7 +2,6 @@
 categories = []
 date = 2022-01-25T05:00:00Z
 description = ""
-draft = true
 lead = "Welcome page"
 slug = "Welcome to the CSRA web site"
 tags = []
@@ -11,6 +10,8 @@ title = "Welcome to the CSRA web site"
 translationKey = "BienvenuesurlesiteWeb"
 
 +++
+## Welcome to the CUPE Staff Retirees Association
+
 **Welcome** to the web site of the **CUPE Staff Retirees Association, the CSRA** - created by CUPE staff retirees for CUPE staff retirees.
 
 The **CSRA** is committed to protecting and promoting the economic well-being of its members. True to our mission, we hope that this website will be an opportunity for you to communicate and exchange information among CUPE retirees.
