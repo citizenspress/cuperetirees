@@ -8,7 +8,6 @@ tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "CONSEIL EXÉCUTIF 2020-2023"
 translationKey = "executive2020"
-[menu.main]
 
 +++
 ## APRS CONSEIL EXÉCUTIF 2020-2023

@@ -1,8 +1,8 @@
 +++
-categories = []
+categories = ["Rapport"]
 date = 2022-01-23T05:00:00Z
-description = ""
-lead = ""
+description = "Auparavant, la plupart des Canadiens payaient une prime pour avoir droit à l’assurance-maladie de base. Cela a pris fin en janvier 2020, lorsque cette prime a été éliminée en Colombie-Britannique. Toutes les provinces canadiennes ont plutôt institué un impôt-santé des employeurs, un impôt individuel en fonction du revenu, ou le financement d’une assurance-maladie par le biais des impôts."
+lead = "Auparavant, la plupart des Canadiens payaient une prime pour avoir droit à l’assurance-maladie de base. Cela a pris fin en janvier 2020, lorsque cette prime a été éliminée en Colombie-Britannique. Toutes les provinces canadiennes ont plutôt institué un impôt-santé des employeurs, un impôt individuel en fonction du revenu, ou le financement d’une assurance-maladie par le biais des impôts."
 slug = "Primes de régimes d’assurance-maladie et impôt-santé, par province, 2020"
 tags = ["impôt-santé", "primes", "assurance-maladie", "garanties"]
 thumbnail = "/img/csra_aprs-logo.jpg"
@@ -10,9 +10,9 @@ title = "Primes de régimes d’assurance-maladie et impôt-santé, par province
 translationKey = "MedicarePremiumsandTaxesbyProvince2020"
 
 +++
-## Primes de régimes d’assurance-maladie et impôt-santé, par province
 
-Auparavant, la plupart des Canadiens payaient une prime pour avoir droit à l’assurance-maladie de base. Cela a pris fin en janvier 2020, lorsque cette prime a été éliminée en Colombie-Britannique. Toutes les provinces canadiennes ont plutôt institué un impôt-santé des employeurs, un impôt individuel en fonction du revenu, ou le financement d’une assurance-maladie par le biais des impôts. Voici un bref résumé par province :
+
+Voici un bref résumé par province :
 
 **Colombie-Britannique**
 

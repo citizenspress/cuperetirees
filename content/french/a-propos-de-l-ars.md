@@ -5,13 +5,18 @@ description = "lLARS s’engage à protéger et à promouvoir le bien-être éco
 lead = "lLARS s’engage à protéger et à promouvoir le bien-être économique de ses membres. "
 slug = "À propos de l’ARS"
 tags = []
+toc = true
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "À propos de l’ARS"
 translationKey = "about"
 [menu.main]
+weight=1
 
 +++
+
 Bienvenue sur le site Web de l’**Association du personnel retraité du SCFP**.
+
+## À propos
 
 Comme l’indiquent nos [Règlements](https://retraitesduscfp.ca/by-laws/), **l’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres**. Pour nous aider à nous acquitter de ce mandat, les Règlements cernent un certain nombre d’objectifs :
 
@@ -24,3 +29,74 @@ Comme l’indiquent nos [Règlements](https://retraitesduscfp.ca/by-laws/), **l�
 7. encourager tous les retraités admissibles et leurs conjoints survivants à adhérer l’Association et à l’appuyer.
 
 L’**Association du personnel retraité SCFP** n’a aucun statut officiel au sein de l’organisation du SCFP, mais elle travaille en collaboration avec toutes les parties pour atteindre les objectifs qu’elle s’est fixé dans son mandat.
+
+
+## APRS CONSEIL EXÉCUTIF 2020-2023
+
+- 1375, boul. St. Laurent Blvd.  
+Ottawa ON K1G 0Z7
+- cuperetirees@gmail.com
+
+### ADMINISTRATEURS
+
+**Présidente**  
+Patricia Daley  
+[patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)
+
+**Vice-présidente**  
+Shelly Gordon  
+[shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)
+
+**Secrétaire**  
+Carole Lefebvre  
+[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
+
+819-210-1786 (mobile)
+
+**Trésorier**  
+Barry Thorsteinson  
+[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)  
+613-293-4775 (mobile)
+
+### RÉPRESENTANTS DES SECTIONS RÉGIONALES
+
+**Terre-Neuve-et-Labrador**  
+Brian Farewell  
+[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)  
+709-689-4761 (mobile)
+
+**Nouveau-Brunswick et Île-Prince-Édouard**  
+Clifford Hay  
+[chayn609@rogers.com](mailto:chayn609@rogers.com)  
+506-461-6226 (mobile)
+
+**Nouvelle-Écosse**  
+John McCracken  
+[bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
+
+**Québec**  
+Francine Barrette  
+[fra.barrette@hotmail.com  
+514-726-1694 (mobile)](mailto:fra.barrette@hotmail.com)
+
+**Ontario**  
+Kathy Johnson  
+[cuperetireesont@gmail.com](mailto:cuperetireesont@gmail.com)
+
+**Manitoba**  
+Maureen Morrison  
+[maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)  
+204-930-3979 (mobile)
+
+**Saskatchewan**  
+Andrew Huculak  
+[andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)
+
+**Alberta**  
+Judy Barry  
+[daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
+
+**Colombia-Britannique**  
+Timon Azmier  
+[tazmier@shaw.ca](mailto:tazmier@shaw.ca)  
+604-787-4851 (mobile)

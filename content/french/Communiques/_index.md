@@ -9,5 +9,5 @@ title = "Communiqué"
 
 translationKey = "newsletters"
 [menu.main]
-
+weight=2
 +++
