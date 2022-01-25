@@ -15,7 +15,7 @@ translationKey = "about"
 +++
 ## About the CUPE Staff Retirees Association
 
-As set out in our By-Laws, the mandate of the CUPE Staff Retiree’s Association is to safeguard and advance the economic welfare of its members. Our By-Laws identify several objectives to help us achieve this mandate:
+As set out in our By-Laws, the mandate of the CUPE Staff Retirees Association is to safeguard and advance the economic welfare of its members. Our By-Laws identify several objectives to help us achieve this mandate:
 
 1. Act as the “voice” of retirees with CUPE and the staff unions.
 2. Respect the roles and responsibilities of the CUPE staff unions and work with them to promote the needs and interests of CUPE retirees and surviving partners.
@@ -25,7 +25,7 @@ As set out in our By-Laws, the mandate of the CUPE Staff Retiree’s Association
 6. Facilitate cooperative engagement and information sharing among the members.
 7. Encourage all eligible retirees and surviving spouses to join and support the Association.
 
-The CUPE Staff Retirees’ Association has no official status within the CUPE organization, but works collaboratively with all parties to achieve our mandated goals.
+The CUPE Staff Retirees Association has no official status within the CUPE organization, but works collaboratively with all parties to achieve our mandated goals.
 
 ## **EXECUTIVE BOARD**
 
