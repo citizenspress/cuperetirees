@@ -7,7 +7,7 @@ linkTitle = "about"
 slug = "about"
 tags = []
 thumbnail = ""
-title = "About the CUPE Staff Retirees’ Association (CRA)"
+title = "About the CUPE Staff Retirees Association (CRA)"
 toc = true
 translationKey = "about"
 [menu.main]
