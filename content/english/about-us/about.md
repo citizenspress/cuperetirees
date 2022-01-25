@@ -11,6 +11,7 @@ title = "About the CUPE Staff Retirees Association (CRA)"
 toc = true
 translationKey = "about"
 [menu.main]
+weight = 1
 
 +++
 ## About the CUPE Staff Retirees Association

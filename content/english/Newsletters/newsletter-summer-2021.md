@@ -1,6 +1,6 @@
 +++
 categories = ["Newsletter"]
-date = 2022-01-14T05:00:00Z
+date = 2021-07-14T05:00:00Z
 description = ""
 lead = "Notes from CSRA executive July 2021"
 slug = "Newsletter Summer 2021"
