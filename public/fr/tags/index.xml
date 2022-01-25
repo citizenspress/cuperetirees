@@ -89,24 +89,6 @@
     </item>
     
     <item>
-      <title>2020</title>
-      <link>/fr/tags/2020/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/tags/2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2021</title>
-      <link>/fr/tags/2021/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/tags/2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>finaciers</title>
       <link>/fr/tags/finaciers/</link>
       <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
@@ -116,9 +98,27 @@
     </item>
     
     <item>
+      <title>2021</title>
+      <link>/fr/tags/2021/</link>
+      <pubDate>Thu, 14 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2020</title>
+      <link>/fr/tags/2020/</link>
+      <pubDate>Sat, 14 Mar 2020 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/tags/2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Green Shield</title>
       <link>/fr/tags/green-shield/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2020 05:00:00 +0000</pubDate>
       
       <guid>/fr/tags/green-shield/</guid>
       <description></description>

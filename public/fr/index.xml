@@ -1,31 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Association du personnel retraité du SCFP</title>
+    <title>Bienvenue sur le site Web de l’APRS on Association du personnel retraité du SCFP</title>
     <link>/fr/</link>
-    <description>Recent content on Association du personnel retraité du SCFP</description>
+    <description>Recent content in Bienvenue sur le site Web de l’APRS on Association du personnel retraité du SCFP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 04:00:00 +0000</lastBuildDate><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bienvenue sur le site Web de l’APRS</title>
-      <link>/fr/bienvenue-sur-le-site-web-de-laprs/</link>
-      <pubDate>Tue, 25 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/bienvenue-sur-le-site-web-de-laprs/</guid>
-      <description>Bienvenue à l&amp;rsquo;Association du personnel du retraité du SCFP (APRS) Bienvenue sur le site Web de l’Association du personnel du retraité du SCFP — créé par les retraités, pour les retraités.
-L’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres. Fidèles à notre mission, nous espérons que ce site Web sera pour vous une nouvelle occasion de communiquer et d’échanger des renseignements entre retraités du SCFP.</description>
-    </item>
-    
-    <item>
-      <title>APRS Formulaire d&#39;affiliation 2022</title>
-      <link>/fr/membres/formulaire-daffiliation/</link>
-      <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/membres/formulaire-daffiliation/</guid>
-      <description>membership-form.pdf</description>
-    </item>
-    
+    <lastBuildDate>Tue, 25 Jan 2022 05:00:00 +0000</lastBuildDate><atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>APRS États financiers 2020</title>
       <link>/fr/finances/%C3%A9tats-financiers-2020/</link>
@@ -51,7 +32,7 @@ Total (revenus et solde reporté) : 25 248,49 $</description>
       <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
       
       <guid>/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/</guid>
-      <description>PDF</description>
+      <description>À l’automne 2019, l’Association des retraités du SCFP (ARS) m’a chargée d’effectuer une recherche sur les répercussions des régimes provinciaux d’assurance maladie sur les prestations d’assurance maladie dont bénéficient les retraités du SCFP lorsqu’ils atteignent l’âge de 65 ans. L’ARS avait reçu des plaintes de retraités de diverses provinces, en particulier du Québec et de la Colombie-Britannique, concernant le fait que Green Shield Canada ne payait pas les soins de santé couverts par leurs régimes provinciaux d’assurance maladie une fois que les retraités avaient atteint l’âge de 65 ans.</description>
     </item>
     
     <item>
@@ -60,16 +41,21 @@ Total (revenus et solde reporté) : 25 248,49 $</description>
       <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
       
       <guid>/fr/rapports/primes-de-r%C3%A9gimes-dassurance-maladie-et-imp%C3%B4t-sant%C3%A9-par-province-2020/</guid>
-      <description>Primes de régimes d’assurance-maladie et impôt-santé, par province Auparavant, la plupart des Canadiens payaient une prime pour avoir droit à l’assurance-maladie de base. Cela a pris fin en janvier 2020, lorsque cette prime a été éliminée en Colombie-Britannique. Toutes les provinces canadiennes ont plutôt institué un impôt-santé des employeurs, un impôt individuel en fonction du revenu, ou le financement d’une assurance-maladie par le biais des impôts. Voici un bref résumé par province :</description>
+      <description>Voici un bref résumé par province :
+Colombie-Britannique
+• Le gouvernement néo-démocrate a supprimé les primes mensuelles d’assurance-maladie des particuliers et des familles.
+• Il a institué un impôt-santé des employeurs pour les organismes dont la masse salariale annuelle est de 500 000 $ ou plus, ou de 1,5 million de dollars pour les organismes de bienfaisance et sans but lucratif.
+• Avant l’élimination des primes, le SCFP payait des primes au nom des employés en Colombie-Britannique; ces paiements constituaient un avantage imposable à déclarer dans les revenus.</description>
     </item>
     
     <item>
       <title>Retraités du SCFP, âgés de 65 ans et plus : ce que vous devez savoir au sujet de vos garanties</title>
-      <link>/fr/rapports/retrait%C3%A9s-du-scfp-%C3%A2g%C3%A9s-de-65-ans-et-plus-ce-que-vous-devez-savoir-au-sujet-de-vos-garanties/</link>
+      <link>/fr/rapports/retraites-du-scfp-ages-de-65-ans-et-plus-ce-que-vous-devez-savoir-au-sujet-de-vos-garanties/</link>
       <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/rapports/retrait%C3%A9s-du-scfp-%C3%A2g%C3%A9s-de-65-ans-et-plus-ce-que-vous-devez-savoir-au-sujet-de-vos-garanties/</guid>
-      <description>PDF</description>
+      <guid>/fr/rapports/retraites-du-scfp-ages-de-65-ans-et-plus-ce-que-vous-devez-savoir-au-sujet-de-vos-garanties/</guid>
+      <description>Quand les employés du SCFP prennent leur retraite, ils continuent, ainsi que les personnes à leur charge, d’être couverts par la même assurance que lorsqu’ils travaillaient. C’est votre syndicat qui a négocié cet avantage pour vous.
+ Retraités du SCFP, âgés de 65 ans et plus: ce que vous devez savoir au sujet de vos garanties (PDF)  </description>
     </item>
     
     <item>
@@ -130,61 +116,6 @@ b) L’adhésion est ouverte à tous les membres du personnel retraité du Syndi
     </item>
     
     <item>
-      <title>ARS Communiqué janvier 2020</title>
-      <link>/fr/communiques/communiqu%C3%A9-janvier-2020/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/communiques/communiqu%C3%A9-janvier-2020/</guid>
-      <description>ARS communiqué Janvier 2020 Chères consœurs, chers confrères,
-Votre Association des retraités vous souhaite une bonne année. Les nouveaux membres de votre conseil exécutif se sont réunis pour la première fois en personne le 20 janvier, au bureau d’Ottawa. Au cours de cette rencontre, nous avons examiné nos priorités pour l’année et approuvé un budget pour 2020.
-Communication avec les membres
-L’une de nos principales priorités sera de transmettre régulièrement de l’information aux membres.</description>
-    </item>
-    
-    <item>
-      <title>ARS – Bulletin d’information pour les membres, automne 2020</title>
-      <link>/fr/communiques/bulletin-dinformation-automne-2020/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/communiques/bulletin-dinformation-automne-2020/</guid>
-      <description>ARS – Bulletin d’information pour les membres, automne 2020 Bonjour consœurs et confrères,
-Nous étions loin de nous douter, lorsque votre conseil exécutif s’est réuni en janvier dernier, que notre réunion d’automne se déroulerait en ligne plutôt qu’en personne. Heureusement, nous réussissons tous à bien aller dans notre nouvelle réalité, et nous espérons qu’il en va de même pour vous.
-Rapport sur le régime des personnes de plus de 65 ans</description>
-    </item>
-    
-    <item>
-      <title>Communiqué automne 2021</title>
-      <link>/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/</guid>
-      <description>ARPS Communiqué automne 2021 Le 28 octobre 2021
-Objet : Congrès national du SCFP et d’autres nouvelles de votre association des retraités
-Confrères et consoeurs,
-Le congrès national du SCFP qui se tiendra du 23 novembre au 26 novembre, a été changé à la plate-forme virtuelle. Vous devriez avoir maintenant reçu l’invitation par courriel des dirigeants nationaux afin de pouvoir y participer comme observateur. Si vous désirez recevoir le lien pour observer virtuellement, vous devez faire parvenir avant le 17 novembre, votre adresse courriel personnelle à Johanne Danis (jdanis@cupe.</description>
-    </item>
-    
-    <item>
-      <title>Communiqué de l’APRS Été 2021</title>
-      <link>/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/</guid>
-      <description>Communiqué des membres de l’APRS Été 2021 Confrères et consœurs,
-Nous nous dirigeons vers le milieu de l&amp;rsquo;été avec un peu de printemps dans nos pas car nous sommes de plus en plus nombreux à être complètement vaccinés contre la Covid-19. Nous espérons que vous vous portez bien malgré les vagues de chaleur, les tempêtes intenses et les rappels récurrents des mauvais traitements infligés aux peuples autochtones par le Canada et les mesures positives que nous pouvons prendre pour faire un changement.</description>
-    </item>
-    
-    <item>
-      <title>Communiqué le 15 mars 2020</title>
-      <link>/fr/communiques/communiqu%C3%A9-mars-2020/</link>
-      <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
-      
-      <guid>/fr/communiques/communiqu%C3%A9-mars-2020/</guid>
-      <description>ARS Communiqué le 15 mars 2020 Cher retraité du SCFP,
-Nous vous avons dit que nous ne remplirions pas votre boîte de courriels, mais avec les voyages d’hiver en pleine force et les semaines de relâche dans plusieurs provinces canadiennes, nous voulons nous assurer que vous avez reçu les dernières informations de Green Shield au sujet du Coronavirus – COVID-19. Plusieurs d’entres vous ont reçu cette information directement, mais nous avons été informés que plusieurs autres ne reçoivent pas les avis de Green Shield par courriel.</description>
-    </item>
-    
-    <item>
       <title>États financiers 2019</title>
       <link>/fr/finances/%C3%A9tats-financiers-2019/</link>
       <pubDate>Fri, 14 Jan 2022 05:00:00 +0000</pubDate>
@@ -203,14 +134,58 @@ Comité exécutif 7 104,45 $</description>
     </item>
     
     <item>
+      <title>Communiqué automne 2021</title>
+      <link>/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/</link>
+      <pubDate>Thu, 14 Oct 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/</guid>
+      <description>ARPS Communiqué automne 2021 Le 28 octobre 2021
+Objet : Congrès national du SCFP et d’autres nouvelles de votre association des retraités
+Confrères et consoeurs,
+Le congrès national du SCFP qui se tiendra du 23 novembre au 26 novembre, a été changé à la plate-forme virtuelle. Vous devriez avoir maintenant reçu l’invitation par courriel des dirigeants nationaux afin de pouvoir y participer comme observateur. Si vous désirez recevoir le lien pour observer virtuellement, vous devez faire parvenir avant le 17 novembre, votre adresse courriel personnelle à Johanne Danis (jdanis@cupe.</description>
+    </item>
+    
+    <item>
+      <title>Communiqué de l’APRS Été 2021</title>
+      <link>/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/</link>
+      <pubDate>Wed, 14 Jul 2021 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/</guid>
+      <description>Communiqué des membres de l’APRS Été 2021 Confrères et consœurs,
+Nous nous dirigeons vers le milieu de l&amp;rsquo;été avec un peu de printemps dans nos pas car nous sommes de plus en plus nombreux à être complètement vaccinés contre la Covid-19. Nous espérons que vous vous portez bien malgré les vagues de chaleur, les tempêtes intenses et les rappels récurrents des mauvais traitements infligés aux peuples autochtones par le Canada et les mesures positives que nous pouvons prendre pour faire un changement.</description>
+    </item>
+    
+    <item>
       <title>À propos de l’ARS</title>
       <link>/fr/%C3%A0-propos-de-lars/</link>
       <pubDate>Wed, 16 Jun 2021 04:00:00 +0000</pubDate>
       
       <guid>/fr/%C3%A0-propos-de-lars/</guid>
       <description>Bienvenue sur le site Web de l’Association du personnel retraité du SCFP.
-Comme l’indiquent nos Règlements, l’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres. Pour nous aider à nous acquitter de ce mandat, les Règlements cernent un certain nombre d’objectifs :
+À propos Comme l’indiquent nos Règlements, l’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres. Pour nous aider à nous acquitter de ce mandat, les Règlements cernent un certain nombre d’objectifs :
  être la porte-parole des retraités auprès du SCFP et des syndicats d’employés; respecter le rôle et les responsabilités des syndicats d’employés du SCFP et travailler avec eux pour promouvoir les besoins et les intérêts des retraités du SCFP et de leurs conjoints survivants; assurer la présence de représentants actifs des retraités au sein du Conseil de fiducie mixte du régime de pension des employés du SCFP et du comité du Programme d’aide aux employés; mettre en oeuvre des outils et des réseaux actifs de communication, et veiller à ce que toutes les communications destinées aux membres soient diffusées dans les deux langues officielles; élaborer une assise financière fiable et des protocoles administratifs exhaustifs pour permettre à l’Association de fonctionner efficacement sur le plan financier, et ce, en utilisant des outils virtuels et électroniques chaque fois que c’est possible; faciliter l’engagement commun et l’échange d’information parmi les membres; encourager tous les retraités admissibles et leurs conjoints survivants à adhérer l’Association et à l’appuyer.</description>
+    </item>
+    
+    <item>
+      <title>Communiqué le 15 mars 2020</title>
+      <link>/fr/communiques/communiqu%C3%A9-mars-2020/</link>
+      <pubDate>Sat, 14 Mar 2020 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/communiques/communiqu%C3%A9-mars-2020/</guid>
+      <description>ARS Communiqué le 15 mars 2020 Cher retraité du SCFP,
+Nous vous avons dit que nous ne remplirions pas votre boîte de courriels, mais avec les voyages d’hiver en pleine force et les semaines de relâche dans plusieurs provinces canadiennes, nous voulons nous assurer que vous avez reçu les dernières informations de Green Shield au sujet du Coronavirus – COVID-19. Plusieurs d’entres vous ont reçu cette information directement, mais nous avons été informés que plusieurs autres ne reçoivent pas les avis de Green Shield par courriel.</description>
+    </item>
+    
+    <item>
+      <title>ARS Communiqué janvier 2020</title>
+      <link>/fr/communiques/communiqu%C3%A9-janvier-2020/</link>
+      <pubDate>Tue, 14 Jan 2020 05:00:00 +0000</pubDate>
+      
+      <guid>/fr/communiques/communiqu%C3%A9-janvier-2020/</guid>
+      <description>ARS communiqué Janvier 2020 Chères consœurs, chers confrères,
+Votre Association des retraités vous souhaite une bonne année. Les nouveaux membres de votre conseil exécutif se sont réunis pour la première fois en personne le 20 janvier, au bureau d’Ottawa. Au cours de cette rencontre, nous avons examiné nos priorités pour l’année et approuvé un budget pour 2020.
+Communication avec les membres
+L’une de nos principales priorités sera de transmettre régulièrement de l’information aux membres.</description>
     </item>
     
   </channel>

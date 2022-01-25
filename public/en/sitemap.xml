@@ -4,6 +4,16 @@
   <url>
     <loc>/</loc>
     <lastmod>2022-01-25T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
   </url><url>
     <loc>/categories/benefits/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
@@ -43,21 +53,8 @@
     <loc>/by-laws/</loc>
     <lastmod>2022-01-15T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/2020/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/2020/"
-                />
-  </url><url>
     <loc>/tags/2021/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <lastmod>2021-09-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -69,53 +66,11 @@
                 href="/tags/2021/"
                 />
   </url><url>
-    <loc>/tags/benefits/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/newsletters/newsletter-march-2020/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/communiques/communiqu%C3%A9-mars-2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/newsletters/newsletter-march-2020/"
-                />
-  </url><url>
-    <loc>/tags/green-shield/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/green-shield/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/green-shield/"
-                />
-  </url><url>
     <loc>/categories/newsletter/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/newsletters/newsletter-fall-2020/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/communiques/bulletin-dinformation-automne-2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/newsletters/newsletter-fall-2020/"
-                />
+    <lastmod>2021-09-14T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/newsletters/newsletter-fall-2021/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <lastmod>2021-09-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -127,34 +82,8 @@
                 href="/newsletters/newsletter-fall-2021/"
                 />
   </url><url>
-    <loc>/newsletters/newsletter-january-2020/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/communiques/communiqu%C3%A9-janvier-2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/newsletters/newsletter-january-2020/"
-                />
-  </url><url>
-    <loc>/newsletters/newsletter-summer-2021/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/newsletters/newsletter-summer-2021/"
-                />
-  </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <lastmod>2021-09-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -166,8 +95,18 @@
                 href="/tags/"
                 />
   </url><url>
-    <loc>/tags/travel-benefits/</loc>
-    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+    <loc>/newsletters/newsletter-summer-2021/</loc>
+    <lastmod>2021-07-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/newsletters/newsletter-summer-2021/"
+                />
   </url><url>
     <loc>/old_index/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
@@ -216,16 +155,6 @@
   </url><url>
     <loc>/financials/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/finances/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/financials/"
-                />
   </url><url>
     <loc>/categories/financials/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
@@ -254,6 +183,67 @@
   </url><url>
     <loc>/benefits/finance/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/2020/</loc>
+    <lastmod>2020-09-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/2020/"
+                />
+  </url><url>
+    <loc>/newsletters/newsletter-fall-2020/</loc>
+    <lastmod>2020-09-14T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/benefits/</loc>
+    <lastmod>2020-03-14T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/newsletters/newsletter-march-2020/</loc>
+    <lastmod>2020-03-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/communiques/communiqu%C3%A9-mars-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/newsletters/newsletter-march-2020/"
+                />
+  </url><url>
+    <loc>/tags/green-shield/</loc>
+    <lastmod>2020-03-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/green-shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/green-shield/"
+                />
+  </url><url>
+    <loc>/tags/travel-benefits/</loc>
+    <lastmod>2020-03-14T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/newsletters/newsletter-january-2020/</loc>
+    <lastmod>2020-01-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/communiques/communiqu%C3%A9-janvier-2020/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/newsletters/newsletter-january-2020/"
+                />
   </url><url>
     <loc>/financials/finance/</loc>
     <lastmod>2019-06-16T04:00:00+00:00</lastmod>

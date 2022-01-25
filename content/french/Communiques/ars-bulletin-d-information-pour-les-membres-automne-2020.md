@@ -1,6 +1,6 @@
 +++
 categories = ["Communiqué"]
-date = 2022-01-14T05:00:00Z
+date = 2028-09-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Bulletin d'information automne 2020"
