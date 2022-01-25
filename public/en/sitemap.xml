@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/benefits/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-01-25T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/benefits/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
@@ -24,33 +24,8 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/benefits/cupe-retirees-aged-65-and-over-what-you-need-to-know-about-your-benefits/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/eye-exams/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/health-insurance/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
     <loc>/benefits/medicare-premiums-and-taxes-by-province-2020/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/prescription-drugs/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
   </url><url>
     <loc>/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
@@ -93,6 +68,9 @@
                 hreflang="en"
                 href="/tags/2021/"
                 />
+  </url><url>
+    <loc>/tags/benefits/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
   </url><url>
     <loc>/newsletters/newsletter-march-2020/</loc>
     <lastmod>2022-01-14T05:00:00+00:00</lastmod>
@@ -175,21 +153,24 @@
                 href="/newsletters/newsletter-summer-2021/"
                 />
   </url><url>
-    <loc>/tags/travel-benefits/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-01-14T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/tags/"
                 />
+  </url><url>
+    <loc>/tags/travel-benefits/</loc>
+    <lastmod>2022-01-14T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/old_index/</loc>
+    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
     <loc>/about-us/about/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
@@ -218,6 +199,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/financials/2020/"
+                />
+  </url><url>
+    <loc>/about-us/officers-and-regional-representatives/</loc>
+    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/conseil-executif-2020-2023/conseil-ex%C3%A9cutif-2020-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about-us/officers-and-regional-representatives/"
                 />
   </url><url>
     <loc>/financials/</loc>
