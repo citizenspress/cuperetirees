@@ -9,9 +9,6 @@ thumbnail = "List of executive members of the CSRA with contact information."
 title = "CSRA Executive 2020-2023"
 translationKey = "executive2020"
 
-
-draft = true
-
 +++
 ### **EXECUTIVE BOARD**
 
