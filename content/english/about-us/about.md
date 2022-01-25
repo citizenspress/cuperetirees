@@ -13,9 +13,7 @@ translationKey = "about"
 [menu.main]
 
 +++
-## About the CSRA
-
-Please share your comments and questions with us anytime, and also please share with us photos and other content that you feel will be welcomed by your fellow CUPE retirees.
+## About the CUPE Staff Retirees Association
 
 As set out in our By-Laws, the mandate of the CUPE Staff Retiree’s Association is to safeguard and advance the economic welfare of its members. Our By-Laws identify several objectives to help us achieve this mandate:
 
