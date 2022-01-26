@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://cuperetirees.ca/"
 title = "CUPE Staff Retirees Association"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -10,13 +10,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
   [languages.en]
     contentDir = "content/english"
-    title = "CUPE Staff Retirees' Association"
+    title = "CUPE Staff Retirees Association"
 #    subtitle = "The voice of CUPE Staff Retirees"
     languageName = "English"
     weight = 10
     [languages.en.Author]
-    bio = "The CUPE Staff Retirees' Association acts as the voice of retirees with CUPE and the unions representing CUPE staff."
-    name = "CUPE Staff Retirees' Association"
+    bio = "The CUPE Staff Retirees Association acts as the voice of retirees with CUPE and the unions representing CUPE staff."
+    name = "CUPE Staff Retirees Association"
     avatar = "img/avatar.png"
 
 
