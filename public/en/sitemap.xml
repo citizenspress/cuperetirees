@@ -2,269 +2,269 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://cuperetirees.ca/</loc>
     <lastmod>2022-01-25T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/"
+                href="https://cuperetirees.ca/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://cuperetirees.ca/"
                 />
   </url><url>
-    <loc>/categories/benefits/</loc>
+    <loc>https://cuperetirees.ca/categories/benefits/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/benefits/</loc>
+    <loc>https://cuperetirees.ca/benefits/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://cuperetirees.ca/categories/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/categories/"
+                href="https://cuperetirees.ca/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://cuperetirees.ca/categories/"
                 />
   </url><url>
-    <loc>/benefits/medicare-premiums-and-taxes-by-province-2020/</loc>
+    <loc>https://cuperetirees.ca/benefits/medicare-premiums-and-taxes-by-province-2020/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/</loc>
+    <loc>https://cuperetirees.ca/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/</loc>
     <lastmod>2022-01-23T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/"
+                href="https://cuperetirees.ca/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/"
+                href="https://cuperetirees.ca/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/"
                 />
   </url><url>
-    <loc>/by-laws/</loc>
+    <loc>https://cuperetirees.ca/by-laws/</loc>
     <lastmod>2022-01-15T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/2021/</loc>
+    <loc>https://cuperetirees.ca/tags/2021/</loc>
     <lastmod>2021-09-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/2021/"
+                href="https://cuperetirees.ca/fr/tags/2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/2021/"
+                href="https://cuperetirees.ca/tags/2021/"
                 />
   </url><url>
-    <loc>/categories/newsletter/</loc>
+    <loc>https://cuperetirees.ca/categories/newsletter/</loc>
     <lastmod>2021-09-14T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/newsletters/newsletter-fall-2021/</loc>
-    <lastmod>2021-09-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/newsletters/newsletter-fall-2021/"
-                />
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://cuperetirees.ca/newsletters/newsletter-fall-2021/</loc>
     <lastmod>2021-09-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/"
+                href="https://cuperetirees.ca/fr/communiques/communiqu%C3%A9-/-le-28-octobre-2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://cuperetirees.ca/newsletters/newsletter-fall-2021/"
                 />
   </url><url>
-    <loc>/newsletters/newsletter-summer-2021/</loc>
+    <loc>https://cuperetirees.ca/tags/</loc>
+    <lastmod>2021-09-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cuperetirees.ca/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuperetirees.ca/tags/"
+                />
+  </url><url>
+    <loc>https://cuperetirees.ca/newsletters/newsletter-summer-2021/</loc>
     <lastmod>2021-07-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/"
+                href="https://cuperetirees.ca/fr/communiques/communiqu%C3%A9-%C3%A9t%C3%A9-2021/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/newsletters/newsletter-summer-2021/"
+                href="https://cuperetirees.ca/newsletters/newsletter-summer-2021/"
                 />
   </url><url>
-    <loc>/old_index/</loc>
+    <loc>https://cuperetirees.ca/old_index/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about-us/about/</loc>
+    <loc>https://cuperetirees.ca/about-us/about/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/%C3%A0-propos-de-lars/"
+                href="https://cuperetirees.ca/fr/%C3%A0-propos-de-lars/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about-us/about/"
+                href="https://cuperetirees.ca/about-us/about/"
                 />
   </url><url>
-    <loc>/about-us/</loc>
+    <loc>https://cuperetirees.ca/about-us/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/financials/2020/</loc>
+    <loc>https://cuperetirees.ca/financials/2020/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/finances/%C3%A9tats-financiers-2020/"
+                href="https://cuperetirees.ca/fr/finances/%C3%A9tats-financiers-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/financials/2020/"
+                href="https://cuperetirees.ca/financials/2020/"
                 />
   </url><url>
-    <loc>/about-us/officers-and-regional-representatives/</loc>
+    <loc>https://cuperetirees.ca/about-us/officers-and-regional-representatives/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/conseil-executif-2020-2023/conseil-ex%C3%A9cutif-2020-2023/"
+                href="https://cuperetirees.ca/fr/conseil-executif-2020-2023/conseil-ex%C3%A9cutif-2020-2023/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/about-us/officers-and-regional-representatives/"
+                href="https://cuperetirees.ca/about-us/officers-and-regional-representatives/"
                 />
   </url><url>
-    <loc>/financials/</loc>
+    <loc>https://cuperetirees.ca/financials/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/financials/</loc>
+    <loc>https://cuperetirees.ca/categories/financials/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/membership/</loc>
+    <loc>https://cuperetirees.ca/membership/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/newsletters/</loc>
+    <loc>https://cuperetirees.ca/newsletters/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/communiques/"
+                href="https://cuperetirees.ca/fr/communiques/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/newsletters/"
+                href="https://cuperetirees.ca/newsletters/"
                 />
   </url><url>
-    <loc>/categories/pensions/</loc>
+    <loc>https://cuperetirees.ca/categories/pensions/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pensions/</loc>
+    <loc>https://cuperetirees.ca/pensions/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/benefits/finance/</loc>
+    <loc>https://cuperetirees.ca/benefits/finance/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/2020/</loc>
+    <loc>https://cuperetirees.ca/tags/2020/</loc>
     <lastmod>2020-09-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/2020/"
+                href="https://cuperetirees.ca/fr/tags/2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/2020/"
+                href="https://cuperetirees.ca/tags/2020/"
                 />
   </url><url>
-    <loc>/newsletters/newsletter-fall-2020/</loc>
+    <loc>https://cuperetirees.ca/newsletters/newsletter-fall-2020/</loc>
     <lastmod>2020-09-14T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/benefits/</loc>
+    <loc>https://cuperetirees.ca/tags/benefits/</loc>
     <lastmod>2020-03-14T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/newsletters/newsletter-march-2020/</loc>
-    <lastmod>2020-03-14T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/communiques/communiqu%C3%A9-mars-2020/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/newsletters/newsletter-march-2020/"
-                />
-  </url><url>
-    <loc>/tags/green-shield/</loc>
+    <loc>https://cuperetirees.ca/newsletters/newsletter-march-2020/</loc>
     <lastmod>2020-03-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/tags/green-shield/"
+                href="https://cuperetirees.ca/fr/communiques/communiqu%C3%A9-mars-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/green-shield/"
+                href="https://cuperetirees.ca/newsletters/newsletter-march-2020/"
                 />
   </url><url>
-    <loc>/tags/travel-benefits/</loc>
+    <loc>https://cuperetirees.ca/tags/green-shield/</loc>
+    <lastmod>2020-03-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cuperetirees.ca/fr/tags/green-shield/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuperetirees.ca/tags/green-shield/"
+                />
+  </url><url>
+    <loc>https://cuperetirees.ca/tags/travel-benefits/</loc>
     <lastmod>2020-03-14T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>/newsletters/newsletter-january-2020/</loc>
+    <loc>https://cuperetirees.ca/newsletters/newsletter-january-2020/</loc>
     <lastmod>2020-01-14T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/communiques/communiqu%C3%A9-janvier-2020/"
+                href="https://cuperetirees.ca/fr/communiques/communiqu%C3%A9-janvier-2020/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/newsletters/newsletter-january-2020/"
+                href="https://cuperetirees.ca/newsletters/newsletter-january-2020/"
                 />
   </url><url>
-    <loc>/financials/finance/</loc>
+    <loc>https://cuperetirees.ca/financials/finance/</loc>
     <lastmod>2019-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/finances/%C3%A9tats-financiers-2019/"
+                href="https://cuperetirees.ca/fr/finances/%C3%A9tats-financiers-2019/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/financials/finance/"
+                href="https://cuperetirees.ca/financials/finance/"
                 />
   </url><url>
-    <loc>/tags/expenses/</loc>
+    <loc>https://cuperetirees.ca/tags/expenses/</loc>
     <lastmod>2019-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/finances/</loc>
+    <loc>https://cuperetirees.ca/tags/finances/</loc>
     <lastmod>2019-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/revenue/</loc>
+    <loc>https://cuperetirees.ca/tags/revenue/</loc>
     <lastmod>2019-06-16T04:00:00+00:00</lastmod>
   </url>
 </urlset>

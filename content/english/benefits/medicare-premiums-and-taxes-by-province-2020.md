@@ -1,10 +1,10 @@
 +++
-categories = ["Benefits"]
-date = 2022-01-23T05:00:00Z
+categories = ["Reports"]
+date = 2020-01-23T05:00:00Z
 description = ""
 lead = ""
 slug = "Medicare Premiums and Taxes by Province 2020"
-tags = []
+tags = ["Benefits", "Medicare Premiums"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Medicare Premiums and Taxes by Province 2020"
 translationKey = ""

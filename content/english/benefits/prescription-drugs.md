@@ -1,10 +1,10 @@
 +++
-categories = ["Benefits"]
+categories = ["Reports"]
 date = 2021-06-16T04:00:00Z
 description = "Prescription drug information"
 lead = "When filling your prescription: 'No Charge' is what you should hear!"
 slug = "finance"
-tags = []
+tags = ["Benefits"]
 thumbnail = ""
 title = "Prescription drug information"
 toc = true

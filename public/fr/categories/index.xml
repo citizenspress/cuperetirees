@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Association du personnel retraité du SCFP</title>
-    <link>/fr/categories/</link>
+    <link>https://cuperetirees.ca/fr/categories/</link>
     <description>Recent content in Categories on Association du personnel retraité du SCFP</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Jan 2022 05:00:00 +0000</lastBuildDate><atom:link href="/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Jan 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://cuperetirees.ca/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rapport</title>
-      <link>/fr/categories/rapport/</link>
+      <link>https://cuperetirees.ca/fr/categories/rapport/</link>
       <pubDate>Sun, 23 Jan 2022 05:00:00 +0000</pubDate>
       
-      <guid>/fr/categories/rapport/</guid>
+      <guid>https://cuperetirees.ca/fr/categories/rapport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Communiqué</title>
-      <link>/fr/categories/communiqu%C3%A9/</link>
+      <link>https://cuperetirees.ca/fr/categories/communiqu%C3%A9/</link>
       <pubDate>Thu, 14 Oct 2021 05:00:00 +0000</pubDate>
       
-      <guid>/fr/categories/communiqu%C3%A9/</guid>
+      <guid>https://cuperetirees.ca/fr/categories/communiqu%C3%A9/</guid>
       <description></description>
     </item>
     
