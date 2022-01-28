@@ -30,13 +30,11 @@ Shelly Gordon
 
 **Secretary**  
 Carole Lefebvre  
-[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)  
-819-210-1786 (cell)
+[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca) 
 
 **Treasurer**  
 Barry Thorsteinson  
-[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)  
-613-293-4775 (cell)
+[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)
 
 #### 
 
@@ -44,13 +42,11 @@ Barry Thorsteinson
 
 **Newfoundland**  
 Brian Farewell  
-[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)  
-709-689-4761 (cell)
+[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)
 
 **New Brunswick & P.E.I.**  
 Clifford Hay  
-[chayn609@rogers.com](mailto:chayn609@rogers.com)  
-506-461-6226 (cell)
+[chayn609@rogers.com](mailto:chayn609@rogers.com)
 
 **Nova Scotia**  
 John McCracken  
@@ -58,17 +54,15 @@ John McCracken
 
 **Quebec**  
 Francine Barrette  
-[fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)  
-514-726-1694 (cell)
+[fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
 
-**Ontario**  
-Kathy Johnson  
-[cuperetireesont@gmail.com](mailto:cuperetireesont@gmail.com)
+**Ontario**
+
+_Vacant_
 
 **Manitoba**  
 Maureen Morrison  
-[maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)  
-204-930-3979 (cell)
+[maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
 **Saskatchewan**  
 Andrew Huculak  
@@ -80,5 +74,4 @@ Judy Barry
 
 **British Columbia**  
 Timon Azmier  
-[tazmier@shaw.ca](mailto:tazmier@shaw.ca)  
-604-787-4851 (cell)
+[tazmier@shaw.ca](mailto:tazmier@shaw.ca)
