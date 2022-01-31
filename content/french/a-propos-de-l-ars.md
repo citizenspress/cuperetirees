@@ -2,7 +2,7 @@
 categories = []
 date = 2021-06-16T04:00:00Z
 description = "lLARS s’engage à protéger et à promouvoir le bien-être économique de ses membres."
-lead = "lLARS s’engage à protéger et à promouvoir le bien-être économique de ses membres. "
+lead = "L’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres. "
 slug = "À propos de l’APRS"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
