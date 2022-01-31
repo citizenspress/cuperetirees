@@ -72,7 +72,8 @@ John McCracken
 Francine Barrette  
 [fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
 
-**Ontario**
+**Ontario**  
+_Poste vacant_
 
 **Manitoba**  
 Maureen Morrison  
