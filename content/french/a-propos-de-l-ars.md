@@ -61,8 +61,7 @@ Brian Farewell
 
 **Nouveau-Brunswick et Île-Prince-Édouard**  
 Clifford Hay  
-[chayn609@rogers.com](mailto:chayn609@rogers.com)  
-506-461-6226 (mobile)
+[chayn609@rogers.com](mailto:chayn609@rogers.com)
 
 **Nouvelle-Écosse**  
 John McCracken  
