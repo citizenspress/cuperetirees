@@ -70,8 +70,7 @@ John McCracken
 
 **Québec**  
 Francine Barrette  
-[fra.barrette@hotmail.com  
-514-726-1694 (mobile)](mailto:fra.barrette@hotmail.com)
+[fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
 
 **Ontario**
 
