@@ -15,41 +15,6 @@
                 href="https://cuperetirees.ca/"
                 />
   </url><url>
-    <loc>https://cuperetirees.ca/categories/benefits/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cuperetirees.ca/benefits/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cuperetirees.ca/categories/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cuperetirees.ca/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuperetirees.ca/categories/"
-                />
-  </url><url>
-    <loc>https://cuperetirees.ca/benefits/medicare-premiums-and-taxes-by-province-2020/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cuperetirees.ca/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/</loc>
-    <lastmod>2022-01-23T05:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://cuperetirees.ca/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cuperetirees.ca/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/"
-                />
-  </url><url>
     <loc>https://cuperetirees.ca/by-laws/</loc>
     <lastmod>2022-01-15T05:00:00+00:00</lastmod>
   </url><url>
@@ -64,6 +29,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cuperetirees.ca/tags/2021/"
+                />
+  </url><url>
+    <loc>https://cuperetirees.ca/categories/</loc>
+    <lastmod>2021-09-14T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cuperetirees.ca/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuperetirees.ca/categories/"
                 />
   </url><url>
     <loc>https://cuperetirees.ca/categories/newsletter/</loc>
@@ -127,6 +105,12 @@
     <loc>https://cuperetirees.ca/about-us/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cuperetirees.ca/tags/benefits/</loc>
+    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cuperetirees.ca/benefits/</loc>
+    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cuperetirees.ca/financials/2020/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
     <xhtml:link
@@ -153,10 +137,10 @@
                 href="https://cuperetirees.ca/about-us/officers-and-regional-representatives/"
                 />
   </url><url>
-    <loc>https://cuperetirees.ca/financials/</loc>
+    <loc>https://cuperetirees.ca/categories/financials/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://cuperetirees.ca/categories/financials/</loc>
+    <loc>https://cuperetirees.ca/financials/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cuperetirees.ca/membership/</loc>
@@ -184,6 +168,9 @@
     <loc>https://cuperetirees.ca/benefits/finance/</loc>
     <lastmod>2021-06-16T04:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://cuperetirees.ca/categories/reports/</loc>
+    <lastmod>2021-06-16T04:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://cuperetirees.ca/tags/2020/</loc>
     <lastmod>2020-09-14T05:00:00+00:00</lastmod>
     <xhtml:link
@@ -199,9 +186,6 @@
   </url><url>
     <loc>https://cuperetirees.ca/newsletters/newsletter-fall-2020/</loc>
     <lastmod>2020-09-14T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://cuperetirees.ca/tags/benefits/</loc>
-    <lastmod>2020-03-14T05:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cuperetirees.ca/newsletters/newsletter-march-2020/</loc>
     <lastmod>2020-03-14T05:00:00+00:00</lastmod>
@@ -231,6 +215,12 @@
   </url><url>
     <loc>https://cuperetirees.ca/tags/travel-benefits/</loc>
     <lastmod>2020-03-14T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cuperetirees.ca/tags/medicare-premiums/</loc>
+    <lastmod>2020-01-23T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cuperetirees.ca/benefits/medicare-premiums-and-taxes-by-province-2020/</loc>
+    <lastmod>2020-01-23T05:00:00+00:00</lastmod>
   </url><url>
     <loc>https://cuperetirees.ca/newsletters/newsletter-january-2020/</loc>
     <lastmod>2020-01-14T05:00:00+00:00</lastmod>
@@ -266,5 +256,18 @@
   </url><url>
     <loc>https://cuperetirees.ca/tags/revenue/</loc>
     <lastmod>2019-06-16T04:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://cuperetirees.ca/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/</loc>
+    <lastmod>2019-01-23T05:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://cuperetirees.ca/fr/rapports/les-r%C3%A9percussions-des-r%C3%A9gimes-provinciaux-dassurance-maladie-sur-les-garanties-dont-b%C3%A9n%C3%A9ficient-les-retrait%C3%A9s-du-scfp-%C3%A0-partir-de-l%C3%A2ge-de-65-ans/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cuperetirees.ca/benefits/the-impact-of-provincial-health-plans-on-cupe-retiree-benefits-at-age-65-and-over/"
+                />
   </url>
 </urlset>
