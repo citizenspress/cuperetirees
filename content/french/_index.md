@@ -1,17 +1,14 @@
 +++
-
 date = 2022-01-25T05:00:00Z
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Bienvenue sur le site Web de l’APRS"
 
-
 +++
-## Bienvenue à l'Association du personnel du retraité du SCFP (APRS)
-
+## Bienvenue à l'Association du personnel retraité du SCFP (APRS)
 
 ![](/img/csra_aprs-logo.jpg)
 
-**Bienvenue** sur le site Web de l’**Association du personnel du retraité du SCFP** — créé par les retraités, pour les retraités.
+**Bienvenue** sur le site Web de l’**Association du personnel retraité du SCFP** — créé par les retraités, pour les retraités.
 
 **L’APRS** s’engage à protéger et à promouvoir le bien-être économique de ses membres. Fidèles à notre mission, nous espérons que ce site Web sera pour vous une nouvelle occasion de communiquer et d’échanger des renseignements entre retraités du SCFP.
 
@@ -23,5 +20,3 @@ Si vous souhaitez nous transmettre de l’information aux fins de publication su
 
 **1375, boul. St. Laurent Blvd.  
 Ottawa ON K1G 0Z7**
-
-
