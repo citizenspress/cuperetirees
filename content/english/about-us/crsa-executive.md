@@ -30,7 +30,7 @@ Shelly Gordon
 
 **Secretary**  
 Carole Lefebvre  
-[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca) 
+[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
 **Treasurer**  
 Barry Thorsteinson  
@@ -58,7 +58,9 @@ Francine Barrette
 
 **Ontario**
 
-_Vacant_
+Barb Williams
+
+[bjwilliamsx2@kos.net](mailto:bjwilliamsx2@kos.net)
 
 **Manitoba**  
 Maureen Morrison  
