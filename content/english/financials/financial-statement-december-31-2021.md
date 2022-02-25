@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["Financials", "2021", "Finances"]
 date = 2022-02-21T05:00:00Z
 description = "CSRA Financial statement December 31 2021"
 lead = "Financial statement December 31 2021"
 slug = "Financial statement December 31 2021"
-tags = ["Financial statement"]
+tags = ["Financial statement", "Finacials", "2021", "Finances"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Financial statement December 31 2021"
 translationKey = "Financialstatementdecember2021"
