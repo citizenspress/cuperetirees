@@ -1,17 +1,15 @@
 +++
-categories = ["Communiqué"]
+categories = ["Communiqué", "2020"]
 date = 2020-03-14T05:00:00Z
 description = ""
-draft = false
 lead = ""
 slug = "Communiqué mars 2020"
-tags = ["2020","Green Shield"]
+tags = ["2020", "Green Shield", "Communiqué"]
 thumbnail = ""
 title = "Communiqué le 15 mars 2020"
 translationKey = "NewsletterMarch2020"
 
 +++
-
 ## ARS Communiqué le 15 mars 2020
 
 Cher retraité du SCFP,
