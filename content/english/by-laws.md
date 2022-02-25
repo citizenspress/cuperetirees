@@ -1,6 +1,6 @@
 ---
 title: By-Laws
-date: 2022-01-15T05:00:00+00:00
+date: 2022-01-15T05:00:00.000+00:00
 authorbox: false
 sidebar: true
 slug: by-laws
@@ -8,7 +8,8 @@ translationKey: bylaws
 lead: ''
 thumbnail: "/img/csra_aprs-logo.jpg"
 description: ''
-categories: []
+categories:
+- By-laws
 tags: []
 menu:
   main: {}
