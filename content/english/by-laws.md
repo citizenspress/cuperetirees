@@ -10,7 +10,8 @@ thumbnail: "/img/csra_aprs-logo.jpg"
 description: ''
 categories:
 - By-laws
-tags: []
+tags:
+- By-laws
 menu:
   main: {}
 
