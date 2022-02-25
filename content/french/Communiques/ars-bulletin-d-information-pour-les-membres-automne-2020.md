@@ -1,10 +1,10 @@
 +++
-categories = ["Communiqué"]
+categories = ["Communiqué", "2020"]
 date = 2028-09-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Bulletin d'information automne 2020"
-tags = ["2020"]
+tags = ["2020", "Communiqué"]
 thumbnail = ""
 title = "ARS – Bulletin d’information pour les membres, automne 2020"
 translationKey = "newsletterfall2020"
