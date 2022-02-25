@@ -1,10 +1,10 @@
 +++
-categories = ["Communiqué"]
+categories = ["Communiqué", "2021"]
 date = 2021-10-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Communiqué / Le 28 octobre 2021"
-tags = ["2021"]
+tags = ["2021", "Communiqué \\"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Communiqué automne 2021"
 translationKey = "Communiquéautomne2021"
