@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["Communiqué", "2022"]
 date = 2022-02-21T05:00:00Z
 description = "APRS Bulletin février 2022"
 lead = "APRS Bulletin des membres février 2022"
 slug = "APRS Bulletin février 2022"
-tags = []
+tags = ["Communiqué", "2022"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "APRS Bulletin février 2022"
 translationKey = "newsletterfebruary2022"
