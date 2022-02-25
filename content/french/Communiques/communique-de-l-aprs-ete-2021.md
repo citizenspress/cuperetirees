@@ -1,10 +1,10 @@
 +++
-categories = ["Communiqué"]
+categories = ["Communiqué", "2021"]
 date = 2021-07-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Communiqué Été 2021"
-tags = ["2021"]
+tags = ["2021", "Communiqué"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Communiqué de l’APRS Été 2021"
 translationKey = "Newslettersummer2021"
