@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["By-laws", "Elections"]
 date = 2022-02-21T05:00:00Z
 description = "Procedures for CSRA elections"
 lead = "CSRA Election Guidelines"
 slug = "CSRA Election Guidelines"
-tags = ["Elections", "Bylaws"]
+tags = ["Elections", "By-laws"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "CSRA Election Guidelines"
 translationKey = "Electionguidelines2021"
