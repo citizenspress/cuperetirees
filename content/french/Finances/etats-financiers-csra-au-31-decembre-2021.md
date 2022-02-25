@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["États financiers", "2021"]
 date = 2022-02-21T05:00:00Z
 description = "États financiers CSRA au 31 décembre 2021"
 lead = "États financiers CSRA au 31 décembre 2021"
 slug = "États financiers CSRA au 31 décembre 2021"
-tags = []
+tags = ["États financiers", "2021"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "États financiers CSRA au 31 décembre 2021"
 translationKey = "financialstatementdecember2021"
