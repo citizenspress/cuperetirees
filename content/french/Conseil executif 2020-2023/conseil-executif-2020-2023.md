@@ -2,6 +2,7 @@
 categories = []
 date = 2022-01-15T05:00:00Z
 description = "Liste des membres exécutifs du APRS avec leurs coordonnées."
+draft = true
 lead = "Liste d'exécutif  2020 2023"
 slug = "Conseil Exécutif  2020 2023"
 tags = []
