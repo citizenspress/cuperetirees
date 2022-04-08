@@ -5,7 +5,7 @@ description = "Benefits; Stadnichuk; Over-65"
 lead = "Report by Cheryl Stadnichuk, commissioned by teh CSRA in 2019, on how provincial health insurance plans impact the health benefits of CUPE retirees when they turn 65."
 slug = ""
 tags = ["Benefits"]
-thumbnail = ""
+thumbnail = "/img/report_final_provincial_health_plans_cupe_retirees_april_2020.pdf"
 title = "The Impact of Provincial Health Plans on CUPE Retiree Benefits at age 65 and over"
 translationKey = "répercussionsdesrégimesprovinciauxdassurancemaladie"
 
