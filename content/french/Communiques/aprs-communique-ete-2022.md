@@ -2,7 +2,6 @@
 categories = []
 date = 2022-07-08T04:00:00Z
 description = ""
-draft = true
 lead = "APRS Communiqué été 2022"
 slug = "Communiqué été 2022"
 tags = []
