@@ -1,14 +1,14 @@
 +++
 categories = []
-date = ""
+date = 2022-07-08T04:00:00Z
 description = ""
 draft = true
-lead = ""
+lead = "CSRA Newsletter July 2022"
 slug = "Newsletter Summer 2022"
 tags = []
-thumbnail = ""
+thumbnail = "/img/csra_aprs-logo.jpg"
 title = "CSRA Newsletter Summer 2022"
-translationKey = ""
+translationKey = "APRS Communiqué été 2022"
 
 +++
 **CSRA Newsletter Summer 2022**
