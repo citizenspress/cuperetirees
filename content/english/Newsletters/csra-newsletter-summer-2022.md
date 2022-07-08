@@ -2,6 +2,7 @@
 categories = []
 date = 2022-07-08T04:00:00Z
 description = ""
+draft = true
 lead = "CSRA Newsletter July 2022"
 slug = "Newsletter Summer 2022"
 tags = []
