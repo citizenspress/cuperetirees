@@ -2,7 +2,6 @@
 categories = ["Avis", "Candidats", "Elections", "2022"]
 date = 2022-08-24T04:00:00Z
 description = ""
-draft = true
 lead = "Avis aux candidats aux élections APRS 2022"
 slug = "Avis aux candidats aux élections APRS 2022"
 tags = ["Avis", "Candidats", "Elections", "2022"]
