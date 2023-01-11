@@ -1,19 +1,18 @@
 +++
 categories = []
-date = ""
+date = 2023-01-11T05:00:00Z
 description = ""
-draft = true
-lead = ""
-slug = ""
-tags = []
-thumbnail = ""
-title = "Newsletter December 2022"
-translationKey = ""
+lead = "Newsletter December 2022"
+slug = "Newsletter December 2022"
+tags = ["Newsletters", "2022"]
+thumbnail = "/img/csra_aprs-logo.jpg"
+title = "CSRA Newsletter December 2022"
+translationKey = "APRS Communiqué été 2022"
 
 +++
 December 2022
 
-News from Your CUPE Staff Retirees Association
+## News from Your CUPE Staff Retirees Association
 
 Seasons Greetings Sisters and Brothers,
 
@@ -29,8 +28,7 @@ The answer is yes. The National Officers have responded that, “This has been a
 
 Did you know that as a retiree you are eligible for assistance from CUPE’s Employee Assistance Program? If not, we’re sure you’re not alone. We informed the national officers about an ongoing concern that EAP communications do not reach all retirees directly. Whenever we are asked, CSRA sends out EAP information but it only gets to the roughly two-thirds who are members of the association. We believe it is CUPE’s responsibility to inform retirees about the benefits they are entitled to. We also had a virtual meeting in November with the EAP coordinator to raise this issue.
 
-  
- Again, there’s good news. EAP staff are working with CUPE IT so that in the new year all staff retirees will have access to CUPE Connect, the internal network, for EAP purposes. They are also working with Pensions to create an email list for direct communication with retirees.
+Again, there’s good news. EAP staff are working with CUPE IT so that in the new year all staff retirees will have access to CUPE Connect, the internal network, for EAP purposes. They are also working with Pensions to create an email list for direct communication with retirees.
 
 CSRA is affiliated to the National Pensioners Federation, which is also a volunteer organization. NPF has its hands full with the number of issues facing seniors and pensioners and is in desperate need of volunteers, especially to help with communications and committees. If you are looking for a volunteer opportunity, let us know and we’ll connect you with NPF.
 
