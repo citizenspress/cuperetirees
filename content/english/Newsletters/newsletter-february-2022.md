@@ -1,10 +1,10 @@
 +++
-categories = ["Newsletter"]
+categories = ["Newsletters"]
 date = 2022-02-21T05:00:00Z
 description = "CSRA newsletter February 2022"
 lead = "Newsletter from the CSRA Executive February 2022"
 slug = "Newsletter February 2022"
-tags = ["Newsletter", "2022"]
+tags = ["2022", "Newsletters"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Newsletter February 2022"
 translationKey = "newsletterfeb2022"
