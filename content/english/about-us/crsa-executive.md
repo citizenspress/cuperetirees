@@ -62,13 +62,11 @@ Maureen Morrison
 [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
 **Saskatchewan**  
-Andrew Huculak  
-[andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)
+Peter Tartsch
 
 **Alberta**  
 Judy Barry  
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
 **British Columbia**  
-Timon Azmier  
-[tazmier@shaw.ca](mailto:tazmier@shaw.ca)
+Susan Zander
