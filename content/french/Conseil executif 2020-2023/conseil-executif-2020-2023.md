@@ -1,13 +1,13 @@
 +++
 categories = []
-date = 2022-01-15T05:00:00Z
+date = 2023-03-11T05:00:00Z
 description = "Liste des membres exécutifs du APRS avec leurs coordonnées."
-lead = "Liste d'exécutif  2020 2023"
-slug = "Conseil Exécutif  2020 2023"
+lead = "Liste d'exécutif  2023 2025"
+slug = "Conseil Exécutif  2023 2025"
 tags = []
 thumbnail = "/img/csra_aprs-logo.jpg"
-title = "CONSEIL EXÉCUTIF 2020-2023"
-translationKey = "executive2020"
+title = "CONSEIL EXÉCUTIF 2023-2025"
+translationKey = "executive2023"
 
 +++
 ## APRS CONSEIL EXÉCUTIF 2020-2023
@@ -30,21 +30,18 @@ Shelly Gordon
 Carole Lefebvre  
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
-**Trésorier**  
-Barry Thorsteinson  
-[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)
+**Trésorier**
+
+Leanne MacMillian
 
 **RÉPRESENTANTS DES SECTIONS RÉGIONALES**
 
-**Terre-Neuve-et-Labrador**  
-Brian Farewell  
-[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)
-
+  
 **Nouveau-Brunswick et Île-Prince-Édouard**  
 Clifford Hay  
 [chayn609@rogers.com](mailto:chayn609@rogers.com)
 
-**Nouvelle-Écosse**  
+**Terre-Neuve-et-Labrador et Nouvelle-Écosse**  
 John McCracken  
 [bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
 
@@ -62,14 +59,14 @@ Barb Williams
 Maureen Morrison  
 [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
-**Saskatchewan**  
-Andrew Huculak  
-[andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)
+**Saskatchewan**
+
+Peter Tartsch
 
 **Alberta**  
 Judy Barry  
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
-**Colombia-Britannique**  
-Timon Azmier  
-[tazmier@shaw.ca](mailto:tazmier@shaw.ca)
+**Colombia-Britannique**
+
+Susan Zander
