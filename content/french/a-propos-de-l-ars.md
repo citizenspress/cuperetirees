@@ -29,7 +29,7 @@ Comme l’indiquent nos [Règlements](https://retraitesduscfp.ca/by-laws/), **l�
 
 L’**Association du personnel retraité du SCFP** n’a aucun statut officiel au sein de l’organisation du SCFP, mais elle travaille en collaboration avec toutes les parties pour atteindre les objectifs qu’elle s’est fixé dans son mandat.
 
-## APRS CONSEIL EXÉCUTIF 2020-2023
+## APRS CONSEIL EXÉCUTIF 2023 - 2025
 
 * 1375, boul. St. Laurent Blvd.  
   Ottawa ON K1G 0Z7
@@ -49,21 +49,18 @@ Shelly Gordon
 Carole Lefebvre  
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
-**Trésorier**  
-Barry Thorsteinson  
-[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)
+**Trésorier**
+
+Leanne MacMillan
 
 ### RÉPRESENTANTS DES SECTIONS RÉGIONALES
 
-**Terre-Neuve-et-Labrador**  
-Brian Farewell  
-[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)
-
+  
 **Nouveau-Brunswick et Île-Prince-Édouard**  
 Clifford Hay  
 [chayn609@rogers.com](mailto:chayn609@rogers.com)
 
-**Nouvelle-Écosse**  
+**Terre-Neuve-et-Labrador et Nouvelle-Écosse**  
 John McCracken  
 [bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
 
@@ -71,21 +68,22 @@ John McCracken
 Francine Barrette  
 [fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
 
-**Ontario**  
-_Poste vacant_
+**Ontario**
+
+Barb Williams
 
 **Manitoba**  
 Maureen Morrison  
 [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
-**Saskatchewan**  
-Andrew Huculak  
-[andrewhuculak@hotmail.com](mailto:andrewhuculak@hotmail.com)
+**Saskatchewan**
+
+Peter Tartsch
 
 **Alberta**  
 Judy Barry  
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
-**Colombia-Britannique**  
-Timon Azmier  
-[tazmier@shaw.ca](mailto:tazmier@shaw.ca)
+**Colombia-Britannique**
+
+Susan Zander
