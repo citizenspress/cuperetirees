@@ -12,7 +12,7 @@ translationKey = "executive2020"
 +++
 ### **EXECUTIVE BOARD**
 
-**2020-2023**
+**2023 - 2025**
 
 #### **cuperetirees@gmail.com**
 
@@ -33,22 +33,17 @@ Carole Lefebvre
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
 **Treasurer**  
-Barry Thorsteinson  
-[barry.wanda@rogers.com](mailto:barry.wanda@rogers.com)
+Leanne MacMillan
 
 #### 
 
 #### **CHAPTER REPRESENTATIVES**
 
-**Newfoundland**  
-Brian Farewell  
-[bfarewell10@gmail.com](mailto:bfarewell10@gmail.com)
-
 **New Brunswick & P.E.I.**  
 Clifford Hay  
 [chayn609@rogers.com](mailto:chayn609@rogers.com)
 
-**Nova Scotia**  
+**Newfoundland and Nova Scotia**  
 John McCracken  
 [bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
 
