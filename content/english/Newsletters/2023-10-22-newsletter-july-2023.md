@@ -4,7 +4,7 @@ date: 2023-10-22T22:55:48.432Z
 description: Newsletter July 2023
 translationKey: Newsletterjuly2023
 categories:
-  - Newsletter
+  - Newsletters
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 FRENCH TEXT WILL FOLLOW ENGLISH TEXT
