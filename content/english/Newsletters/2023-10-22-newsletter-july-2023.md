@@ -5,8 +5,10 @@ description: Newsletter July 2023
 translationKey: Newsletterjuly2023
 categories:
   - Newsletters
+  - "2023"
 tags:
   - Newsletters
+  - "2023"
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 
