@@ -5,9 +5,11 @@ description: Newsletter July 2023
 translationKey: Newsletterjuly2023
 categories:
   - Newsletters
+tags:
+  - Newsletters
 thumbnail: /img/csra_aprs-logo.jpg
 ---
-FRENCH TEXT WILL FOLLOW ENGLISH TEXT
+
 
 News from the CUPE Staff Retirees Association
 July 2023         
