@@ -5,8 +5,10 @@ description: Newsletter May 2023
 translationKey: newslettermay2023
 categories:
   - Newsletters
+  - "2023"
 tags:
   - Newsletters
+  - "2023"
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 
