@@ -1,12 +1,14 @@
 ---
-title: CSRA Financial Statement 2022
+title: CSRA /ARPS Financial Statement 2022
 date: 2023-10-23T19:23:36.009Z
 description: Financial Statement Dec 31 2022
 translationKey: financialstatement2022
 categories:
-  - Finances
+  - Finance
+  - "2022"
 tags:
   - Finances
+  - "2022"
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 
