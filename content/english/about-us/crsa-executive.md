@@ -1,15 +1,14 @@
-+++
-categories = []
-date = 2023-03-11T05:00:00Z
-description = "Officers and executive members"
-lead = "Contact information for officers and regional representatives"
-slug = "Officers and regional representatives"
-tags = []
-thumbnail = "List of executive members of the CSRA with contact information."
-title = "CSRA Executive 2023-2025"
-translationKey = "executive2023"
-
-+++
+---
+slug: Officers and regional representatives
+title: CSRA Executive 2023-2025
+date: 2023-03-11T05:00:00.000Z
+description: Officers and executive members
+translationKey: executive2023
+categories: []
+tags: []
+thumbnail: List of executive members of the CSRA with contact information.
+lead: Contact information for officers and regional representatives
+---
 ### **EXECUTIVE BOARD**
 
 **2023 - 2025**
@@ -20,35 +19,35 @@ translationKey = "executive2023"
 
 #### **OFFICERS**
 
-**President**  
-Patricia Daley  
+**President**\
+Patricia Daley\
 [patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)
 
-**Vice-President**  
-Shelly Gordon  
+**Vice-President**\
+Shelly Gordon\
 [shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)
 
-**Secretary**  
-Carole Lefebvre  
+**Secretary**\
+Carole Lefebvre\
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
-**Treasurer**  
+**Treasurer**\
 Leanne MacMillan
 
-#### 
+c﻿sra.acrstreasurer@gmail.com
 
 #### **CHAPTER REPRESENTATIVES**
 
-**New Brunswick & P.E.I.**  
-Clifford Hay  
+**New Brunswick & P.E.I.**\
+Clifford Hay\
 [chayn609@rogers.com](mailto:chayn609@rogers.com)
 
-**Newfoundland and Nova Scotia**  
-John McCracken  
+**Newfoundland and Nova Scotia**\
+John McCracken\
 [bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
 
-**Quebec**  
-Francine Barrette  
+**Quebec**\
+Francine Barrette\
 [fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
 
 **Ontario**
@@ -57,16 +56,16 @@ Barb Williams
 
 [bjwilliamsx2@kos.net](mailto:bjwilliamsx2@kos.net)
 
-**Manitoba**  
-Maureen Morrison  
+**Manitoba**\
+Maureen Morrison\
 [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
-**Saskatchewan**  
+**Saskatchewan**\
 Peter Tartsch
 
-**Alberta**  
-Judy Barry  
+**Alberta**\
+Judy Barry\
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
-**British Columbia**  
+**British Columbia**\
 Susan Zander
