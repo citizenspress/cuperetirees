@@ -1,18 +1,20 @@
-+++
-categories = []
-date = 2021-06-16T04:00:00Z
-description = "lLARS s’engage à protéger et à promouvoir le bien-être économique de ses membres."
-lead = "L’APRS s’engage à protéger et à promouvoir le bien-être économique de ses membres. "
-slug = "À propos de l’APRS"
-tags = []
-thumbnail = "/img/csra_aprs-logo.jpg"
-title = "À propos de l’APRS"
-toc = true
-translationKey = "about"
-[menu.main]
-weight = 1
-
-+++
+---
+toc: true
+slug: À propos de l’APRS
+title: À propos de l’APRS
+date: 2021-06-16T04:00:00.000Z
+description: lLARS s’engage à protéger et à promouvoir le bien-être économique
+  de ses membres.
+translationKey: about
+categories: []
+tags: []
+thumbnail: /img/csra_aprs-logo.jpg
+lead: "L’APRS s’engage à protéger et à promouvoir le bien-être économique de ses
+  membres. "
+menu:
+  main:
+    weight: 1
+---
 Bienvenue sur le site web de l’**Association du personnel retraité du SCFP**.
 
 ## À propos
@@ -31,57 +33,60 @@ L’**Association du personnel retraité du SCFP** n’a aucun statut officiel a
 
 ## APRS CONSEIL EXÉCUTIF 2023 - 2025
 
-* 1375, boul. St. Laurent Blvd.  
+* 1375, boul. St. Laurent Blvd.\
   Ottawa ON K1G 0Z7
 * cuperetirees@gmail.com
 
 ### ADMINISTRATEURS
 
-**Présidente**  
-Patricia Daley  
+**Présidente**\
+Patricia Daley\
 [patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)
 
-**Vice-présidente**  
-Shelly Gordon  
+**Vice-présidente**\
+Shelly Gordon\
 [shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)
 
-**Secrétaire**  
-Carole Lefebvre  
+**Secrétaire**\
+Carole Lefebvre\
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
 **Trésorier**
 
 Leanne MacMillan
 
+scsra.asrctreasurer@gmail.com
+
+
+
 ### RÉPRESENTANTS DES SECTIONS RÉGIONALES
 
-  
-**Nouveau-Brunswick et Île-Prince-Édouard**  
-Clifford Hay  
+**Nouveau-Brunswick et Île-Prince-Édouard**\
+Clifford Hay\
 [chayn609@rogers.com](mailto:chayn609@rogers.com)
 
-**Terre-Neuve-et-Labrador et Nouvelle-Écosse**  
-John McCracken  
+**Terre-Neuve-et-Labrador et Nouvelle-Écosse**\
+John McCracken\
 [bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
 
-**Québec**  
-Francine Barrette  
+**Québec**\
+Francine Barrette\
 [fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
 
 **Ontario**
 
 Barb Williams
 
-**Manitoba**  
-Maureen Morrison  
+**Manitoba**\
+Maureen Morrison\
 [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
 **Saskatchewan**
 
 Peter Tartsch
 
-**Alberta**  
-Judy Barry  
+**Alberta**\
+Judy Barry\
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
 **Colombia-Britannique**
