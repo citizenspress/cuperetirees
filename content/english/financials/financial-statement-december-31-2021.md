@@ -1,15 +1,18 @@
-+++
-categories = ["2021", "Finances", "Financial statements"]
-date = 2022-02-21T05:00:00Z
-description = "CSRA Financial statement December 31 2021"
-lead = "Financial statement December 31 2021"
-slug = "Financial statement December 31 2021"
-tags = ["Financial statement", "2021", "Finances"]
-thumbnail = "/img/csra_aprs-logo.jpg"
-title = "Financial statement December 31 2021"
-translationKey = "Financialstatementdecember2021"
-
-+++
+---
+slug: Financial statement December 31 2021
+title: Financial statement December 31 2021
+date: 2022-02-21T05:00:00.000Z
+translationKey: Financialstatementdecember2021
+categories:
+  - Finances
+tags:
+  - Financial statement
+  - "2021"
+  - Finances
+thumbnail: /img/csra_aprs-logo.jpg
+lead: Financial statement December 31 2021
+description: CSRA Financial statement December 31 2021
+---
 ## 2021 Year End Financial Statement as of 31st, December, 2021.
 
 Opening cash balance at Your Credit Union on January 1st, 2021: $9,904.82
