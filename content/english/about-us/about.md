@@ -28,9 +28,10 @@ As set out in our By-Laws, the mandate of the CUPE Staff Retirees Association is
 
 The CUPE Staff Retirees Association has no official status within the CUPE organization, but works collaboratively with all parties to achieve our mandated goals.
 
+
 ## **EXECUTIVE BOARD**
 
-Updated: **2020-2023**
+**2023 - 2025**
 
 * Main email:  
   **cuperetirees@gmail.com**
@@ -38,54 +39,58 @@ Updated: **2020-2023**
   **1375, boul. St. Laurent Blvd.  
   Ottawa ON K1G 0Z7**
 
+
 ### **OFFICERS**
 
-**President**  
-Patricia Daley  
+**President**\
+Patricia Daley\
 [patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)
 
-**Vice-President**  
-Shelly Gordon  
+**Vice-President**\
+Shelly Gordon\
 [shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)
 
-**Secretary**  
-Carole Lefebvre  
+**Secretary**\
+Carole Lefebvre\
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
-**Treasurer**
-
-Leanne MacMillan
+**Treasurer**\
+Leanne MacMillan\  
+[scsra.asrctreasurer@gmail.com](mailto:scsra.asrctreasurer@gmail.com)
 
 ### **CHAPTER REPRESENTATIVES**
 
-**New Brunswick & P.E.I.**  
-Clifford Hay  
+**New Brunswick & P.E.I.**\
+Clifford Hay\
 [chayn609@rogers.com](mailto:chayn609@rogers.com)
 
-**Newfoundland & Labrador and Nova Scotia**  
-John McCracken  
+**Newfoundland and Nova Scotia**\
+John McCracken\
 [bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
 
-**Quebec**  
-Francine Barrette  
+**Quebec**\
+Francine Barrette\
 [fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
 
 **Ontario**
 
 Barb Williams
 
-**Manitoba**  
-Maureen Morrison  
+[bjwilliamsx2@kos.net](mailto:bjwilliamsx2@kos.net)
+
+**Manitoba**\
+Maureen Morrison\
 [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
-**Saskatchewan**
+**Saskatchewan**\
+Vacant
 
-Peter Tartsch
-
-**Alberta**  
-Judy Barry  
+**Alberta**\
+Judy Barry\
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
-**British Columbia**
-
+**British Columbia**\
 Susan Zander
+
+
+
