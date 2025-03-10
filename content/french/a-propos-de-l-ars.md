@@ -80,7 +80,7 @@ Maureen Morrison\
 
 **Saskatchewan**
 
-Peter Tartsch
+Vacant
 
 **Alberta**\
 Judy Barry\
