@@ -32,8 +32,8 @@ Carole Lefebvre\
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
 **Treasurer**\
-Leanne MacMillan[\
-scsra.asrctreasurer@gmail.com](<﻿ mailto:scsra.asrctreasurer@gmail.com>)
+Leanne MacMillan\  
+[scsra.asrctreasurer@gmail.com](mailto:scsra.asrctreasurer@gmail.com)
 
 #### **CHAPTER REPRESENTATIVES**
 
