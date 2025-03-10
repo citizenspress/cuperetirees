@@ -60,7 +60,7 @@ Maureen Morrison\
 [maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
 
 **Saskatchewan**\
-Peter Tartsch
+Vacant
 
 **Alberta**\
 Judy Barry\
