@@ -1,5 +1,5 @@
 +++
-categories = ["Newsletter"]
+categories = ["Newsletters"]
 date = 2021-09-14T05:00:00Z
 description = ""
 lead = "Report from CSRA Executive meeting October 2021"
