@@ -4,8 +4,7 @@ date: 2023-10-23T19:23:36.009Z
 description: Financial Statement Dec 31 2022
 translationKey: financialstatement2022
 categories:
-  - Finance
-  - "2022"
+  - Finances
 tags:
   - Finances
   - "2022"
