@@ -3,14 +3,14 @@ toc: true
 slug: À propos de l’APRS
 title: À propos de l’APRS
 date: 2021-06-16T04:00:00.000Z
-description: lLARS s’engage à protéger et à promouvoir le bien-être économique
-  de ses membres.
 translationKey: about
 categories: []
 tags: []
 thumbnail: /img/csra_aprs-logo.jpg
 lead: "L’APRS s’engage à protéger et à promouvoir le bien-être économique de ses
   membres. "
+description: lLARS s’engage à protéger et à promouvoir le bien-être économique
+  de ses membres.
 menu:
   main:
     weight: 1
@@ -55,9 +55,7 @@ Carole Lefebvre\
 
 Leanne MacMillan
 
-scsra.asrctreasurer@gmail.com
-
-
+[scsra.asrctreasurer@gmail.com](mailto:scsra.asrctreasurer@gmail.com)
 
 ### RÉPRESENTANTS DES SECTIONS RÉGIONALES
 
