@@ -2,12 +2,12 @@
 slug: Officers and regional representatives
 title: CSRA Executive 2023-2025
 date: 2023-03-11T05:00:00.000Z
-description: Officers and executive members
 translationKey: executive2023
 categories: []
 tags: []
 thumbnail: List of executive members of the CSRA with contact information.
 lead: Contact information for officers and regional representatives
+description: Officers and executive members
 ---
 ### **EXECUTIVE BOARD**
 
@@ -32,11 +32,8 @@ Carole Lefebvre\
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
 **Treasurer**\
-Leanne MacMillan
-
-scsra.asrctreasurer@gmail.com
-
-
+Leanne MacMillan[\
+scsra.asrctreasurer@gmail.com](<﻿ mailto:scsra.asrctreasurer@gmail.com>)
 
 #### **CHAPTER REPRESENTATIVES**
 
