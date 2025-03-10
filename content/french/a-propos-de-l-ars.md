@@ -53,9 +53,8 @@ Carole Lefebvre\
 
 **Trésorier**
 
-Leanne MacMillan
-
-[scsra.asrctreasurer@gmail.com](mailto:scsra.asrctreasurer@gmail.com)
+Leanne MacMillan\
+scsra.asrctreasurer@gmail.com
 
 ### RÉPRESENTANTS DES SECTIONS RÉGIONALES
 
