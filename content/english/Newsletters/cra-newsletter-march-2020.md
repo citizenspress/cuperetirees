@@ -1,10 +1,10 @@
 +++
-categories = ["Newsletter"]
+categories = ["Newsletters"]
 date = 2020-03-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Newsletter March 2020"
-tags = ["2020","Green Shield", "Benefits", "Travel benefits"]
+tags = ["Green Shield", "Benefits", "Travel benefits"]
 thumbnail = ""
 title = "CRA Newsletter March 2020"
 translationKey = "NewsletterMarch2020"

@@ -4,7 +4,6 @@ date = 2021-09-14T05:00:00Z
 description = ""
 lead = "Report from CSRA Executive meeting October 2021"
 slug = "Newsletter Fall 2021"
-tags = ["2021"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "Newsletter Fall 2021"
 translationKey = "Communiquéautomne2021"

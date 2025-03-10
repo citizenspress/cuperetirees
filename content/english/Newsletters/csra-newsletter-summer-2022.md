@@ -1,10 +1,9 @@
 +++
-categories = []
+categories = ["Newsletters"]
 date = 2022-07-08T04:00:00Z
 description = ""
 lead = "CSRA Newsletter July 2022"
 slug = "Newsletter Summer 2022"
-tags = ["2022", "Newsletters"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "CSRA Newsletter Summer 2022"
 translationKey = "APRS Communiqué été 2022"

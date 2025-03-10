@@ -1,10 +1,9 @@
 +++
-categories = ["Newsletters", "2022"]
-date = 2023-01-11T05:00:00Z
-description = "CSRA Executive Committee newsletter to members December 2022\n"
+categories = ["Newsletters"]
+date = 2022-12-01T05:00:00Z
+description = "CSRA Executive Committee newsletter to members December 2022"
 lead = "Newsletter December 2022"
 slug = "Newsletter December 2022"
-tags = ["Newsletters", "2022"]
 thumbnail = "/img/csra_aprs-logo.jpg"
 title = "CSRA Newsletter December 2022"
 translationKey = "Communique Dec 2022"

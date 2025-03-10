@@ -1,5 +1,5 @@
 +++
-categories = ["Newsletter"]
+categories = ["Newsletters"]
 date = 2023-10-31T05:00:00Z
 description = ""
 lead = ""

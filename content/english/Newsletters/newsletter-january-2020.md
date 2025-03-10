@@ -1,10 +1,9 @@
 +++
-categories = ["Newsletter"]
+categories = ["Newsletters"]
 date = 2020-01-14T05:00:00Z
 description = ""
 lead = ""
 slug = "Newsletter January 2020"
-tags = ["2021"]
 thumbnail = ""
 title = "Newsletter January 2020"
 translationKey = "newsletterjanuary2020"
