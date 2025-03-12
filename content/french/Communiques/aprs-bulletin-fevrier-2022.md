@@ -1,15 +1,16 @@
-+++
-categories = ["Communiqué", "2022"]
-date = 2022-02-21T05:00:00Z
-description = "APRS Bulletin février 2022"
-lead = "APRS Bulletin des membres février 2022"
-slug = "APRS Bulletin février 2022"
-tags = ["Communiqué", "2022"]
-thumbnail = "/img/csra_aprs-logo.jpg"
-title = "APRS Bulletin février 2022"
-translationKey = "newsletterfebruary2022"
-
-+++
+---
+slug: APRS Bulletin février 2022
+title: APRS Bulletin février 2022
+date: 2022-02-21T05:00:00.000Z
+translationKey: newsletterfebruary2022
+categories:
+  - Communiqués
+tags:
+  - "2022"
+thumbnail: /img/csra_aprs-logo.jpg
+lead: APRS Bulletin des membres février 2022
+description: APRS Bulletin février 2022
+---
 ## APRS Bulletin des membres
 
 ## Février 2022
