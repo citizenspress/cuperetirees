@@ -1,15 +1,16 @@
-+++
-categories = []
-date = 2022-07-08T04:00:00Z
-description = ""
-lead = "APRS Communiqué été 2022"
-slug = "Communiqué été 2022"
-tags = ["2022", "Communiques"]
-thumbnail = "/img/csra_aprs-logo.jpg"
-title = "APRS Communiqué été 2022"
-translationKey = "CSRA Newsletter Summer 2022"
-
-+++
+---
+slug: Communiqué été 2022
+title: APRS Communiqué été 2022
+date: 2022-07-08T04:00:00.000Z
+translationKey: CSRA Newsletter Summer 2022
+categories:
+  - Communiques
+tags:
+  - "2022"
+thumbnail: /img/csra_aprs-logo.jpg
+lead: APRS Communiqué été 2022
+description: " "
+---
 **APRS Communiqué été 2022**
 
 Confrères et consoeurs,
