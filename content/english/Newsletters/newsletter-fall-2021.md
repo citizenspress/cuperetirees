@@ -1,14 +1,16 @@
-+++
-categories = ["Newsletters"]
-date = 2021-09-14T05:00:00Z
-description = ""
-lead = "Report from CSRA Executive meeting October 2021"
-slug = "Newsletter Fall 2021"
-thumbnail = "/img/csra_aprs-logo.jpg"
-title = "Newsletter Fall 2021"
-translationKey = "Communiquéautomne2021"
-
-+++
+---
+slug: Newsletter Fall 2021
+title: Newsletter Fall 2021
+date: 2021-09-14T05:00:00.000Z
+translationKey: Communiquéautomne2021
+categories:
+  - Newsletters
+tags:
+  - "2021"
+thumbnail: /img/csra_aprs-logo.jpg
+lead: Report from CSRA Executive meeting October 2021
+description: " "
+---
 ## CSRA Newsletter Fall 2021
 
 October 28, 2021
