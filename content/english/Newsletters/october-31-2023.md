@@ -1,15 +1,16 @@
-+++
-categories = ["Newsletters"]
-date = 2023-10-31T05:00:00Z
-description = ""
-lead = ""
-slug = "Newsletter March 2020"
-tags = [""]
-thumbnail = ""
-title = "CRA Newsletter October 31, 2023"
-translationKey = "NewsletterOct2023"
-
-+++
+---
+slug: Newsletter March 2020
+title: CRA Newsletter October 31, 2023
+date: 2023-10-31T05:00:00.000Z
+translationKey: NewsletterOct2023
+categories:
+  - Newsletters
+tags:
+  - "2023"
+thumbnail: /img/csra_aprs-logo.png
+lead: ""
+description: " "
+---
 
 **CSRA Newsletter - October 31, 2023**
 
