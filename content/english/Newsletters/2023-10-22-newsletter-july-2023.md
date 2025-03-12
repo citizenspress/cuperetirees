@@ -3,8 +3,10 @@ title: Newsletter July 2023
 date: 2023-05-01
 description: Newsletter July 2023
 translationKey: Newsletterjuly2023
-categories: ["Newsletters"]
-
+categories:
+  - Newsletters
+tags:
+  - "2023"
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 
