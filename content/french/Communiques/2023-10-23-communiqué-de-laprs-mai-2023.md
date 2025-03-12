@@ -6,7 +6,7 @@ translationKey: newslettermay2023
 categories:
   - Communiqués
 tags:
-  - Communiqués
+  - "2023"
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 
