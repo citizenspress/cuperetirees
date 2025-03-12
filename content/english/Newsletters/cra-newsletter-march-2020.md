@@ -1,15 +1,19 @@
-+++
-categories = ["Newsletters"]
-date = 2020-03-14T05:00:00Z
-description = ""
-lead = ""
-slug = "Newsletter March 2020"
-tags = ["Green Shield", "Benefits", "Travel benefits"]
-thumbnail = ""
-title = "CRA Newsletter March 2020"
-translationKey = "NewsletterMarch2020"
-
-+++
+---
+slug: Newsletter March 2020
+title: CRA Newsletter March 2020
+date: 2020-03-14T05:00:00.000Z
+translationKey: NewsletterMarch2020
+categories:
+  - Newsletters
+tags:
+  - "2020"
+  - Green Shield
+  - Benefits
+  - Travel benefits
+thumbnail: /img/csra_aprs-logo.png
+lead: ""
+description: " "
+---
 ## CRA Newsletter March 2020
 
 Dear CUPE Retiree,
