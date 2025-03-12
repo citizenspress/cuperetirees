@@ -1,15 +1,16 @@
-+++
-categories = ["Communiqué", "2021"]
-date = 2021-10-14T05:00:00Z
-description = ""
-lead = ""
-slug = "Communiqué / Le 28 octobre 2021"
-tags = ["2021", "Communiqué"]
-thumbnail = "/img/csra_aprs-logo.jpg"
-title = "Communiqué automne 2021"
-translationKey = "Communiquéautomne2021"
-
-+++
+---
+slug: Communiqué / Le 28 octobre 2021
+title: Communiqué automne 2021
+date: 2021-10-14T05:00:00.000Z
+translationKey: Communiquéautomne2021
+categories:
+  - Communiqués
+tags:
+  - "2021"
+thumbnail: /img/csra_aprs-logo.jpg
+lead: ""
+description: "  "
+---
 ## ARPS Communiqué automne 2021
 
 Le 28 octobre 2021
