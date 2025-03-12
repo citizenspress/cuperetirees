@@ -1,19 +1,19 @@
-+++
-categories = []
-date = 2021-06-16T04:00:00Z
-description = "About"
-lead = ""
-linkTitle = "about"
-slug = "about"
-tags = []
-thumbnail = ""
-title = "About the CUPE Staff Retirees Association (CSRA)"
-toc = true
-translationKey = "about"
-[menu.main]
-weight = 1
-
-+++
+---
+toc: true
+slug: about
+title: About the CUPE Staff Retirees Association (CSRA)
+date: 2021-06-16T04:00:00.000Z
+translationKey: about
+categories: []
+tags: []
+thumbnail: /img/csra_aprs-logo.png
+lead: ""
+description: About
+linkTitle: about
+menu:
+  main:
+    weight: 1
+---
 ## About the CUPE Staff Retirees Association
 
 As set out in our By-Laws, the mandate of the CUPE Staff Retirees Association is to safeguard and advance the economic welfare of its members. Our By-Laws identify several objectives to help us achieve this mandate:
@@ -28,17 +28,15 @@ As set out in our By-Laws, the mandate of the CUPE Staff Retirees Association is
 
 The CUPE Staff Retirees Association has no official status within the CUPE organization, but works collaboratively with all parties to achieve our mandated goals.
 
-
 ## **EXECUTIVE BOARD**
 
 **2023 - 2025**
 
-* Main email:  
+* Main email:\
   **cuperetirees@gmail.com**
-* Mailing Address:  
-  **1375, boul. St. Laurent Blvd.  
+* Mailing Address:\
+  **1375, boul. St. Laurent Blvd.\
   Ottawa ON K1G 0Z7**
-
 
 ### **OFFICERS**
 
@@ -55,7 +53,7 @@ Carole Lefebvre\
 [carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
 
 **Treasurer**\
-Leanne MacMillan\  
+Leanne MacMillan\
 [scsra.asrctreasurer@gmail.com](mailto:scsra.asrctreasurer@gmail.com)
 
 ### **CHAPTER REPRESENTATIVES**
@@ -91,6 +89,3 @@ Judy Barry\
 
 **British Columbia**\
 Susan Zander
-
-
-
