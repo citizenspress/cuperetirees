@@ -1,15 +1,16 @@
-+++
-categories = ["Communiqués", "2022"]
-date = 2023-01-11T05:00:00Z
-description = "APRS Communiqué décembre 2022"
-lead = "Communiqué décembre 2022"
-slug = "Communiqué décembre 2022"
-tags = ["Communiqués", "2022"]
-thumbnail = "/img/csra_aprs-logo.jpg"
-title = "APRS Communiqué décembre 2022"
-translationKey = "CSRA Newsletter December 2022"
-
-+++
+---
+slug: Communiqué décembre 2022
+title: APRS Communiqué décembre 2022
+date: 2023-01-11T05:00:00.000Z
+translationKey: CSRA Newsletter December 2022
+categories:
+  - Communiqués
+tags:
+  - "2022"
+thumbnail: /img/csra_aprs-logo.jpg
+lead: Communiqué décembre 2022
+description: APRS Communiqué décembre 2022
+---
 Décembre 2022
 
 ## Des nouvelles de votre conseil exécutif de l’Association du personnel retraité du SCFP
