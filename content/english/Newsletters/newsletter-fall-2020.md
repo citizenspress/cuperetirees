@@ -1,14 +1,16 @@
-+++
-categories = ["Newsletters"]
-date = 2020-09-14T05:00:00Z
-description = ""
-lead = ""
-slug = "Newsletter Fall 2020"
-thumbnail = ""
-title = "Newsletter Fall 2020"
-translationKey = "newsletterfall2020"
-
-+++
+---
+slug: Newsletter Fall 2020
+title: Newsletter Fall 2020
+date: 2020-09-14T05:00:00.000Z
+translationKey: newsletterfall2020
+categories:
+  - Newsletters
+tags:
+  - "2020"
+thumbnail: /img/csra_aprs-logo.png
+lead: ""
+description: " "
+---
 ## CRA Newsletter Fall 2020
 
 Dear Sisters and Brothers,
