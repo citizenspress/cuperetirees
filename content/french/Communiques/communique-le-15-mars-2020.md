@@ -1,15 +1,17 @@
-+++
-categories = ["Communiqué", "2020"]
-date = 2020-03-14T05:00:00Z
-description = ""
-lead = ""
-slug = "Communiqué mars 2020"
-tags = ["2020", "Green Shield", "Communiqué"]
-thumbnail = ""
-title = "Communiqué le 15 mars 2020"
-translationKey = "NewsletterMarch2020"
-
-+++
+---
+slug: Communiqué mars 2020
+title: Communiqué le 15 mars 2020
+date: 2020-03-14T05:00:00.000Z
+translationKey: NewsletterMarch2020
+categories:
+  - Communiqués
+tags:
+  - "2020"
+  - Green Shield
+thumbnail: /img/csra_aprs-logo.png
+lead: ""
+description: " "
+---
 ## ARS Communiqué le 15 mars 2020
 
 Cher retraité du SCFP,
