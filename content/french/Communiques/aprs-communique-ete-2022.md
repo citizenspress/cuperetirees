@@ -4,7 +4,7 @@ title: APRS Communiqué été 2022
 date: 2022-07-08T04:00:00.000Z
 translationKey: CSRA Newsletter Summer 2022
 categories:
-  - Communiques
+  - Communiqué
 tags:
   - "2022"
 thumbnail: /img/csra_aprs-logo.jpg
