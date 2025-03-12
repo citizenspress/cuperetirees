@@ -1,15 +1,16 @@
-+++
-categories = ["Communiqué"]
-date = 2020-01-14T05:00:00Z
-description = ""
-lead = ""
-slug = "Communiqué janvier 2020"
-tags = ["2020"]
-thumbnail = ""
-title = "ARS Communiqué janvier 2020"
-translationKey = "newsletterjanuary2020"
-
-+++
+---
+slug: Communiqué janvier 2020
+title: ARS Communiqué janvier 2020
+date: 2020-01-14T05:00:00.000Z
+translationKey: newsletterjanuary2020
+categories:
+  - Communiqués
+tags:
+  - "2020"
+thumbnail: /img/csra_aprs-logo.png
+lead: ""
+description: ARS communiqué
+---
 ## ARS communiqué
 
 ## Janvier 2020
