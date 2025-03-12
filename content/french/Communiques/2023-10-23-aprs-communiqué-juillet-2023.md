@@ -6,7 +6,7 @@ translationKey: newsletterjuly2023
 categories:
   - Communiqués
 tags:
-  - Communiqués
+  - "2023"
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 Nouvelles de l’Association du personnel retraité du SCFP
