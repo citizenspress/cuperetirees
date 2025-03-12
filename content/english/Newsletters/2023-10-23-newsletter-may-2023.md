@@ -3,7 +3,10 @@ title: Newsletter May 2023
 date: 2023-05-23T19:16:20.068Z
 description: Newsletter May 2023
 translationKey: newslettermay2023
-categories: ["Newsletters"]
+categories:
+  - Newsletters
+tags:
+  - "2023"
 thumbnail: /img/csra_aprs-logo.jpg
 ---
 
