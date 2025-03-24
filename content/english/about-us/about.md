@@ -54,7 +54,7 @@ Carole Lefebvre\
 
 **Treasurer**\
 Leanne MacMillan\
-[scsra.asrctreasurer@gmail.com](mailto:scsra.asrctreasurer@gmail.com)
+[csra.asrctreasurer@gmail.com](mailto:csra.asrctreasurer@gmail.com)
 
 ### **CHAPTER REPRESENTATIVES**
 
