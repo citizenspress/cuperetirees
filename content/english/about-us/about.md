@@ -40,21 +40,19 @@ The CUPE Staff Retirees Association has no official status within the CUPE organ
 
 ### **OFFICERS**
 
-**President**\
-Patricia Daley\
-[patdaleycra@gmail.com](mailto:patdaleycra@gmail.com)
+***President**: Humberto da Silva*\
+Email: [csra.aprs.president@proton.me](mailto:csra.aprs.president@proton.me)                                                                                                                                                                              
 
-**Vice-President**\
-Shelly Gordon\
-[shellygordoncupe@gmail.com](mailto:shellygordoncupe@gmail.com)
+***Vice President**: Andrew Huculak*\
+Email: [csra.aprs.vp@gmail.com](mailto:csra.aprs.vp@gmail.com)                                                                                                                                                                                     
 
-**Secretary**\
-Carole Lefebvre\
-[carole-lefebvre@videotron.ca](mailto:carole-lefebvre@videotron.ca)
+***Treasurer**: Leanne McMillan*\
+Email: [csra.asrctreasurer@gmail.com](mailto:csra.asrctreasurer@gmail.com)                                                                                                                                                                               
 
-**Treasurer**\
-Leanne MacMillan\
-[csra.asrctreasurer@gmail.com](mailto:csra.asrctreasurer@gmail.com)
+***Secretary**: Bev Norman*\
+Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
+
+
 
 ### **CHAPTER REPRESENTATIVES**
 
