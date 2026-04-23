@@ -57,48 +57,36 @@ Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
 
 ### **CHAPTER REPRESENTATIVES**
 
-New Brunswick & P.E.I.
-
-Maureen Michaud
-
-[maureen-michaud@hotmail.com](maureen-michaud@hotmail.com)
-
 **Newfoundland and Labrador**
 
-Lionel Clarke
+Lionel Clarke		[lionelgclarke@outlook.com](mailto:lionelgclarke@outlook.com) 
 
-[lionelgclarke@outlook.com](lionelgclarke@outlook.com)
+**Nova Scotia**
 
-**Quebec**
+Larry Power 		[powerl@hotmail.ca](mailto:powerl@hotmail.ca)
 
-Ronald Clouthier
+**Prince Edward Island and New Brunswick**
 
-[cloutier.ronald@gmail.com](cloutier.ronald@gmail.com)
+Maureen Michaud 	[maureen-michaud@hotmail.com](mailto:maureen-michaud@hotmail.com)
 
-**Ontario**
+**Quebec** 
 
-Shalom Schachter
+Ronald Cloutier 		[cloutier.ronald@gmail.com](mailto:cloutier.ronald@gmail.com)
 
-[csra@gilbertschachter@hotmail.com](csra@gilbertschachter@hotmail.com)
+**Ontario** 
 
-**Manitoba**
+Shalom Schachter  	[csra@gilbertschachter.com](mailto:csra@gilbertschachter.com) 
 
-Carmelle Chartier
+**Manitoba** 
 
-[carmellechartier@hotmail.com](carmellechartier@hotmail.com)
+Carmelle Chartier 	[carmellechartier@hotmail.com](mailto:carmellechartier@hotmail.com)
 
-**Saskatchewan**
+**Saskatchewan**  - vacant 
 
-Vacant
+**Alberta** 
 
-**Alberta**
+Judy Barry 		[daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
-Judy Barry
+**British Columbia** 
 
-[daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
-
-**British Columbia**
-
-Susan Zander
-
-[susanzander12@gmail.com](susanzander12@gmail.com)
+Susan Zander		[susanzander12@gmail.com](mailto:susanzander12@gmail.com)
