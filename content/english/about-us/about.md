@@ -58,15 +58,27 @@ Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
 ### **CHAPTER REPRESENTATIVES**
 
 New Brunswick & P.E.I.
+
+
 Maureen Michaud
+
+
 [maureen-michaud@hotmail.com](maureen-michaud@hotmail.com)
 
 **Newfoundland and Labrador**
+
+
 Lionel Clarke
+
+
 [lionelgclarke@outlook.com](lionelgclarke@outlook.com)
 
 **Quebec**
+
+
 Ronald Clouthier[
+
+
 ](cloutier.ronald@gmail.com)[cloutier.ronald@gmail.com](cloutier.ronald@gmail.com)
 
 **Ontario**
@@ -76,17 +88,29 @@ Shalom Schachter
 [csra@gilbertschachter@hotmail.com](csra@gilbertschachter@hotmail.com)
 
 **Manitoba**
+
+
 Carmelle Chartier
+
+
 [carmellechartier@hotmail.com](carmellechartier@hotmail.com)
 
 **Saskatchewan**
+
+
 Vacant
 
 **Alberta**
+
+
 Judy Barry
+
+
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
 **British Columbia**
+
+
 Susan Zander
 
 [susanzander12@gmail.com](susanzander12@gmail.com)
