@@ -8,13 +8,13 @@ categories:
 tags:
   - None
 thumbnail: /img/csra_aprs-logo.png
-toc: true
-slug: about
-lead: ''
-linkTitle: about
 menu:
   main:
     weight: 1
+linkTitle: about
+lead: ''
+slug: about
+toc: true
 ---
 
 ## About the CUPE Staff Retirees Association
@@ -59,34 +59,35 @@ Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
 
 **Newfoundland and Labrador**
 
-Lionel Clarke		[lionelgclarke@outlook.com](mailto:lionelgclarke@outlook.com) 
+- Lionel Clarke		[lionelgclarke@outlook.com](mailto:lionelgclarke@outlook.com) 
 
 **Nova Scotia**
 
-Larry Power 		[powerl@hotmail.ca](mailto:powerl@hotmail.ca)
+- Larry Power 		[powerl@hotmail.ca](mailto:powerl@hotmail.ca)
 
 **Prince Edward Island and New Brunswick**
 
-Maureen Michaud 	[maureen-michaud@hotmail.com](mailto:maureen-michaud@hotmail.com)
+- Maureen Michaud 	[maureen-michaud@hotmail.com](mailto:maureen-michaud@hotmail.com)
 
 **Quebec** 
 
-Ronald Cloutier 		[cloutier.ronald@gmail.com](mailto:cloutier.ronald@gmail.com)
+- Ronald Cloutier 		[cloutier.ronald@gmail.com](mailto:cloutier.ronald@gmail.com)
 
 **Ontario** 
 
-Shalom Schachter  	[csra@gilbertschachter.com](mailto:csra@gilbertschachter.com) 
+- Shalom Schachter  	[csra@gilbertschachter.com](mailto:csra@gilbertschachter.com) 
 
 **Manitoba** 
 
-Carmelle Chartier 	[carmellechartier@hotmail.com](mailto:carmellechartier@hotmail.com)
+- Carmelle Chartier 	[carmellechartier@hotmail.com](mailto:carmellechartier@hotmail.com)
 
-**Saskatchewan**  - vacant 
+**Saskatchewan** 
+- vacant 
 
 **Alberta** 
 
-Judy Barry 		[daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
+- Judy Barry 		[daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
 **British Columbia** 
 
-Susan Zander		[susanzander12@gmail.com](mailto:susanzander12@gmail.com)
+- Susan Zander		[susanzander12@gmail.com](mailto:susanzander12@gmail.com)
