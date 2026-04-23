@@ -4,7 +4,7 @@ title: About the CUPE Staff Retirees Association (CSRA)
 date: 2021-06-16T04:00:00.000Z
 description: About
 categories:
-  - About us
+  - About Us
 tags:
   - None
 thumbnail: /img/csra_aprs-logo.png
@@ -59,25 +59,25 @@ Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
 
 New Brunswick & P.E.I.
 Maureen Michaud
-maureen-michaud@hotmail.com
+[maureen-michaud@hotmail.com](maureen-michaud@hotmail.com)
 
 **Newfoundland and Labrador**
 Lionel Clarke
-lionelgclarke@outlook.com
+[lionelgclarke@outlook.com](lionelgclarke@outlook.com)
 
 **Quebec**
-Ronald Clouthier
-cloutier.ronald@gmail.com
+Ronald Clouthier[
+](cloutier.ronald@gmail.com)[cloutier.ronald@gmail.com](cloutier.ronald@gmail.com)
 
 **Ontario**
 
 Shalom Schachter
 
-csra@gilbertschachter@hotmail.com
+[csra@gilbertschachter@hotmail.com](csra@gilbertschachter@hotmail.com)
 
 **Manitoba**
 Carmelle Chartier
-carmellechartier@hotmail.com
+[carmellechartier@hotmail.com](carmellechartier@hotmail.com)
 
 **Saskatchewan**
 Vacant
@@ -89,4 +89,4 @@ Judy Barry
 **British Columbia**
 Susan Zander
 
-susanzander12@gmail.com
+[susanzander12@gmail.com](susanzander12@gmail.com)
