@@ -1,19 +1,22 @@
 ---
-toc: true
-slug: about
+translationKey: ''
 title: About the CUPE Staff Retirees Association (CSRA)
 date: 2021-06-16T04:00:00.000Z
-translationKey: about
-categories: []
-tags: []
-thumbnail: /img/csra_aprs-logo.png
-lead: ""
 description: About
+categories:
+  - About us
+tags:
+  - None
+thumbnail: /img/csra_aprs-logo.png
+toc: true
+slug: about
+lead: ''
 linkTitle: about
 menu:
   main:
     weight: 1
 ---
+
 ## About the CUPE Staff Retirees Association
 
 As set out in our By-Laws, the mandate of the CUPE Staff Retirees Association is to safeguard and advance the economic welfare of its members. Our By-Laws identify several objectives to help us achieve this mandate:
@@ -30,60 +33,60 @@ The CUPE Staff Retirees Association has no official status within the CUPE organ
 
 ## **EXECUTIVE BOARD**
 
-**2023 - 2025**
+**2025-2027**
 
-* Main email:\
+* Main email:
   **cuperetirees@gmail.com**
-* Mailing Address:\
-  **1375, boul. St. Laurent Blvd.\
-  Ottawa ON K1G 0Z7**
+* Mailing Address:
+  \*_1375, boul. St. Laurent Blvd.\*_
+\*\*  Ottawa ON K1G 0Z7\*\*
 
 ### **OFFICERS**
 
-***President**: Humberto da Silva*\
+**_President_**_: Humberto da Silva_
 Email: [csra.aprs.president@proton.me](mailto:csra.aprs.president@proton.me)                                                                                                                                                                              
 
-***Vice President**: Andrew Huculak*\
+**_Vice President_**_: Andrew Huculak_
 Email: [csra.aprs.vp@gmail.com](mailto:csra.aprs.vp@gmail.com)                                                                                                                                                                                     
 
-***Treasurer**: Leanne McMillan*\
+**_Treasurer_**_: Leanne McMillan_
 Email: [csra.asrctreasurer@gmail.com](mailto:csra.asrctreasurer@gmail.com)                                                                                                                                                                               
 
-***Secretary**: Bev Norman*\
+**_Secretary_**_: Bev Norman_
 Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
-
-
 
 ### **CHAPTER REPRESENTATIVES**
 
-**New Brunswick & P.E.I.**\
-Clifford Hay\
-[chayn609@rogers.com](mailto:chayn609@rogers.com)
+New Brunswick & P.E.I.
+Maureen Michaud
+maureen-michaud@hotmail.com
 
-**Newfoundland and Nova Scotia**\
-John McCracken\
-[bigjmccracken@gmail.com](mailto:bigjmccracken@gmail.com)
+**Newfoundland and Labrador**
+Lionel Clarke
+lionelgclarke@outlook.com
 
-**Quebec**\
-Francine Barrette\
-[fra.barrette@hotmail.com](mailto:fra.barrette@hotmail.com)
+**Quebec**
+Ronald Clouthier
+cloutier.ronald@gmail.com
 
 **Ontario**
 
-Barb Williams
+Shalom Schachter
 
-[bjwilliamsx2@kos.net](mailto:bjwilliamsx2@kos.net)
+csra@gilbertschachter@hotmail.com
 
-**Manitoba**\
-Maureen Morrison\
-[maureenmorrison6@gmail.com](mailto:maureenmorrison6@gmail.com)
+**Manitoba**
+Carmelle Chartier
+carmellechartier@hotmail.com
 
-**Saskatchewan**\
+**Saskatchewan**
 Vacant
 
-**Alberta**\
-Judy Barry\
+**Alberta**
+Judy Barry
 [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
-**British Columbia**\
+**British Columbia**
 Susan Zander
+
+susanzander12@gmail.com
