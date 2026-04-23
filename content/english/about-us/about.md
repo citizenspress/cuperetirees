@@ -35,11 +35,11 @@ The CUPE Staff Retirees Association has no official status within the CUPE organ
 
 **2025-2027**
 
-* Main email:
-  **cuperetirees@gmail.com**
-* Mailing Address:
-  \*_1375, boul. St. Laurent Blvd.\*_
-\*\*  Ottawa ON K1G 0Z7\*\*
+* Main email:  **cuperetirees@gmail.com**
+
+Mailing Address:    
+ 1375, boul. St. Laurent Blvd.    
+Ottawa ON K1G 0Z7
 
 ### **OFFICERS**
 
@@ -82,6 +82,7 @@ Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
 - Carmelle Chartier 	[carmellechartier@hotmail.com](mailto:carmellechartier@hotmail.com)
 
 **Saskatchewan** 
+
 - vacant 
 
 **Alberta** 
