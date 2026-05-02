@@ -44,8 +44,8 @@ b) Membership is open to any and all retired staff of the Canadian Union of Publ
 
 The mandate of the CUPE Staff Retirees Association is to safeguard and advance the economic welfare of its members.
 
-**3. OBJECTIVES  
- **  
+**3. OBJECTIVES**  
+
  To achieve its mandate, the Association shall:  
    
  a) Act as the “voice” of retirees with CUPE and the staff unions.  
@@ -62,14 +62,14 @@ The mandate of the CUPE Staff Retirees Association is to safeguard and advance t
    
  g) Encourage all eligible retirees and surviving spouses to join and support the Association.
 
-**4. STRUCTURE  
- **  
- **4.1 Executive Board  
- **  
+**4. STRUCTURE**  
+
+ **4.1 Executive Board **  
+ 
  The four (4) Table Officers and the nine (9) Chapter Representatives shall form the Executive Board of the Association.  
    
- **4.2 Officers and Executive Committee  
- **  
+ **4.2 Officers and Executive Committee**  
+ 
  a) The Table Officers of the Association shall be the President, Vice-President, Treasurer and Secretary. All Officers shall be elected by a membership vote and shall comprise the Executive Committee.  
    
  b) The quorum for an Executive Committee meeting shall be three (3) Table Officers.  
@@ -94,8 +94,8 @@ f) A special meeting of the Executive Committee may be requested by a majority o
    
  g) Should an Executive Committee member fail to answer the roll call for two (2) consecutive Executive Committee meetings without submitting good reason, his/her office shall be declared vacant and filled in accordance with Section 5 Nomination and Election of Officers and Chapter Representatives.
 
-**4.3 Duties of Table Officers  
- **  
+**4.3 Duties of Table Officers**  
+
  a) The President shall:
 
 • Uphold the Association Bylaws.  
@@ -126,8 +126,8 @@ d) The Secretary shall:
  • Prepare and distribute all correspondence to members.  
  • At the end of his/her term of office, transfer all records and files of the Association to the next Secretary.
 
-**4.4 Chapters and Zones  
- **  
+**4.4 Chapters and Zones**  
+
  a) The Association shall be comprised of Chapters and Zones to accommodate the diffuse nature of the Association membership.  
    
  b) There shall be nine (9) elected Chapter Representatives: one (1) from each province, with the exception of New Brunswick and Prince Edward Island which shall be jointly represented by one (1) Chapter Representative.  
