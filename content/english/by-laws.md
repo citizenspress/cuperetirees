@@ -20,7 +20,19 @@ menu:
 
 ## BY-LAWS
 
-(As amended May 2021)
+(As amended May 2026)
+
+Amendments to the Bylaws of the Association must be forwarded to all members within 30 days of adoption by the Executive Board. 
+
+The Table Officers and the Chapter Representatives (the Executive Board) met by ZOOM on Monday March 30, 2026.
+
+The Executive Board members unanimously passed two (2) bylaw amendments. 
+
+One protects the privacy of your personal information. 
+
+The other changes the signing authority requirements to recognize the use of electronic transfers and also adopts an Expense Policy, which is not formally part of the Bylaws. 
+
+They are found here.
 
 **1. NAME & MEMBERSHIP**
 
