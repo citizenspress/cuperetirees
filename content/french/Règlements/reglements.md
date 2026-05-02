@@ -15,7 +15,19 @@ translationKey = "by-laws"
 
 **RÈGLEMENTS**
 
-(tel qu’amendé mai 2021)
+(tel qu’amendé mai 2026)
+
+Les modifications aux règlements administrations de l’Association doivent être transmises à tous les membres dans les 30 jours suivant leur adoption par le conseil exécutif.
+
+Les administrateurs et les représentants de sections régionales (le conseil exécutif) se sont rencontrés par Zoom le lundi 30 mars 2026.
+
+Les membres du conseil exécutif ont adopté à l’unanimité deux (2) modifications aux règlements administratifs.
+
+L’une protège la confidentialité de vos informations personnelles.
+
+L’autre modifie les exigences en matière de pouvoirs de signature pour reconnaître l’utilisation des transferts électroniques et adopte également une politique de dépenses, qui ne fait pas partie officiellement des règlements administratifs.
+
+Elles se trouvent ici.
 
 **NOM ET COMPOSITION**
 
