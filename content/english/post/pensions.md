@@ -9,7 +9,6 @@ tags = []
 thumbnail = ""
 title = "Pensions"
 translationKey = "pensions"
-menu = "main"
 toc = true
 
 +++

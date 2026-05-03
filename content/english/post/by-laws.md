@@ -10,10 +10,6 @@ thumbnail: "/img/csra_aprs-logo.jpg"
 description: ''
 categories:
 - By-laws
-tags:
-- By-laws
-menu:
-  main: {}
 
 ---
 ## CUPE Staff Retirees Association
