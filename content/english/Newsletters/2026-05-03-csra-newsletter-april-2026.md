@@ -1,5 +1,5 @@
 ---
-translationKey: ''
+translationKey: 'newsletterapril2026'
 title: CSRA Newsletter April, 2026
 date: 2026-05-03T11:56:00
 description: Member newsletter for April, 2026

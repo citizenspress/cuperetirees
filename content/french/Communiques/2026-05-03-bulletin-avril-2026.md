@@ -1,5 +1,5 @@
 ---
-translationKey: ''
+translationKey: 'newsletterapril2026'
 title: Bulletin Avril, 2026
 date: 2026-05-03T12:04:00
 description: Bulletin APRS Avril, 2026
