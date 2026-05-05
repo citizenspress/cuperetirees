@@ -11,7 +11,7 @@ thumbnail: /img/csra_aprs-logo.jpg
 ---
 
 **CSRA APRS NEWSLETTER APRIL 2026**
- 
+
 **NEW PENSION SERVICE PROVIDER NORTHERN TRUST**
 
  We met with the CUPE Employees Pension Plan (CEPP) **Administrator** in person on November 20,  2025 and again (virtually) on March 26, 2026. The agenda for both meetings consisted primarily of issues arising from the transition of service providers from RBC to **Northern Trust**. RBC had been the service provider for more than 20 years with no formal assessment of the service provided. The Joint Board of Trustees undertook to explore other options for a custodian of the pension plan funds and landed on Northern Trust.
@@ -99,7 +99,7 @@ Judy Barry                          [daleandjudybarry@gm
  **British Columbia**
 
 Susan Zander                     [susanzander12@gmail.com](susanzander12@gmail.com)
- 
+
 You may communicate directly with your Executive and Chapter representatives, and they in turn can respond directly to you. By doing this you are providing implied consent for such communications.
 
  If there is anything with which you or a surviving spouse requires assistance with please contact your Chapter Rep directly. They will then work with the Executive and our counterparts at CUPE, CEPP, Greenshield, or CUPE EAP to ensure you receive the assistance required.
