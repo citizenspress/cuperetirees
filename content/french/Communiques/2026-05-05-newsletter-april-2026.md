@@ -1,6 +1,6 @@
 ---
 translationKey: Newsletter - April 2026
-title: Communiqué de Avril, 2026
+title: Communiqué  - Avril, 2026
 date: 2026-05-05T16:06:00
 description: Newsletter - April 2026
 categories:
