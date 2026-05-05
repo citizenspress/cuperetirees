@@ -4,7 +4,7 @@ title: Communiqué  - Avril, 2026
 date: 2026-05-05T16:06:00
 description: Newsletter - April 2026
 categories:
-  - Newsletters
+  - Communiqués
 tags:
   - Newsletters
 thumbnail: /img/csra_aprs-logo.jpg
