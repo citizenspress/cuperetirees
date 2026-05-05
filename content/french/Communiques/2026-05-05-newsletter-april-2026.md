@@ -1,6 +1,6 @@
 ---
 translationKey: Newsletter - April 2026
-title: Newsletter - April 2026
+title: Communiqué de Avril, 2026
 date: 2026-05-05T16:06:00
 description: Newsletter - April 2026
 categories:
@@ -12,7 +12,7 @@ thumbnail: /img/csra_aprs-logo.jpg
 
 **NOUVEAU FOURNISSEUR DE SERVICES DE PENSION NORTHERN TRUST**
 
- Le 20 novembre 2025 nous avons rencontré, en personne,  **l’administrateur** du Régime de retraite des employés du SCFP (RRES), puis à nouveau le 26 mars 2026 en réunion virtuelle.  L’ordre du jour de ces deux réunions portait principalement sur les questions liées au changement de fournisseur de services, passant de RBC à **Northern Trust.**  RBC a été le fournisseur de services pendant plus de 20 ans sans qu’aucune évaluation formelle de ses services fournis n’ait été réalisée.  Le Conseil de fiducie mixte s’est engagé à explorer d’autres options pour les fonds du régime de retraite et a retenu Northern Trust.
+ Le 20 novembre 2025 nous avons rencontré, en personne,  **l’administrateur** du Régime de retraite des employés du SCFP (RRES), puis à nouveau le 26 mars 2026 en réunion virtuelle.  L’ordre du jour de ces deux réunions portait principalement sur les questions liées au changement de fournisseur de services, passant de RBC à \*\*Northern Trust.\*\*  RBC a été le fournisseur de services pendant plus de 20 ans sans qu’aucune évaluation formelle de ses services fournis n’ait été réalisée.  Le Conseil de fiducie mixte s’est engagé à explorer d’autres options pour les fonds du régime de retraite et a retenu Northern Trust.
 
  Comme on pouvait s’y attendre, des problèmes sont survenus lors du transfert depuis un fournisseur de services de longue date.  Pour nous, bénéficiaires du RRES, deux problèmes sont survenus :
 
@@ -81,7 +81,7 @@ Les noms et adresses courriels de vos représentants des sections régionales so
  **Alberta**                                            Judy Barry                                                   [daleandjudybarry@gmail.com](mailto:daleandjudybarry@gmail.com)
 
  **Colombie-Britannique**                 Susan Zander                                 [susanzander12@gmail.com](mailto:susanzander12@gmail.com)
- 
+
 Vous pouvez communiquer directement  avec les membres de votre comité exécutif et vos représentants de sections régionales, qui pourront à leur tour vous répondre directement.  Ce faisant, vous donnez votre consentement implicite à ces communications.
 
  Si vous ou un conjoint survivant avez besoin d’aide pour quelque chose, veuillez contacter directement votre représentant de sections régionales.  Il travaillera alors avec le comité exécutif et nos homologues du SCFP, RRES, Greenshield ou du PAE du SCFP pour s’assurer que vous recevez l’aide nécessaire.
@@ -139,5 +139,5 @@ Solidarité,
 Humberto (Il/Lui/Camarade)
 
 Président de la CSRA/APRS
- 
+
 [csra.aprs.president@proton.me](mailto:csra.aprs.president@proton.me)                 SITE WEB :      [https://cuperetirees.ca/](https://cuperetirees.ca/)
