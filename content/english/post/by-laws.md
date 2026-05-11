@@ -29,7 +29,48 @@ One protects the privacy of your personal information.
 
 The other changes the signing authority requirements to recognize the use of electronic transfers and also adopts an Expense Policy, which is not formally part of the Bylaws. 
 
-They are found here.
+They are as follows:
+
+Section 4.3(d) of the Association Bylaws which set out the duties of the Secretary (one of the four (4) Table Officers) now reads as follows (in red and underlined) : 
+
+d) The Secretary shall:
+
+• Record all proceedings of Executive Committee and Executive Board meetings.
+• Maintain copies of all Association documents and correspondence.
+• Maintain a current list of Association members.
+
+• Provide a list of first and last names of Association members to the applicable Chapter Representatives
+• Prepare and distribute all correspondence to members including  correspondence recieved from and prepared by Chapter Representatives to Association members in their area and correspondence from the Executive Committee (Table Officers) and correspondence from the Elections Committee 
+• At the end of his/her term of office, transfer all records and files of the Association to the next Secretary.
+
+Section 4.4(d) of the Association Bylaws which refers to the Chapter Representative responsibilities (among others) now reads as follows in red and underlined): 
+
+d) Each Chapter Representative shall :
+
+• Determine and adopt a suitable structure to facilitate communication with and participation of retirees residing in their geographical jurisdiction, but the Secretary of the Association shall retain control of the personal information of the Association membership. 
+• Be responsible for transmitting relevant information and news to the Association Officers.
+• Organize activities to engage retirees and surviving partners in the works of the Association, CUPE, its staff unions, and the broader labour movement.
+
+Section 4.3(c) of the Association Bylaws now reads as follows: 
+4.3 Duties of Table Officers 
+
+c) The Treasurer shall:
+
+• Receive all revenues and dues.
+
+• Record all payments and deposit incoming monies promptly.
+
+• Sign all cheques along with a member in good standing residing within the same vicinity as the Treasurer.
+
+• provide for payment of expenditures approved by the Expense Policy attached to these Bylaws and approved by the Chapter Reps. 
+
+• Record all financial transactions of the Association in accordance with good accounting practices.
+
+• Prepare annual budgets and regular financial statements.
+
+• At the end of his/her term of office, transfer all monies, records and files of the Association to the next Treasurer.
+
+CURRENT:
 
 **1. NAME & MEMBERSHIP**
 
