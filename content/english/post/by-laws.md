@@ -1,18 +1,18 @@
 ---
+translationKey: bylaws
 title: By-Laws
 date: 2022-01-15
+description: Bylaws with Recent Amendments
+categories:
+  - By-laws
+thumbnail: /img/csra_aprs-logo.jpg
+draft: false
 authorbox: false
 sidebar: true
 slug: by-laws
-translationKey: bylaws
 lead: ''
-thumbnail: "/img/csra_aprs-logo.jpg"
-description: ''
-draft: false
-categories:
-  - By-laws
-
 ---
+
 ## CUPE Staff Retirees Association
 
 ## BY-LAWS
@@ -31,44 +31,50 @@ The other changes the signing authority requirements to recognize the use of ele
 
 They are as follows:
 
-Section 4.3(d) of the Association Bylaws which set out the duties of the Secretary (one of the four (4) Table Officers) now reads as follows (in red and underlined) : 
+Section 4.3(d) of the Association Bylaws which set out the duties of the Secretary (one of the four (4) Table Officers) now reads as follows (in red and underlined) : 
 
-d) The Secretary shall:
+ _d) The Secretary shall:_
 
-• Record all proceedings of Executive Committee and Executive Board meetings.
-• Maintain copies of all Association documents and correspondence.
-• Maintain a current list of Association members.
+_• Record all proceedings of Executive Committee and Executive Board meetings._
+_• Maintain copies of all Association documents and correspondence._
+_• Maintain a current list of Association members._
 
-• Provide a list of first and last names of Association members to the applicable Chapter Representatives
-• Prepare and distribute all correspondence to members including  correspondence recieved from and prepared by Chapter Representatives to Association members in their area and correspondence from the Executive Committee (Table Officers) and correspondence from the Elections Committee 
-• At the end of his/her term of office, transfer all records and files of the Association to the next Secretary.
+_• Provide a list of first and last names of Association members to the applicable Chapter Representatives_
+_• Prepare and distribute all correspondence to members including  correspondence recieved from and prepared by Chapter Representatives to Association members in their area and correspondence from the Executive Committee (Table Officers) and correspondence from the Elections Committee_ 
+_• At the end of his/her term of office, transfer all records and files of the Association to the next Secretary._
 
-Section 4.4(d) of the Association Bylaws which refers to the Chapter Representative responsibilities (among others) now reads as follows in red and underlined): 
+Section 4.4(d) of the Association Bylaws which refers to the Chapter Representative responsibilities (among others) now reads as follows in red and underlined): 
 
-d) Each Chapter Representative shall :
+_d) Each Chapter Representative shall :_
 
-• Determine and adopt a suitable structure to facilitate communication with and participation of retirees residing in their geographical jurisdiction, but the Secretary of the Association shall retain control of the personal information of the Association membership. 
-• Be responsible for transmitting relevant information and news to the Association Officers.
-• Organize activities to engage retirees and surviving partners in the works of the Association, CUPE, its staff unions, and the broader labour movement.
+_• Determine and adopt a suitable structure to **facilitate communication** with and participation of retirees residing in their geographical jurisdiction, but the Secretary of the Association shall retain control of the personal information of the Association membership._ 
+_• Be responsible **for transmitting relevant information and news** to the Association Officers._
+_• Organize activities to engage retirees and surviving partners in the works of the Association, CUPE, its staff unions, and the broader labour movement._
 
-Section 4.3(c) of the Association Bylaws now reads as follows: 
-4.3 Duties of Table Officers 
+Section 4.3(c) of the Association Bylaws now reads as follows: 
 
-c) The Treasurer shall:
 
-• Receive all revenues and dues.
+_4.3 Duties of Table Officers_ 
 
-• Record all payments and deposit incoming monies promptly.
+_c) The **Treasurer** shall:_
 
-• Sign all cheques along with a member in good standing residing within the same vicinity as the Treasurer.
+_• Receive all revenues and dues._
 
-• provide for payment of expenditures approved by the Expense Policy attached to these Bylaws and approved by the Chapter Reps. 
+_• Record all payments and deposit incoming monies promptly._
 
-• Record all financial transactions of the Association in accordance with good accounting practices.
 
-• Prepare annual budgets and regular financial statements.
+_• **~~Sign all cheques along with a member in good standing residing within the same vicinity as the Treasurer.~~**_
 
-• At the end of his/her term of office, transfer all monies, records and files of the Association to the next Treasurer.
+_• provide for payment of expenditures approved by the Expense Policy attached to these Bylaws and approved by the Chapter Reps._ 
+
+
+_• Record all financial transactions of the Association in accordance with good accounting practices._
+
+
+_• Prepare annual budgets and regular financial statements._
+
+
+_• At the end of his/her term of office, transfer all monies, records and files of the Association to the next Treasurer._
 
 CURRENT:
 
@@ -85,109 +91,109 @@ The mandate of the CUPE Staff Retirees Association is to safeguard and advance t
 **3. OBJECTIVES**  
 
  To achieve its mandate, the Association shall:  
-   
+
  a) Act as the “voice” of retirees with CUPE and the staff unions.  
-   
+
  b) Respect the roles and responsibilities of the CUPE staff unions and work with them to promote the needs and interests of CUPE retirees and surviving partners.  
-   
+
  c) Maintain active retiree representatives on the Joint Board of Trustees of the CUPE Employee Pension Plan and the Employee Assistance Plan Committee.  
-   
+
  d) Implement active communication tools and networks, ensuring all member communications are issued in both official languages.  
-   
+
  e) Develop a dependable financial base and comprehensive administrative protocols to enable the Association to function as a cost efficient agent, using virtual and electronic tools wherever possible.  
-   
+
  f) Facilitate cooperative engagement and information sharing among the members.  
-   
+
  g) Encourage all eligible retirees and surviving spouses to join and support the Association.
 
 **4. STRUCTURE**  
 
- **4.1 Executive Board **  
- 
+ \*\*4.1 Executive Board \*\*  
+
  The four (4) Table Officers and the nine (9) Chapter Representatives shall form the Executive Board of the Association.  
-   
+
  **4.2 Officers and Executive Committee**  
- 
+
  a) The Table Officers of the Association shall be the President, Vice-President, Treasurer and Secretary. All Officers shall be elected by a membership vote and shall comprise the Executive Committee.  
-   
+
  b) The quorum for an Executive Committee meeting shall be three (3) Table Officers.  
-   
+
  c) The Executive Committee shall be responsible for the proper and effective functioning of the Association, recognizing that a major characteristic of the Association is an ability to meet its objectives without incurring unnecessary expenses.  
-   
+
  d) The Executive Committee shall meet as required, but no less than one time per calendar year. In keeping with the virtual nature of the Association, electronic meetings will be the preferred method of communication.
 
 e) The order of business at regular Executive Committee meetings shall be:
 
-a. Roll call of Officers  
- b. Adoption of previous minutes  
- c. Treasurer’s Report  
- d. Communication and bills  
- e. President and other reports  
- f. Unfinished business  
- g. New business  
- h. Good of the Association  
+a. Roll call of Officers
+ b. Adoption of previous minutes
+ c. Treasurer’s Report
+ d. Communication and bills
+ e. President and other reports
+ f. Unfinished business
+ g. New business
+ h. Good of the Association
  i. Adjournment
 
 f) A special meeting of the Executive Committee may be requested by a majority of the Executive Board, or by no fewer than fifteen (15) members of the Association, in writing to the Executive Committee. A Special Meeting shall require majority support of the membership, obtained following communication by the Executive Committee to all members, giving the reason for the Special Meeting. The Special Meeting shall focus on the matter for which notice was given to the membership.  
-   
+
  g) Should an Executive Committee member fail to answer the roll call for two (2) consecutive Executive Committee meetings without submitting good reason, his/her office shall be declared vacant and filled in accordance with Section 5 Nomination and Election of Officers and Chapter Representatives.
 
 **4.3 Duties of Table Officers**  
 
  a) The President shall:
 
-• Uphold the Association Bylaws.  
- • Preside at all Executive Committee and Executive Board meetings.  
- • Be the major spokesperson for the Association.  
- • Ensure all funds are used responsibly and prudently in keeping with the Association Bylaws.  
+• Uphold the Association Bylaws.
+ • Preside at all Executive Committee and Executive Board meetings.
+ • Be the major spokesperson for the Association.
+ • Ensure all funds are used responsibly and prudently in keeping with the Association Bylaws.
  • Serve as the representative responsible for surviving spouse issues.
 
 b) The Vice-President shall:
 
-• Perform the duties of the President if he/she is absent or incapacitated.  
+• Perform the duties of the President if he/she is absent or incapacitated.
  • Perform such other duties as assigned by the President.
 
 c) The Treasurer shall:
 
-• Receive all revenues and dues.  
- • Record all payments and deposit incoming monies promptly.  
- • Sign all cheques along with a member in good standing residing within the same vicinity as the Treasurer.  
- • Record all financial transactions of the Association in accordance with good accounting practices.  
- • Prepare annual budgets and regular financial statements.  
+• Receive all revenues and dues.
+ • Record all payments and deposit incoming monies promptly.
+ • Sign all cheques along with a member in good standing residing within the same vicinity as the Treasurer.
+ • Record all financial transactions of the Association in accordance with good accounting practices.
+ • Prepare annual budgets and regular financial statements.
  • At the end of his/her term of office, transfer all monies, records and files of the Association to the next Treasurer.
 
 d) The Secretary shall:
 
-• Record all proceedings of Executive Committee and Executive Board meetings.  
- • Maintain copies of all Association documents and correspondence.  
- • Maintain a current list of Association members.  
- • Prepare and distribute all correspondence to members.  
+• Record all proceedings of Executive Committee and Executive Board meetings.
+ • Maintain copies of all Association documents and correspondence.
+ • Maintain a current list of Association members.
+ • Prepare and distribute all correspondence to members.
  • At the end of his/her term of office, transfer all records and files of the Association to the next Secretary.
 
 **4.4 Chapters and Zones**  
 
  a) The Association shall be comprised of Chapters and Zones to accommodate the diffuse nature of the Association membership.  
-   
+
  b) There shall be nine (9) elected Chapter Representatives: one (1) from each province, with the exception of New Brunswick and Prince Edward Island which shall be jointly represented by one (1) Chapter Representative.  
-   
+
  c) The nine (9) Chapter Representatives and the four (4) Officers shall comprise the Executive Board of the Association.  
-   
+
  d) Each Chapter Representative shall :
 
-• Determine and adopt a suitable structure to facilitate communication with and participation of retirees residing in their geographical jurisdiction.  
- • Be responsible for transmitting relevant information and news to the Association Officers.  
+• Determine and adopt a suitable structure to facilitate communication with and participation of retirees residing in their geographical jurisdiction.
+ • Be responsible for transmitting relevant information and news to the Association Officers.
  • Organize activities to engage retirees and surviving partners in the works of the Association, CUPE, its staff unions, and the broader labour movement.
 
 e) Each Chapter may be divided into more localized Zones to help fulfill its responsibilities. The Zones may be city or regionally based, depending on the circumstances and wishes of the Chapter members.  
-   
+
  f) The Chapters and Zones shall be self-directed and shall abide by the Objectives of the Association as stipulated in these Bylaws.
 
 **5. FEES AND REPORTING STRUCTURE**
 
 a) The fiscal year of the Association shall be January 1 to December 31.  
-   
+
  b) A copy of the Association’s annual budget and end-of-year financial statement shall be sent to all members annually.  
-   
+
  c) An annual membership fee of $25.00 shall be deducted from the January pension cheque of each member by CUPE’s representative and submitted to the Association Treasurer.
 
 **6. NOMINATION AND ELECTION OF OFFICERS AND CHAPTER REPRESENTATIVES**
@@ -219,7 +225,7 @@ All meetings of the Association shall be conducted in accordance with the basic 
 **8. AMENDMENT OF BYLAWS**
 
 a) Amendments to these Bylaws may be introduced by the Executive Committee for the purpose of facilitating and advancing the Objectives of the Association.  
-   
+
  b) Bylaw amendments introduced by the Executive Committee must be adopted by a two-thirds majority vote of the Executive Board before being implemented.  
-   
+
  c) Bylaw amendments shall be forwarded to all Association members within 30 days of being adopted by the Executive Board.
