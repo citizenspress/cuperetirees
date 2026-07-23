@@ -1,5 +1,5 @@
 ---
-translationKey: ''
+translationKey: none
 title: About the CUPE Staff Retirees Association (CSRA)
 date: 2021-06-16T04:00:00.000Z
 description: About
@@ -63,7 +63,7 @@ Email: [csra.aprs.secretary@gmail.com](mailto:csra.aprs.secretary@gmail.com)
 
 **Nova Scotia**
 
-- Larry Power 		[powerl@hotmail.ca](mailto:powerl@hotmail.ca)
+- Larry Power 		larrypower634@gmail.com
 
 **Prince Edward Island and New Brunswick**
 
